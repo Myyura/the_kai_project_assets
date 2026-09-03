@@ -1,26 +1,42 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 560" role="img" aria-labelledby="title desc">
-<title id="title">Dual feasible region</title><desc id="desc">The region between y2=y1-5/3 and y2=(5y1-4)/7 extends right from its sole vertex (23/6,13/6).</desc>
-<defs><marker id="axis" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto"><path d="M0,0 L6,3 L0,6" fill="none" stroke="#334155" stroke-width="1.5"/></marker><marker id="ray" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto"><path d="M0,0 L6,3 L0,6" fill="none" stroke="#2563eb" stroke-width="1.4"/></marker></defs>
-<rect width="760" height="560" fill="white"/>
-<g font-family="Georgia,serif" font-size="20" fill="#0f172a">
-<path d="M188,68 V500" stroke="#e2e8f0" stroke-width="1"/><text x="188" y="526" text-anchor="middle" font-size="16">2</text>
-<path d="M312,68 V500" stroke="#e2e8f0" stroke-width="1"/><text x="312" y="526" text-anchor="middle" font-size="16">4</text>
-<path d="M436,68 V500" stroke="#e2e8f0" stroke-width="1"/><text x="436" y="526" text-anchor="middle" font-size="16">6</text>
-<path d="M560,68 V500" stroke="#e2e8f0" stroke-width="1"/><text x="560" y="526" text-anchor="middle" font-size="16">8</text>
-<path d="M684,68 V500" stroke="#e2e8f0" stroke-width="1"/><text x="684" y="526" text-anchor="middle" font-size="16">10</text>
-<path d="M64,404 H684" stroke="#e2e8f0" stroke-width="1"/><text x="50" y="409" text-anchor="end" font-size="16">2</text>
-<path d="M64,308 H684" stroke="#e2e8f0" stroke-width="1"/><text x="50" y="313" text-anchor="end" font-size="16">4</text>
-<path d="M64,212 H684" stroke="#e2e8f0" stroke-width="1"/><text x="50" y="217" text-anchor="end" font-size="16">6</text>
-<path d="M64,116 H684" stroke="#e2e8f0" stroke-width="1"/><text x="50" y="121" text-anchor="end" font-size="16">8</text>
-<polygon points="301.6666666666667,396.0 684,100.0 684,184.57142857142856" fill="#dbeafe"/>
-<path d="M64,500 H714 M64,500 V52" fill="none" stroke="#334155" stroke-width="1.7" marker-end="url(#axis)"/>
-<text x="725" y="506">y₁</text><text x="47" y="36">y₂</text><text x="46" y="524" font-size="16">0</text>
-<path d="M301.6666666666667,396.0 L684,100.0" fill="none" stroke="#2563eb" stroke-width="2.6" marker-end="url(#ray)"/>
-<path d="M301.6666666666667,396.0 L684,184.57142857142856" fill="none" stroke="#2563eb" stroke-width="2.6" marker-end="url(#ray)"/>
-<circle cx="301.6666666666667" cy="396.0" r="5" fill="#1e3a8a"/>
-<path d="M297.6666666666667,402.0 l-24,31 h-88" fill="none" stroke="#475569"/>
-<text x="184.66666666666669" y="455.0" font-size="19">(23/6, 13/6)</text>
-<text x="498" y="91">y₂ = y₁ − 5/3</text>
-<text x="450" y="340">y₂ = (5y₁ − 4)/7</text>
-<text x="625" y="184" text-anchor="middle" font-size="16" fill="#1e40af">Feasible</text><text x="625" y="204" text-anchor="middle" font-size="16" fill="#1e40af">region</text>
-</g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 560" width="760" height="560" role="img" aria-labelledby="title description">
+<title id="title">Dual feasible region</title>
+<desc id="description">Display clipped at y₁ = 10; the boundary rays continue to infinity.</desc>
+<rect width="100%" height="100%" fill="white"/>
+<g font-family="Arial, sans-serif" font-size="16" fill="#172b4d">
+<defs><marker id="dual-arrow-axis" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto"><path d="M0,0 L6,3 L0,6" fill="none" stroke="#334155" stroke-width="1.5"/></marker><marker id="dual-arrow-ray" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto"><path d="M0,0 L6,3 L0,6" fill="none" stroke="#2563eb" stroke-width="1.4"/></marker></defs>
+<line id="decoration-1" x1="188" y1="68" x2="188" y2="500" stroke="#e2e8f0" stroke-width="1"/>
+<text id="dual-x-tick-2" x="188" y="526" text-anchor="middle" font-size="16" fill="#26354a">2</text>
+<line id="decoration-2" x1="312" y1="68" x2="312" y2="500" stroke="#e2e8f0" stroke-width="1"/>
+<text id="dual-x-tick-4" x="312" y="526" text-anchor="middle" font-size="16" fill="#26354a">4</text>
+<line id="decoration-3" x1="436" y1="68" x2="436" y2="500" stroke="#e2e8f0" stroke-width="1"/>
+<text id="dual-x-tick-6" x="436" y="526" text-anchor="middle" font-size="16" fill="#26354a">6</text>
+<line id="decoration-4" x1="560" y1="68" x2="560" y2="500" stroke="#e2e8f0" stroke-width="1"/>
+<text id="dual-x-tick-8" x="560" y="526" text-anchor="middle" font-size="16" fill="#26354a">8</text>
+<line id="decoration-5" x1="684" y1="68" x2="684" y2="500" stroke="#e2e8f0" stroke-width="1"/>
+<text id="dual-x-tick-10" x="684" y="526" text-anchor="middle" font-size="16" fill="#26354a">10</text>
+<line id="decoration-6" x1="64" y1="404" x2="684" y2="404" stroke="#e2e8f0" stroke-width="1"/>
+<text id="dual-y-tick-2" x="50" y="409" text-anchor="end" font-size="16" fill="#26354a">2</text>
+<line id="decoration-7" x1="64" y1="308" x2="684" y2="308" stroke="#e2e8f0" stroke-width="1"/>
+<text id="dual-y-tick-4" x="50" y="313" text-anchor="end" font-size="16" fill="#26354a">4</text>
+<line id="decoration-8" x1="64" y1="212" x2="684" y2="212" stroke="#e2e8f0" stroke-width="1"/>
+<text id="dual-y-tick-6" x="50" y="217" text-anchor="end" font-size="16" fill="#26354a">6</text>
+<line id="decoration-9" x1="64" y1="116" x2="684" y2="116" stroke="#e2e8f0" stroke-width="1"/>
+<text id="dual-y-tick-8" x="50" y="121" text-anchor="end" font-size="16" fill="#26354a">8</text>
+<polygon id="dual-region" points="684,100 684,184.571429 301.666667,396 684,100" fill="#dbeafe" stroke="none" stroke-width="2"/>
+<line id="dual-axis-x" x1="64" y1="500" x2="714" y2="500" stroke="#334155" stroke-width="1.7" marker-end="url(#dual-arrow-axis)"/>
+<line id="dual-axis-y" x1="64" y1="500" x2="64" y2="52" stroke="#334155" stroke-width="1.7" marker-end="url(#dual-arrow-axis)"/>
+<text id="dual-axis-label-x" x="725" y="506" text-anchor="middle" font-size="20" fill="#26354a">y₁</text>
+<text id="dual-axis-label-y" x="47" y="36" text-anchor="middle" font-size="20" fill="#26354a">y₂</text>
+<text id="decoration-10" x="46" y="524" text-anchor="middle" font-size="16" fill="#26354a">0</text>
+<polyline id="dual-ray-0" points="301.666667,396 684,100" fill="none" stroke="#2563eb" stroke-width="2.6" marker-end="url(#dual-arrow-ray)"/>
+<text id="dual-ray-label-0" x="498" y="91" text-anchor="start" font-size="20" fill="#26354a">y₂ = y₁ − 5/3</text>
+<polyline id="dual-ray-1" points="301.666667,396 684,184.571429" fill="none" stroke="#2563eb" stroke-width="2.6" marker-end="url(#dual-arrow-ray)"/>
+<text id="dual-ray-label-1" x="450" y="340" text-anchor="start" font-size="20" fill="#26354a">y₂ = (5y₁ − 4)/7</text>
+<circle id="dual-vertex" cx="301.666667" cy="396" r="5" fill="#1e3a8a" stroke="none" stroke-width="2"/>
+<polyline id="dual-vertex-leader" points="297.666667,402 273.666667,433 185.666667,433" fill="none" stroke="#475569" stroke-width="1"/>
+<text id="dual-vertex-label" x="184.666667" y="455" text-anchor="start" font-size="19" fill="#26354a">(23/6, 13/6)</text>
+<text id="decoration-11" x="625" y="184" text-anchor="middle" font-size="16" fill="#26354a">Feasible</text>
+<text id="decoration-12" x="625" y="204" text-anchor="middle" font-size="16" fill="#26354a">region</text>
+<text id="caption" x="380" y="551" text-anchor="middle" font-size="12" fill="#26354a">Display clipped at y₁ = 10; the boundary rays continue to infinity.</text>
+</g>
+</svg>

@@ -1,26 +1,28 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 890 430" role="img" aria-label="Domains in the xy and uv planes">
-<title>Domains in the xy and uv planes</title>
-<rect width="890" height="430" fill="white"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 890 430" width="890" height="430" role="img" aria-labelledby="title description">
+<title id="title">Domains in the xy and uv planes</title>
+<desc id="description">u = x+y, v = x-y; |Jacobian| = 1/2</desc>
+<rect width="100%" height="100%" fill="white"/>
 <g font-family="Arial, sans-serif" font-size="16" fill="#172b4d">
-<text x="225" y="29" text-anchor="middle" font-size="16">D in the xy-plane</text>
-<text x="665" y="29" text-anchor="middle" font-size="16">D′ in the uv-plane</text>
-<polygon points="82.50,267.50 177.50,362.50 367.50,172.50 272.50,77.50 82.50,267.50" fill="#dbeafe" stroke="#2563eb" stroke-width="2"/>
-<line x1="27" y1="220" x2="421" y2="220" stroke="#64748b" stroke-width="1.5" stroke-dasharray=""/>
-<line x1="225" y1="410" x2="225" y2="45" stroke="#64748b" stroke-width="1.5" stroke-dasharray=""/>
-<text x="414" y="243" text-anchor="middle" font-size="16">x</text>
-<text x="240" y="53" text-anchor="middle" font-size="16">y</text>
-<text x="72.5" y="293.5" text-anchor="middle" font-size="14">(-3/2,-1/2)</text>
-<text x="177.5" y="392.5" text-anchor="middle" font-size="14">(-1/2,-3/2)</text>
-<text x="367.5" y="158.5" text-anchor="middle" font-size="14">(3/2,1/2)</text>
-<text x="272.5" y="61.5" text-anchor="middle" font-size="14">(1/2,3/2)</text>
-<polygon points="515.00,330.00 815.00,330.00 815.00,110.00 515.00,110.00 515.00,330.00" fill="#dcfce7" stroke="#16a34a" stroke-width="2"/>
-<line x1="462" y1="220" x2="869" y2="220" stroke="#64748b" stroke-width="1.5" stroke-dasharray=""/>
-<line x1="665" y1="365" x2="665" y2="58" stroke="#64748b" stroke-width="1.5" stroke-dasharray=""/>
-<text x="867" y="245" text-anchor="middle" font-size="16">u</text>
-<text x="682" y="60" text-anchor="middle" font-size="16">v</text>
-<text x="515" y="244" text-anchor="middle" font-size="16">-2</text>
-<text x="815" y="244" text-anchor="middle" font-size="16">2</text>
-<text x="650" y="335" text-anchor="end" font-size="16">-1</text>
-<text x="650" y="115" text-anchor="end" font-size="16">1</text>
-<text x="665" y="405" text-anchor="middle" font-size="16">u = x+y, v = x-y; |Jacobian| = 1/2</text>
-</g></svg>
+<text id="decoration-1" x="225" y="29" text-anchor="middle">D in the xy-plane</text>
+<text id="decoration-2" x="665" y="29" text-anchor="middle">D′ in the uv-plane</text>
+<polygon id="domain-xy" points="82.5,267.5 177.5,362.5 367.5,172.5 272.5,77.5 82.5,267.5" fill="#dbeafe" stroke="#2563eb" stroke-width="2"/>
+<line id="decoration-3" x1="27" y1="220" x2="421" y2="220" stroke="#64748b" stroke-width="1.5"/>
+<line id="decoration-4" x1="225" y1="410" x2="225" y2="45" stroke="#64748b" stroke-width="1.5"/>
+<text id="decoration-5" x="414" y="243" text-anchor="middle">x</text>
+<text id="decoration-6" x="240" y="53" text-anchor="middle">y</text>
+<text id="domain-xy-label-0" x="72.5" y="293.5" text-anchor="middle" font-size="14">(-3/2,-1/2)</text>
+<text id="domain-xy-label-1" x="177.5" y="392.5" text-anchor="middle" font-size="14">(-1/2,-3/2)</text>
+<text id="domain-xy-label-2" x="367.5" y="158.5" text-anchor="middle" font-size="14">(3/2,1/2)</text>
+<text id="domain-xy-label-3" x="272.5" y="61.5" text-anchor="middle" font-size="14">(1/2,3/2)</text>
+<polygon id="domain-uv" points="515,330 815,330 815,110 515,110 515,330" fill="#dcfce7" stroke="#16a34a" stroke-width="2"/>
+<line id="decoration-7" x1="462" y1="220" x2="869" y2="220" stroke="#64748b" stroke-width="1.5"/>
+<line id="decoration-8" x1="665" y1="365" x2="665" y2="58" stroke="#64748b" stroke-width="1.5"/>
+<text id="decoration-9" x="867" y="245" text-anchor="middle">u</text>
+<text id="decoration-10" x="682" y="60" text-anchor="middle">v</text>
+<text id="domain-u-label-0" x="515" y="244" text-anchor="middle">-2</text>
+<text id="domain-u-label-1" x="815" y="244" text-anchor="middle">2</text>
+<text id="domain-v-label-0" x="650" y="335" text-anchor="end">-1</text>
+<text id="domain-v-label-1" x="650" y="115" text-anchor="end">1</text>
+<text id="caption" x="650" y="405" text-anchor="middle" font-size="14">u = x+y, v = x-y; |Jacobian| = 1/2</text>
+</g>
+</svg>

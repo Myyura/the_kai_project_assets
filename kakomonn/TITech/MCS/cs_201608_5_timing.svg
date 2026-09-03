@@ -1,35 +1,39 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="874" height="215" viewBox="0 0 874 215" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 874 215" width="874" height="215" role="img" aria-labelledby="title description">
 <title id="title">Clock and serial transmitter output</title>
-<desc id="desc">Output immediately after edges C1 through C12: 0,1,1,0,0,1,0,0,1,1,0,0. Parallel loads at C2 and C6.</desc>
-<rect width="874" height="215" rx="10" fill="white"/>
-<path d="M105 43 V182" stroke="#cbd5e1" stroke-dasharray="3 4"/>
-<text x="136.0" y="25" text-anchor="middle" font-size="14" fill="#0f172a">C1</text>
-<path d="M167 43 V182" stroke="#cbd5e1" stroke-dasharray="3 4"/>
-<text x="198.0" y="25" text-anchor="middle" font-size="14" fill="#0f172a">C2</text>
-<path d="M229 43 V182" stroke="#cbd5e1" stroke-dasharray="3 4"/>
-<text x="260.0" y="25" text-anchor="middle" font-size="14" fill="#0f172a">C3</text>
-<path d="M291 43 V182" stroke="#cbd5e1" stroke-dasharray="3 4"/>
-<text x="322.0" y="25" text-anchor="middle" font-size="14" fill="#0f172a">C4</text>
-<path d="M353 43 V182" stroke="#cbd5e1" stroke-dasharray="3 4"/>
-<text x="384.0" y="25" text-anchor="middle" font-size="14" fill="#0f172a">C5</text>
-<path d="M415 43 V182" stroke="#cbd5e1" stroke-dasharray="3 4"/>
-<text x="446.0" y="25" text-anchor="middle" font-size="14" fill="#0f172a">C6</text>
-<path d="M477 43 V182" stroke="#cbd5e1" stroke-dasharray="3 4"/>
-<text x="508.0" y="25" text-anchor="middle" font-size="14" fill="#0f172a">C7</text>
-<path d="M539 43 V182" stroke="#cbd5e1" stroke-dasharray="3 4"/>
-<text x="570.0" y="25" text-anchor="middle" font-size="14" fill="#0f172a">C8</text>
-<path d="M601 43 V182" stroke="#cbd5e1" stroke-dasharray="3 4"/>
-<text x="632.0" y="25" text-anchor="middle" font-size="14" fill="#0f172a">C9</text>
-<path d="M663 43 V182" stroke="#cbd5e1" stroke-dasharray="3 4"/>
-<text x="694.0" y="25" text-anchor="middle" font-size="14" fill="#0f172a">C10</text>
-<path d="M725 43 V182" stroke="#cbd5e1" stroke-dasharray="3 4"/>
-<text x="756.0" y="25" text-anchor="middle" font-size="14" fill="#0f172a">C11</text>
-<path d="M787 43 V182" stroke="#cbd5e1" stroke-dasharray="3 4"/>
-<text x="818.0" y="25" text-anchor="middle" font-size="14" fill="#0f172a">C12</text>
-<path d="M849 43 V182" stroke="#cbd5e1" stroke-dasharray="3 4"/>
-<polyline points="90,86 105.0,86 105.0,58 136.0,58 136.0,58 136.0,86 167.0,86 167.0,86 167.0,58 198.0,58 198.0,58 198.0,86 229.0,86 229.0,86 229.0,58 260.0,58 260.0,58 260.0,86 291.0,86 291.0,86 291.0,58 322.0,58 322.0,58 322.0,86 353.0,86 353.0,86 353.0,58 384.0,58 384.0,58 384.0,86 415.0,86 415.0,86 415.0,58 446.0,58 446.0,58 446.0,86 477.0,86 477.0,86 477.0,58 508.0,58 508.0,58 508.0,86 539.0,86 539.0,86 539.0,58 570.0,58 570.0,58 570.0,86 601.0,86 601.0,86 601.0,58 632.0,58 632.0,58 632.0,86 663.0,86 663.0,86 663.0,58 694.0,58 694.0,58 694.0,86 725.0,86 725.0,86 725.0,58 756.0,58 756.0,58 756.0,86 787.0,86 787.0,86 787.0,58 818.0,58 818.0,58 818.0,86 849.0,86" fill="none" stroke="#334155" stroke-width="2.4"/>
-<polyline points="90,155 105,155 105,155 167,155 167,155 167,127 229,127 229,127 229,127 291,127 291,127 291,155 353,155 353,155 353,155 415,155 415,155 415,127 477,127 477,127 477,155 539,155 539,155 539,155 601,155 601,155 601,127 663,127 663,127 663,127 725,127 725,127 725,155 787,155 787,155 787,155 849,155" fill="none" stroke="#0f766e" stroke-width="2.4"/>
-<g font-size="16" fill="#0f172a"><text x="20" y="79">clock</text><text x="48" y="148">z</text></g>
-<text x="167" y="203" fill="#0f766e" font-size="13" text-anchor="middle">load</text>
-<text x="415" y="203" fill="#0f766e" font-size="13" text-anchor="middle">load</text>
+<desc id="description">C1–C12: rising-edge updates; initial registers = 0.</desc>
+<rect width="100%" height="100%" fill="white"/>
+<g font-family="Arial, sans-serif" font-size="16" fill="#172b4d">
+<line id="timing-edge-1" x1="105" y1="43" x2="105" y2="182" stroke="#cbd5e1" stroke-width="1.5" stroke-dasharray="3 4"/>
+<text id="timing-cycle-1" x="136" y="25" text-anchor="middle" font-size="14" fill="#26354a">C1</text>
+<line id="timing-edge-2" x1="167" y1="43" x2="167" y2="182" stroke="#cbd5e1" stroke-width="1.5" stroke-dasharray="3 4"/>
+<text id="timing-cycle-2" x="198" y="25" text-anchor="middle" font-size="14" fill="#26354a">C2</text>
+<line id="timing-edge-3" x1="229" y1="43" x2="229" y2="182" stroke="#cbd5e1" stroke-width="1.5" stroke-dasharray="3 4"/>
+<text id="timing-cycle-3" x="260" y="25" text-anchor="middle" font-size="14" fill="#26354a">C3</text>
+<line id="timing-edge-4" x1="291" y1="43" x2="291" y2="182" stroke="#cbd5e1" stroke-width="1.5" stroke-dasharray="3 4"/>
+<text id="timing-cycle-4" x="322" y="25" text-anchor="middle" font-size="14" fill="#26354a">C4</text>
+<line id="timing-edge-5" x1="353" y1="43" x2="353" y2="182" stroke="#cbd5e1" stroke-width="1.5" stroke-dasharray="3 4"/>
+<text id="timing-cycle-5" x="384" y="25" text-anchor="middle" font-size="14" fill="#26354a">C5</text>
+<line id="timing-edge-6" x1="415" y1="43" x2="415" y2="182" stroke="#cbd5e1" stroke-width="1.5" stroke-dasharray="3 4"/>
+<text id="timing-cycle-6" x="446" y="25" text-anchor="middle" font-size="14" fill="#26354a">C6</text>
+<line id="timing-edge-7" x1="477" y1="43" x2="477" y2="182" stroke="#cbd5e1" stroke-width="1.5" stroke-dasharray="3 4"/>
+<text id="timing-cycle-7" x="508" y="25" text-anchor="middle" font-size="14" fill="#26354a">C7</text>
+<line id="timing-edge-8" x1="539" y1="43" x2="539" y2="182" stroke="#cbd5e1" stroke-width="1.5" stroke-dasharray="3 4"/>
+<text id="timing-cycle-8" x="570" y="25" text-anchor="middle" font-size="14" fill="#26354a">C8</text>
+<line id="timing-edge-9" x1="601" y1="43" x2="601" y2="182" stroke="#cbd5e1" stroke-width="1.5" stroke-dasharray="3 4"/>
+<text id="timing-cycle-9" x="632" y="25" text-anchor="middle" font-size="14" fill="#26354a">C9</text>
+<line id="timing-edge-10" x1="663" y1="43" x2="663" y2="182" stroke="#cbd5e1" stroke-width="1.5" stroke-dasharray="3 4"/>
+<text id="timing-cycle-10" x="694" y="25" text-anchor="middle" font-size="14" fill="#26354a">C10</text>
+<line id="timing-edge-11" x1="725" y1="43" x2="725" y2="182" stroke="#cbd5e1" stroke-width="1.5" stroke-dasharray="3 4"/>
+<text id="timing-cycle-11" x="756" y="25" text-anchor="middle" font-size="14" fill="#26354a">C11</text>
+<line id="timing-edge-12" x1="787" y1="43" x2="787" y2="182" stroke="#cbd5e1" stroke-width="1.5" stroke-dasharray="3 4"/>
+<text id="timing-cycle-12" x="818" y="25" text-anchor="middle" font-size="14" fill="#26354a">C12</text>
+<line id="timing-edge-13" x1="849" y1="43" x2="849" y2="182" stroke="#cbd5e1" stroke-width="1.5" stroke-dasharray="3 4"/>
+<polyline id="timing-clock" points="90,86 105,86 105,58 136,58 136,58 136,86 167,86 167,86 167,58 198,58 198,58 198,86 229,86 229,86 229,58 260,58 260,58 260,86 291,86 291,86 291,58 322,58 322,58 322,86 353,86 353,86 353,58 384,58 384,58 384,86 415,86 415,86 415,58 446,58 446,58 446,86 477,86 477,86 477,58 508,58 508,58 508,86 539,86 539,86 539,58 570,58 570,58 570,86 601,86 601,86 601,58 632,58 632,58 632,86 663,86 663,86 663,58 694,58 694,58 694,86 725,86 725,86 725,58 756,58 756,58 756,86 787,86 787,86 787,58 818,58 818,58 818,86 849,86" fill="none" stroke="#334155" stroke-width="2.4"/>
+<polyline id="timing-output" points="90,155 105,155 105,155 167,155 167,155 167,127 229,127 229,127 229,127 291,127 291,127 291,155 353,155 353,155 353,155 415,155 415,155 415,127 477,127 477,127 477,155 539,155 539,155 539,155 601,155 601,155 601,127 663,127 663,127 663,127 725,127 725,127 725,155 787,155 787,155 787,155 849,155" fill="none" stroke="#0f766e" stroke-width="2.4"/>
+<text id="timing-clock-label" x="20" y="79" text-anchor="start" font-size="16" fill="#26354a">clock</text>
+<text id="timing-output-label" x="48" y="148" text-anchor="start" font-size="16" fill="#26354a">z</text>
+<text id="load-marker-2" x="167" y="203" text-anchor="middle" fill="#0f766e" font-size="13">load</text>
+<text id="load-marker-6" x="415" y="203" text-anchor="middle" fill="#0f766e" font-size="13">load</text>
+<text id="caption" x="854" y="203" text-anchor="end" font-size="11" fill="#26354a">C1–C12: rising-edge updates; initial registers = 0.</text>
+</g>
 </svg>

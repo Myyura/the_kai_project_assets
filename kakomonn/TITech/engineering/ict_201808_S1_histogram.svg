@@ -1,37 +1,40 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 690 370" role="img" aria-label="Sample frequency histogram">
-<title>Sample frequency histogram</title>
-<rect width="690" height="370" fill="white"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 690 370" width="690" height="370" role="img" aria-labelledby="title description">
+<title id="title">Sample frequency histogram</title>
+<desc id="description">n = 20; bin width = 0.1; intervals include left endpoints</desc>
+<rect width="100%" height="100%" fill="white"/>
 <g font-family="Arial, sans-serif" font-size="16" fill="#172b4d">
-<line x1="70" y1="300" x2="645" y2="300" stroke="#64748b" stroke-width="1.5" stroke-dasharray=""/>
-<line x1="90" y1="315" x2="90" y2="40" stroke="#64748b" stroke-width="1.5" stroke-dasharray=""/>
-<line x1="90" y1="300" x2="615" y2="300" stroke="#e2e8f0" stroke-width="1.5" stroke-dasharray=""/>
-<text x="76" y="305" text-anchor="end" font-size="16">0</text>
-<line x1="90" y1="250" x2="615" y2="250" stroke="#e2e8f0" stroke-width="1.5" stroke-dasharray=""/>
-<text x="76" y="255" text-anchor="end" font-size="16">2</text>
-<line x1="90" y1="200" x2="615" y2="200" stroke="#e2e8f0" stroke-width="1.5" stroke-dasharray=""/>
-<text x="76" y="205" text-anchor="end" font-size="16">4</text>
-<line x1="90" y1="150" x2="615" y2="150" stroke="#e2e8f0" stroke-width="1.5" stroke-dasharray=""/>
-<text x="76" y="155" text-anchor="end" font-size="16">6</text>
-<line x1="90" y1="100" x2="615" y2="100" stroke="#e2e8f0" stroke-width="1.5" stroke-dasharray=""/>
-<text x="76" y="105" text-anchor="end" font-size="16">8</text>
-<line x1="90" y1="50" x2="615" y2="50" stroke="#e2e8f0" stroke-width="1.5" stroke-dasharray=""/>
-<text x="76" y="55" text-anchor="end" font-size="16">10</text>
-<polygon points="90.00,300.00 195.00,300.00 195.00,250.00 90.00,250.00 90.00,300.00" fill="#bfdbfe" stroke="#2563eb" stroke-width="1.5"/>
-<text x="142.5" y="240" text-anchor="middle" font-size="16">2</text>
-<polygon points="195.00,300.00 300.00,300.00 300.00,75.00 195.00,75.00 195.00,300.00" fill="#bfdbfe" stroke="#2563eb" stroke-width="1.5"/>
-<text x="247.5" y="65" text-anchor="middle" font-size="16">9</text>
-<polygon points="300.00,300.00 405.00,300.00 405.00,150.00 300.00,150.00 300.00,300.00" fill="#bfdbfe" stroke="#2563eb" stroke-width="1.5"/>
-<text x="352.5" y="140" text-anchor="middle" font-size="16">6</text>
-<polygon points="405.00,300.00 510.00,300.00 510.00,250.00 405.00,250.00 405.00,300.00" fill="#bfdbfe" stroke="#2563eb" stroke-width="1.5"/>
-<text x="457.5000000000001" y="240" text-anchor="middle" font-size="16">2</text>
-<polygon points="510.00,300.00 615.00,300.00 615.00,275.00 510.00,275.00 510.00,300.00" fill="#bfdbfe" stroke="#2563eb" stroke-width="1.5"/>
-<text x="562.5" y="265" text-anchor="middle" font-size="16">1</text>
-<text x="90.0" y="326" text-anchor="middle" font-size="16">0.3</text>
-<text x="195.00000000000003" y="326" text-anchor="middle" font-size="16">0.4</text>
-<text x="300.0" y="326" text-anchor="middle" font-size="16">0.5</text>
-<text x="405.0000000000001" y="326" text-anchor="middle" font-size="16">0.6</text>
-<text x="510.0" y="326" text-anchor="middle" font-size="16">0.7</text>
-<text x="615.0" y="326" text-anchor="middle" font-size="16">0.8</text>
-<text x="40" y="28" text-anchor="middle" font-size="16">Count</text>
-<text x="627" y="350" text-anchor="middle" font-size="16">Value</text>
-</g></svg>
+<line id="decoration-1" x1="70" y1="300" x2="645" y2="300" stroke="#64748b" stroke-width="1.5"/>
+<line id="decoration-2" x1="90" y1="315" x2="90" y2="40" stroke="#64748b" stroke-width="1.5"/>
+<line id="decoration-3" x1="90" y1="300" x2="615" y2="300" stroke="#e2e8f0" stroke-width="1.5"/>
+<text id="decoration-4" x="76" y="305" text-anchor="end">0</text>
+<line id="decoration-5" x1="90" y1="250" x2="615" y2="250" stroke="#e2e8f0" stroke-width="1.5"/>
+<text id="decoration-6" x="76" y="255" text-anchor="end">2</text>
+<line id="decoration-7" x1="90" y1="200" x2="615" y2="200" stroke="#e2e8f0" stroke-width="1.5"/>
+<text id="decoration-8" x="76" y="205" text-anchor="end">4</text>
+<line id="decoration-9" x1="90" y1="150" x2="615" y2="150" stroke="#e2e8f0" stroke-width="1.5"/>
+<text id="decoration-10" x="76" y="155" text-anchor="end">6</text>
+<line id="decoration-11" x1="90" y1="100" x2="615" y2="100" stroke="#e2e8f0" stroke-width="1.5"/>
+<text id="decoration-12" x="76" y="105" text-anchor="end">8</text>
+<line id="decoration-13" x1="90" y1="50" x2="615" y2="50" stroke="#e2e8f0" stroke-width="1.5"/>
+<text id="decoration-14" x="76" y="55" text-anchor="end">10</text>
+<polygon id="hist-bar-0" points="90,300 195,300 195,250 90,250 90,300" fill="#bfdbfe" stroke="#2563eb" stroke-width="1.5"/>
+<text id="hist-count-0" x="142.5" y="240" text-anchor="middle">2</text>
+<polygon id="hist-bar-1" points="195,300 300,300 300,75 195,75 195,300" fill="#bfdbfe" stroke="#2563eb" stroke-width="1.5"/>
+<text id="hist-count-1" x="247.5" y="65" text-anchor="middle">9</text>
+<polygon id="hist-bar-2" points="300,300 405,300 405,150 300,150 300,300" fill="#bfdbfe" stroke="#2563eb" stroke-width="1.5"/>
+<text id="hist-count-2" x="352.5" y="140" text-anchor="middle">6</text>
+<polygon id="hist-bar-3" points="405,300 510,300 510,250 405,250 405,300" fill="#bfdbfe" stroke="#2563eb" stroke-width="1.5"/>
+<text id="hist-count-3" x="457.5" y="240" text-anchor="middle">2</text>
+<polygon id="hist-bar-4" points="510,300 615,300 615,275 510,275 510,300" fill="#bfdbfe" stroke="#2563eb" stroke-width="1.5"/>
+<text id="hist-count-4" x="562.5" y="265" text-anchor="middle">1</text>
+<text id="hist-edge-0" x="90" y="326" text-anchor="middle">0.3</text>
+<text id="hist-edge-1" x="195" y="326" text-anchor="middle">0.4</text>
+<text id="hist-edge-2" x="300" y="326" text-anchor="middle">0.5</text>
+<text id="hist-edge-3" x="405" y="326" text-anchor="middle">0.6</text>
+<text id="hist-edge-4" x="510" y="326" text-anchor="middle">0.7</text>
+<text id="hist-edge-5" x="615" y="326" text-anchor="middle">0.8</text>
+<text id="decoration-15" x="40" y="28" text-anchor="middle">Count</text>
+<text id="decoration-16" x="627" y="350" text-anchor="middle">Value</text>
+<text id="caption" x="345" y="366" text-anchor="middle" font-size="12">n = 20; bin width = 0.1; intervals include left endpoints</text>
+</g>
+</svg>
