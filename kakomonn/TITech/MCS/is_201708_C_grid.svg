@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="590" height="355" viewBox="0 0 590 355" role="img" aria-labelledby="title desc">
+<title id="title">Lattice paths from (0,0) to (n,m)</title>
+<desc id="desc">Example n=13, m=7. Dark circles mark (a,a), a=1 through 7. Only rightward and upward unit moves are allowed.</desc>
+<rect width="590" height="355" rx="12" fill="#ffffff"/>
+<g stroke="#94a3b8" stroke-width="1">
+<path d="M 66 38 V 276"/>
+<path d="M 100 38 V 276"/>
+<path d="M 134 38 V 276"/>
+<path d="M 168 38 V 276"/>
+<path d="M 202 38 V 276"/>
+<path d="M 236 38 V 276"/>
+<path d="M 270 38 V 276"/>
+<path d="M 304 38 V 276"/>
+<path d="M 338 38 V 276"/>
+<path d="M 372 38 V 276"/>
+<path d="M 406 38 V 276"/>
+<path d="M 440 38 V 276"/>
+<path d="M 474 38 V 276"/>
+<path d="M 508 38 V 276"/>
+<path d="M 66 38 H 508"/>
+<path d="M 66 72 H 508"/>
+<path d="M 66 106 H 508"/>
+<path d="M 66 140 H 508"/>
+<path d="M 66 174 H 508"/>
+<path d="M 66 208 H 508"/>
+<path d="M 66 242 H 508"/>
+<path d="M 66 276 H 508"/>
+</g>
+<circle cx="100" cy="242" r="4.6" fill="#0f766e"/>
+<circle cx="134" cy="208" r="4.6" fill="#0f766e"/>
+<circle cx="168" cy="174" r="4.6" fill="#0f766e"/>
+<circle cx="202" cy="140" r="4.6" fill="#0f766e"/>
+<circle cx="236" cy="106" r="4.6" fill="#0f766e"/>
+<circle cx="270" cy="72" r="4.6" fill="#0f766e"/>
+<circle cx="304" cy="38" r="4.6" fill="#0f766e"/>
+<g fill="#0f172a" font-family="Arial, sans-serif" font-size="16" text-anchor="middle">
+<text x="66" y="300">(0,0)</text>
+<text x="64" y="24">(0,m)</text>
+<text x="508" y="300">(n,0)</text>
+<text x="508" y="24">(n,m)</text>
+<text x="304" y="24">(m,m)</text>
+<text x="295" y="337">n = 13, m = 7</text>
+</g>
+</svg>

@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 690 370" role="img" aria-label="Sample frequency histogram">
+<title>Sample frequency histogram</title>
+<rect width="690" height="370" fill="white"/>
+<g font-family="Arial, sans-serif" font-size="16" fill="#172b4d">
+<line x1="70" y1="300" x2="645" y2="300" stroke="#64748b" stroke-width="1.5" stroke-dasharray=""/>
+<line x1="90" y1="315" x2="90" y2="40" stroke="#64748b" stroke-width="1.5" stroke-dasharray=""/>
+<line x1="90" y1="300" x2="615" y2="300" stroke="#e2e8f0" stroke-width="1.5" stroke-dasharray=""/>
+<text x="76" y="305" text-anchor="end" font-size="16">0</text>
+<line x1="90" y1="250" x2="615" y2="250" stroke="#e2e8f0" stroke-width="1.5" stroke-dasharray=""/>
+<text x="76" y="255" text-anchor="end" font-size="16">2</text>
+<line x1="90" y1="200" x2="615" y2="200" stroke="#e2e8f0" stroke-width="1.5" stroke-dasharray=""/>
+<text x="76" y="205" text-anchor="end" font-size="16">4</text>
+<line x1="90" y1="150" x2="615" y2="150" stroke="#e2e8f0" stroke-width="1.5" stroke-dasharray=""/>
+<text x="76" y="155" text-anchor="end" font-size="16">6</text>
+<line x1="90" y1="100" x2="615" y2="100" stroke="#e2e8f0" stroke-width="1.5" stroke-dasharray=""/>
+<text x="76" y="105" text-anchor="end" font-size="16">8</text>
+<line x1="90" y1="50" x2="615" y2="50" stroke="#e2e8f0" stroke-width="1.5" stroke-dasharray=""/>
+<text x="76" y="55" text-anchor="end" font-size="16">10</text>
+<polygon points="90.00,300.00 195.00,300.00 195.00,250.00 90.00,250.00 90.00,300.00" fill="#bfdbfe" stroke="#2563eb" stroke-width="1.5"/>
+<text x="142.5" y="240" text-anchor="middle" font-size="16">2</text>
+<polygon points="195.00,300.00 300.00,300.00 300.00,75.00 195.00,75.00 195.00,300.00" fill="#bfdbfe" stroke="#2563eb" stroke-width="1.5"/>
+<text x="247.5" y="65" text-anchor="middle" font-size="16">9</text>
+<polygon points="300.00,300.00 405.00,300.00 405.00,150.00 300.00,150.00 300.00,300.00" fill="#bfdbfe" stroke="#2563eb" stroke-width="1.5"/>
+<text x="352.5" y="140" text-anchor="middle" font-size="16">6</text>
+<polygon points="405.00,300.00 510.00,300.00 510.00,250.00 405.00,250.00 405.00,300.00" fill="#bfdbfe" stroke="#2563eb" stroke-width="1.5"/>
+<text x="457.5000000000001" y="240" text-anchor="middle" font-size="16">2</text>
+<polygon points="510.00,300.00 615.00,300.00 615.00,275.00 510.00,275.00 510.00,300.00" fill="#bfdbfe" stroke="#2563eb" stroke-width="1.5"/>
+<text x="562.5" y="265" text-anchor="middle" font-size="16">1</text>
+<text x="90.0" y="326" text-anchor="middle" font-size="16">0.3</text>
+<text x="195.00000000000003" y="326" text-anchor="middle" font-size="16">0.4</text>
+<text x="300.0" y="326" text-anchor="middle" font-size="16">0.5</text>
+<text x="405.0000000000001" y="326" text-anchor="middle" font-size="16">0.6</text>
+<text x="510.0" y="326" text-anchor="middle" font-size="16">0.7</text>
+<text x="615.0" y="326" text-anchor="middle" font-size="16">0.8</text>
+<text x="40" y="28" text-anchor="middle" font-size="16">Count</text>
+<text x="627" y="350" text-anchor="middle" font-size="16">Value</text>
+</g></svg>

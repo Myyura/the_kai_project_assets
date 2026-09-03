@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 310" role="img" aria-label="CDF of T">
+<title>CDF of T</title>
+<rect width="680" height="310" fill="white"/>
+<g font-family="Arial, sans-serif" font-size="16" fill="#172b4d">
+<line x1="75" y1="250" x2="615" y2="250" stroke="#64748b" stroke-width="1.5" stroke-dasharray=""/>
+<line x1="340" y1="275" x2="340" y2="25" stroke="#64748b" stroke-width="1.5" stroke-dasharray=""/>
+<text x="626" y="255" text-anchor="middle" font-size="16">t</text>
+<text x="365" y="25" text-anchor="middle" font-size="16">F_T(t)</text>
+<line x1="75" y1="117.0" x2="610" y2="117.0" stroke="#64748b" stroke-width="1.5" stroke-dasharray="4 5"/>
+<text x="63" y="122.0" text-anchor="end" font-size="16">0.7</text>
+<line x1="75" y1="60" x2="610" y2="60" stroke="#64748b" stroke-width="1.5" stroke-dasharray="4 5"/>
+<text x="63" y="65" text-anchor="end" font-size="16">1</text>
+<text x="220" y="277" text-anchor="middle" font-size="16">-1</text>
+<text x="460" y="277" text-anchor="middle" font-size="16">1</text>
+<line x1="100" y1="250" x2="220" y2="250" stroke="#2563eb" stroke-width="3" stroke-dasharray=""/>
+<line x1="220" y1="117.0" x2="460" y2="117.0" stroke="#2563eb" stroke-width="3" stroke-dasharray=""/>
+<line x1="460" y1="60" x2="580" y2="60" stroke="#2563eb" stroke-width="3" stroke-dasharray=""/>
+<circle cx="220" cy="250" r="5" fill="white" stroke="#2563eb" stroke-width="2"/>
+<circle cx="460" cy="117.0" r="5" fill="white" stroke="#2563eb" stroke-width="2"/>
+<circle cx="220" cy="117.0" r="5" fill="#2563eb" stroke="#2563eb" stroke-width="2"/>
+<circle cx="460" cy="60" r="5" fill="#2563eb" stroke="#2563eb" stroke-width="2"/>
+</g></svg>

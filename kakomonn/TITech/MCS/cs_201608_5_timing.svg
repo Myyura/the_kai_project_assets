@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="874" height="215" viewBox="0 0 874 215" role="img" aria-labelledby="title desc">
+<title id="title">Clock and serial transmitter output</title>
+<desc id="desc">Output immediately after edges C1 through C12: 0,1,1,0,0,1,0,0,1,1,0,0. Parallel loads at C2 and C6.</desc>
+<rect width="874" height="215" rx="10" fill="white"/>
+<path d="M105 43 V182" stroke="#cbd5e1" stroke-dasharray="3 4"/>
+<text x="136.0" y="25" text-anchor="middle" font-size="14" fill="#0f172a">C1</text>
+<path d="M167 43 V182" stroke="#cbd5e1" stroke-dasharray="3 4"/>
+<text x="198.0" y="25" text-anchor="middle" font-size="14" fill="#0f172a">C2</text>
+<path d="M229 43 V182" stroke="#cbd5e1" stroke-dasharray="3 4"/>
+<text x="260.0" y="25" text-anchor="middle" font-size="14" fill="#0f172a">C3</text>
+<path d="M291 43 V182" stroke="#cbd5e1" stroke-dasharray="3 4"/>
+<text x="322.0" y="25" text-anchor="middle" font-size="14" fill="#0f172a">C4</text>
+<path d="M353 43 V182" stroke="#cbd5e1" stroke-dasharray="3 4"/>
+<text x="384.0" y="25" text-anchor="middle" font-size="14" fill="#0f172a">C5</text>
+<path d="M415 43 V182" stroke="#cbd5e1" stroke-dasharray="3 4"/>
+<text x="446.0" y="25" text-anchor="middle" font-size="14" fill="#0f172a">C6</text>
+<path d="M477 43 V182" stroke="#cbd5e1" stroke-dasharray="3 4"/>
+<text x="508.0" y="25" text-anchor="middle" font-size="14" fill="#0f172a">C7</text>
+<path d="M539 43 V182" stroke="#cbd5e1" stroke-dasharray="3 4"/>
+<text x="570.0" y="25" text-anchor="middle" font-size="14" fill="#0f172a">C8</text>
+<path d="M601 43 V182" stroke="#cbd5e1" stroke-dasharray="3 4"/>
+<text x="632.0" y="25" text-anchor="middle" font-size="14" fill="#0f172a">C9</text>
+<path d="M663 43 V182" stroke="#cbd5e1" stroke-dasharray="3 4"/>
+<text x="694.0" y="25" text-anchor="middle" font-size="14" fill="#0f172a">C10</text>
+<path d="M725 43 V182" stroke="#cbd5e1" stroke-dasharray="3 4"/>
+<text x="756.0" y="25" text-anchor="middle" font-size="14" fill="#0f172a">C11</text>
+<path d="M787 43 V182" stroke="#cbd5e1" stroke-dasharray="3 4"/>
+<text x="818.0" y="25" text-anchor="middle" font-size="14" fill="#0f172a">C12</text>
+<path d="M849 43 V182" stroke="#cbd5e1" stroke-dasharray="3 4"/>
+<polyline points="90,86 105.0,86 105.0,58 136.0,58 136.0,58 136.0,86 167.0,86 167.0,86 167.0,58 198.0,58 198.0,58 198.0,86 229.0,86 229.0,86 229.0,58 260.0,58 260.0,58 260.0,86 291.0,86 291.0,86 291.0,58 322.0,58 322.0,58 322.0,86 353.0,86 353.0,86 353.0,58 384.0,58 384.0,58 384.0,86 415.0,86 415.0,86 415.0,58 446.0,58 446.0,58 446.0,86 477.0,86 477.0,86 477.0,58 508.0,58 508.0,58 508.0,86 539.0,86 539.0,86 539.0,58 570.0,58 570.0,58 570.0,86 601.0,86 601.0,86 601.0,58 632.0,58 632.0,58 632.0,86 663.0,86 663.0,86 663.0,58 694.0,58 694.0,58 694.0,86 725.0,86 725.0,86 725.0,58 756.0,58 756.0,58 756.0,86 787.0,86 787.0,86 787.0,58 818.0,58 818.0,58 818.0,86 849.0,86" fill="none" stroke="#334155" stroke-width="2.4"/>
+<polyline points="90,155 105,155 105,155 167,155 167,155 167,127 229,127 229,127 229,127 291,127 291,127 291,155 353,155 353,155 353,155 415,155 415,155 415,127 477,127 477,127 477,155 539,155 539,155 539,155 601,155 601,155 601,127 663,127 663,127 663,127 725,127 725,127 725,155 787,155 787,155 787,155 849,155" fill="none" stroke="#0f766e" stroke-width="2.4"/>
+<g font-size="16" fill="#0f172a"><text x="20" y="79">clock</text><text x="48" y="148">z</text></g>
+<text x="167" y="203" fill="#0f766e" font-size="13" text-anchor="middle">load</text>
+<text x="415" y="203" fill="#0f766e" font-size="13" text-anchor="middle">load</text>
+</svg>
