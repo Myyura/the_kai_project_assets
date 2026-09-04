@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 565" width="720" height="565" role="img" aria-labelledby="title description">
+<title id="title">Convolution of two rectangular pulses and its derivative</title>
+<desc id="description">Horizontal coordinates are in units of tau. The derivative is undefined at -tau, 0, tau.</desc>
+<rect width="100%" height="100%" fill="white"/>
+<g font-family="Arial, sans-serif" font-size="16" fill="#172b4d">
+<line id="decoration-1" x1="59" y1="225" x2="661" y2="225" stroke="#172b4d" stroke-width="1.5"/>
+<line id="decoration-2" x1="360" y1="238.5" x2="360" y2="63" stroke="#172b4d" stroke-width="1.5"/>
+<text id="decoration-3" x="673" y="230" text-anchor="middle">t</text>
+<text id="decoration-4" x="360" y="51" text-anchor="middle">f₂(t)</text>
+<polyline id="convolution" points="80.5,225 145,225 360,90 575,225 639.5,225" fill="none" stroke="#2563eb" stroke-width="2"/>
+<line id="decoration-5" x1="145" y1="221" x2="145" y2="229" stroke="#64748b" stroke-width="1.5"/>
+<text id="decoration-6" x="145" y="247" text-anchor="middle">−τ</text>
+<line id="decoration-7" x1="360" y1="221" x2="360" y2="229" stroke="#64748b" stroke-width="1.5"/>
+<text id="decoration-8" x="372" y="247" text-anchor="middle">0</text>
+<line id="decoration-9" x1="575" y1="221" x2="575" y2="229" stroke="#64748b" stroke-width="1.5"/>
+<text id="decoration-10" x="575" y="247" text-anchor="middle">τ</text>
+<text id="decoration-11" x="315" y="92" text-anchor="middle">E²τ</text>
+<line id="decoration-12" x1="59" y1="425" x2="661" y2="425" stroke="#172b4d" stroke-width="1.5"/>
+<line id="decoration-13" x1="360" y1="525" x2="360" y2="325" stroke="#172b4d" stroke-width="1.5"/>
+<text id="decoration-14" x="673" y="430" text-anchor="middle">t</text>
+<text id="decoration-15" x="360" y="313" text-anchor="middle">g(t)</text>
+<line id="decoration-16" x1="80.5" y1="425" x2="145" y2="425" stroke="#2563eb" stroke-width="2.5"/>
+<circle id="decoration-17" cx="145" cy="425" r="4" fill="white" stroke="#2563eb" stroke-width="2"/>
+<line id="decoration-18" x1="145" y1="345" x2="360" y2="345" stroke="#2563eb" stroke-width="2.5"/>
+<circle id="decoration-19" cx="145" cy="345" r="4" fill="white" stroke="#2563eb" stroke-width="2"/>
+<circle id="decoration-20" cx="360" cy="345" r="4" fill="white" stroke="#2563eb" stroke-width="2"/>
+<line id="decoration-21" x1="360" y1="505" x2="575" y2="505" stroke="#2563eb" stroke-width="2.5"/>
+<circle id="decoration-22" cx="360" cy="505" r="4" fill="white" stroke="#2563eb" stroke-width="2"/>
+<circle id="decoration-23" cx="575" cy="505" r="4" fill="white" stroke="#2563eb" stroke-width="2"/>
+<line id="decoration-24" x1="575" y1="425" x2="639.5" y2="425" stroke="#2563eb" stroke-width="2.5"/>
+<circle id="decoration-25" cx="575" cy="425" r="4" fill="white" stroke="#2563eb" stroke-width="2"/>
+<line id="decoration-26" x1="145" y1="421" x2="145" y2="429" stroke="#64748b" stroke-width="1.5"/>
+<text id="decoration-27" x="145" y="448" text-anchor="middle">−τ</text>
+<line id="decoration-28" x1="360" y1="421" x2="360" y2="429" stroke="#64748b" stroke-width="1.5"/>
+<text id="decoration-29" x="372" y="448" text-anchor="middle">0</text>
+<line id="decoration-30" x1="575" y1="421" x2="575" y2="429" stroke="#64748b" stroke-width="1.5"/>
+<text id="decoration-31" x="575" y="448" text-anchor="middle">τ</text>
+<text id="decoration-32" x="330" y="335" text-anchor="middle">E²</text>
+<text id="decoration-33" x="328" y="497" text-anchor="middle">−E²</text>
+</g>
+</svg>
