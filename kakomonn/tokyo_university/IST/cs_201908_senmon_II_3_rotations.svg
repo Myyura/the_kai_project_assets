@@ -1,0 +1,100 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="720" viewBox="0 0 1080 720" role="img" aria-label="Six views of the four-cube object with fixed x y z axes">
+<rect width="1080" height="720" fill="white"/>
+<defs><marker id="arrow" markerWidth="7" markerHeight="7" refX="6" refY="3.5" orient="auto"><path d="M0,0 L7,3.5 L0,7" fill="none" stroke="#475569"/></marker></defs>
+<text x="180" y="34" text-anchor="middle" font-family="Arial,sans-serif" font-size="18" fill="#0f172a">Figure 1: canonical</text>
+<line x1="192.16" y1="210.36" x2="74.95" y2="295.25" stroke="#94a3b8" stroke-width="1.1" stroke-dasharray="4 4" marker-end="url(#arrow)"/>
+<text x="68.9" y="299.6" font-family="Arial,sans-serif" font-size="17" font-style="italic" fill="#334155">x</text>
+<line x1="27.10" y1="238.00" x2="290.30" y2="238.00" stroke="#94a3b8" stroke-width="1.1" stroke-dasharray="4 4" marker-end="url(#arrow)"/>
+<text x="300.6" y="238.0" font-family="Arial,sans-serif" font-size="17" font-style="italic" fill="#334155">y</text>
+<line x1="154.00" y1="303.80" x2="154.00" y2="101.70" stroke="#94a3b8" stroke-width="1.1" stroke-dasharray="4 4" marker-end="url(#arrow)"/>
+<text x="154.0" y="91.4" font-family="Arial,sans-serif" font-size="17" font-style="italic" fill="#334155">z</text>
+<polygon points="116.87,271.37 163.87,271.37 163.87,224.37 116.87,224.37" fill="#b7d2e8" stroke="#1e3a5f" stroke-width="1.4" stroke-linejoin="round"/>
+<polygon points="144.13,157.63 116.87,177.37 163.87,177.37 191.13,157.63" fill="#e1eff9" stroke="#1e3a5f" stroke-width="1.4" stroke-linejoin="round"/>
+<polygon points="191.13,204.63 163.87,224.37 163.87,177.37 191.13,157.63" fill="#8cb7d7" stroke="#1e3a5f" stroke-width="1.4" stroke-linejoin="round"/>
+<polygon points="191.13,204.63 163.87,224.37 210.87,224.37 238.13,204.63" fill="#e1eff9" stroke="#1e3a5f" stroke-width="1.4" stroke-linejoin="round"/>
+<polygon points="116.87,224.37 163.87,224.37 163.87,177.37 116.87,177.37" fill="#b7d2e8" stroke="#1e3a5f" stroke-width="1.4" stroke-linejoin="round"/>
+<polygon points="163.87,271.37 210.87,271.37 210.87,224.37 163.87,224.37" fill="#b7d2e8" stroke="#1e3a5f" stroke-width="1.4" stroke-linejoin="round"/>
+<polygon points="238.13,204.63 210.87,224.37 257.87,224.37 285.13,204.63" fill="#e1eff9" stroke="#1e3a5f" stroke-width="1.4" stroke-linejoin="round"/>
+<polygon points="285.13,251.63 257.87,271.37 257.87,224.37 285.13,204.63" fill="#8cb7d7" stroke="#1e3a5f" stroke-width="1.4" stroke-linejoin="round"/>
+<polygon points="210.87,271.37 257.87,271.37 257.87,224.37 210.87,224.37" fill="#b7d2e8" stroke="#1e3a5f" stroke-width="1.4" stroke-linejoin="round"/>
+<text x="180" y="337" text-anchor="middle" font-family="Arial,sans-serif" font-size="14" fill="#64748b">Same viewpoint and unit scale</text>
+<text x="540" y="34" text-anchor="middle" font-family="Arial,sans-serif" font-size="18" fill="#0f172a">Figure 2 / (1): Rz(pi)</text>
+<line x1="552.16" y1="210.36" x2="434.95" y2="295.25" stroke="#94a3b8" stroke-width="1.1" stroke-dasharray="4 4" marker-end="url(#arrow)"/>
+<text x="428.9" y="299.6" font-family="Arial,sans-serif" font-size="17" font-style="italic" fill="#334155">x</text>
+<line x1="387.10" y1="238.00" x2="650.30" y2="238.00" stroke="#94a3b8" stroke-width="1.1" stroke-dasharray="4 4" marker-end="url(#arrow)"/>
+<text x="660.6" y="238.0" font-family="Arial,sans-serif" font-size="17" font-style="italic" fill="#334155">y</text>
+<line x1="514.00" y1="303.80" x2="514.00" y2="101.70" stroke="#94a3b8" stroke-width="1.1" stroke-dasharray="4 4" marker-end="url(#arrow)"/>
+<text x="514.0" y="91.4" font-family="Arial,sans-serif" font-size="17" font-style="italic" fill="#334155">z</text>
+<polygon points="410.13,204.63 382.87,224.37 429.87,224.37 457.13,204.63" fill="#e1eff9" stroke="#1e3a5f" stroke-width="1.4" stroke-linejoin="round"/>
+<polygon points="382.87,271.37 429.87,271.37 429.87,224.37 382.87,224.37" fill="#b7d2e8" stroke="#1e3a5f" stroke-width="1.4" stroke-linejoin="round"/>
+<polygon points="457.13,204.63 429.87,224.37 476.87,224.37 504.13,204.63" fill="#e1eff9" stroke="#1e3a5f" stroke-width="1.4" stroke-linejoin="round"/>
+<polygon points="429.87,271.37 476.87,271.37 476.87,224.37 429.87,224.37" fill="#b7d2e8" stroke="#1e3a5f" stroke-width="1.4" stroke-linejoin="round"/>
+<polygon points="551.13,251.63 523.87,271.37 523.87,224.37 551.13,204.63" fill="#8cb7d7" stroke="#1e3a5f" stroke-width="1.4" stroke-linejoin="round"/>
+<polygon points="476.87,271.37 523.87,271.37 523.87,224.37 476.87,224.37" fill="#b7d2e8" stroke="#1e3a5f" stroke-width="1.4" stroke-linejoin="round"/>
+<polygon points="504.13,157.63 476.87,177.37 523.87,177.37 551.13,157.63" fill="#e1eff9" stroke="#1e3a5f" stroke-width="1.4" stroke-linejoin="round"/>
+<polygon points="551.13,204.63 523.87,224.37 523.87,177.37 551.13,157.63" fill="#8cb7d7" stroke="#1e3a5f" stroke-width="1.4" stroke-linejoin="round"/>
+<polygon points="476.87,224.37 523.87,224.37 523.87,177.37 476.87,177.37" fill="#b7d2e8" stroke="#1e3a5f" stroke-width="1.4" stroke-linejoin="round"/>
+<text x="540" y="337" text-anchor="middle" font-family="Arial,sans-serif" font-size="14" fill="#64748b">Same viewpoint and unit scale</text>
+<text x="900" y="34" text-anchor="middle" font-family="Arial,sans-serif" font-size="18" fill="#0f172a">(2): Euler-angle mean</text>
+<line x1="912.16" y1="210.36" x2="794.95" y2="295.25" stroke="#94a3b8" stroke-width="1.1" stroke-dasharray="4 4" marker-end="url(#arrow)"/>
+<text x="788.9" y="299.6" font-family="Arial,sans-serif" font-size="17" font-style="italic" fill="#334155">x</text>
+<line x1="747.10" y1="238.00" x2="1010.30" y2="238.00" stroke="#94a3b8" stroke-width="1.1" stroke-dasharray="4 4" marker-end="url(#arrow)"/>
+<text x="1020.6" y="238.0" font-family="Arial,sans-serif" font-size="17" font-style="italic" fill="#334155">y</text>
+<line x1="874.00" y1="303.80" x2="874.00" y2="101.70" stroke="#94a3b8" stroke-width="1.1" stroke-dasharray="4 4" marker-end="url(#arrow)"/>
+<text x="874.0" y="91.4" font-family="Arial,sans-serif" font-size="17" font-style="italic" fill="#334155">z</text>
+<polygon points="817.13,204.63 789.87,224.37 836.87,224.37 864.13,204.63" fill="#e1eff9" stroke="#1e3a5f" stroke-width="1.4" stroke-linejoin="round"/>
+<polygon points="789.87,271.37 836.87,271.37 836.87,224.37 789.87,224.37" fill="#b7d2e8" stroke="#1e3a5f" stroke-width="1.4" stroke-linejoin="round"/>
+<polygon points="864.13,204.63 836.87,224.37 883.87,224.37 911.13,204.63" fill="#e1eff9" stroke="#1e3a5f" stroke-width="1.4" stroke-linejoin="round"/>
+<polygon points="911.13,251.63 883.87,271.37 883.87,224.37 911.13,204.63" fill="#8cb7d7" stroke="#1e3a5f" stroke-width="1.4" stroke-linejoin="round"/>
+<polygon points="836.87,224.37 809.61,244.11 856.61,244.11 883.87,224.37" fill="#e1eff9" stroke="#1e3a5f" stroke-width="1.4" stroke-linejoin="round"/>
+<polygon points="883.87,271.37 856.61,291.11 856.61,244.11 883.87,224.37" fill="#8cb7d7" stroke="#1e3a5f" stroke-width="1.4" stroke-linejoin="round"/>
+<polygon points="809.61,244.11 782.35,263.85 829.35,263.85 856.61,244.11" fill="#e1eff9" stroke="#1e3a5f" stroke-width="1.4" stroke-linejoin="round"/>
+<polygon points="856.61,291.11 829.35,310.85 829.35,263.85 856.61,244.11" fill="#8cb7d7" stroke="#1e3a5f" stroke-width="1.4" stroke-linejoin="round"/>
+<polygon points="782.35,310.85 829.35,310.85 829.35,263.85 782.35,263.85" fill="#b7d2e8" stroke="#1e3a5f" stroke-width="1.4" stroke-linejoin="round"/>
+<text x="900" y="337" text-anchor="middle" font-family="Arial,sans-serif" font-size="14" fill="#64748b">Same viewpoint and unit scale</text>
+<text x="180" y="394" text-anchor="middle" font-family="Arial,sans-serif" font-size="18" fill="#0f172a">(4): matrix mean</text>
+<line x1="192.16" y1="570.36" x2="74.95" y2="655.25" stroke="#94a3b8" stroke-width="1.1" stroke-dasharray="4 4" marker-end="url(#arrow)"/>
+<text x="68.9" y="659.6" font-family="Arial,sans-serif" font-size="17" font-style="italic" fill="#334155">x</text>
+<line x1="27.10" y1="598.00" x2="290.30" y2="598.00" stroke="#94a3b8" stroke-width="1.1" stroke-dasharray="4 4" marker-end="url(#arrow)"/>
+<text x="300.6" y="598.0" font-family="Arial,sans-serif" font-size="17" font-style="italic" fill="#334155">y</text>
+<line x1="154.00" y1="663.80" x2="154.00" y2="461.70" stroke="#94a3b8" stroke-width="1.1" stroke-dasharray="4 4" marker-end="url(#arrow)"/>
+<text x="154.0" y="451.4" font-family="Arial,sans-serif" font-size="17" font-style="italic" fill="#334155">z</text>
+<line x1="154.00" y1="621.50" x2="154.00" y2="527.50" stroke="#2563eb" stroke-width="6"/>
+<circle cx="154.0" cy="621.5" r="3.5" fill="#1d4ed8"/><text x="166.0" y="626.5" font-family="Arial,sans-serif" font-size="16">-1/2</text>
+<circle cx="154.0" cy="527.5" r="3.5" fill="#1d4ed8"/><text x="166.0" y="532.5" font-family="Arial,sans-serif" font-size="16">3/2</text>
+<text x="180" y="697" text-anchor="middle" font-family="Arial,sans-serif" font-size="14" fill="#64748b">Same viewpoint and unit scale</text>
+<text x="540" y="394" text-anchor="middle" font-family="Arial,sans-serif" font-size="18" fill="#0f172a">(6): quaternion mean +</text>
+<line x1="552.16" y1="570.36" x2="434.95" y2="655.25" stroke="#94a3b8" stroke-width="1.1" stroke-dasharray="4 4" marker-end="url(#arrow)"/>
+<text x="428.9" y="659.6" font-family="Arial,sans-serif" font-size="17" font-style="italic" fill="#334155">x</text>
+<line x1="387.10" y1="598.00" x2="650.30" y2="598.00" stroke="#94a3b8" stroke-width="1.1" stroke-dasharray="4 4" marker-end="url(#arrow)"/>
+<text x="660.6" y="598.0" font-family="Arial,sans-serif" font-size="17" font-style="italic" fill="#334155">y</text>
+<line x1="514.00" y1="663.80" x2="514.00" y2="461.70" stroke="#94a3b8" stroke-width="1.1" stroke-dasharray="4 4" marker-end="url(#arrow)"/>
+<text x="514.0" y="451.4" font-family="Arial,sans-serif" font-size="17" font-style="italic" fill="#334155">z</text>
+<polygon points="558.65,525.15 531.39,544.89 578.39,544.89 605.65,525.15" fill="#e1eff9" stroke="#1e3a5f" stroke-width="1.4" stroke-linejoin="round"/>
+<polygon points="605.65,572.15 578.39,591.89 578.39,544.89 605.65,525.15" fill="#8cb7d7" stroke="#1e3a5f" stroke-width="1.4" stroke-linejoin="round"/>
+<polygon points="531.39,544.89 504.13,564.63 551.13,564.63 578.39,544.89" fill="#e1eff9" stroke="#1e3a5f" stroke-width="1.4" stroke-linejoin="round"/>
+<polygon points="578.39,591.89 551.13,611.63 551.13,564.63 578.39,544.89" fill="#8cb7d7" stroke="#1e3a5f" stroke-width="1.4" stroke-linejoin="round"/>
+<polygon points="551.13,611.63 523.87,631.37 523.87,584.37 551.13,564.63" fill="#8cb7d7" stroke="#1e3a5f" stroke-width="1.4" stroke-linejoin="round"/>
+<polygon points="476.87,631.37 523.87,631.37 523.87,584.37 476.87,584.37" fill="#b7d2e8" stroke="#1e3a5f" stroke-width="1.4" stroke-linejoin="round"/>
+<polygon points="504.13,517.63 476.87,537.37 523.87,537.37 551.13,517.63" fill="#e1eff9" stroke="#1e3a5f" stroke-width="1.4" stroke-linejoin="round"/>
+<polygon points="551.13,564.63 523.87,584.37 523.87,537.37 551.13,517.63" fill="#8cb7d7" stroke="#1e3a5f" stroke-width="1.4" stroke-linejoin="round"/>
+<polygon points="476.87,584.37 523.87,584.37 523.87,537.37 476.87,537.37" fill="#b7d2e8" stroke="#1e3a5f" stroke-width="1.4" stroke-linejoin="round"/>
+<text x="540" y="697" text-anchor="middle" font-family="Arial,sans-serif" font-size="14" fill="#64748b">Same viewpoint and unit scale</text>
+<text x="900" y="394" text-anchor="middle" font-family="Arial,sans-serif" font-size="18" fill="#0f172a">(6): quaternion mean -</text>
+<line x1="912.16" y1="570.36" x2="794.95" y2="655.25" stroke="#94a3b8" stroke-width="1.1" stroke-dasharray="4 4" marker-end="url(#arrow)"/>
+<text x="788.9" y="659.6" font-family="Arial,sans-serif" font-size="17" font-style="italic" fill="#334155">x</text>
+<line x1="747.10" y1="598.00" x2="1010.30" y2="598.00" stroke="#94a3b8" stroke-width="1.1" stroke-dasharray="4 4" marker-end="url(#arrow)"/>
+<text x="1020.6" y="598.0" font-family="Arial,sans-serif" font-size="17" font-style="italic" fill="#334155">y</text>
+<line x1="874.00" y1="663.80" x2="874.00" y2="461.70" stroke="#94a3b8" stroke-width="1.1" stroke-dasharray="4 4" marker-end="url(#arrow)"/>
+<text x="874.0" y="451.4" font-family="Arial,sans-serif" font-size="17" font-style="italic" fill="#334155">z</text>
+<polygon points="911.13,611.63 883.87,631.37 883.87,584.37 911.13,564.63" fill="#8cb7d7" stroke="#1e3a5f" stroke-width="1.4" stroke-linejoin="round"/>
+<polygon points="864.13,517.63 836.87,537.37 883.87,537.37 911.13,517.63" fill="#e1eff9" stroke="#1e3a5f" stroke-width="1.4" stroke-linejoin="round"/>
+<polygon points="911.13,564.63 883.87,584.37 883.87,537.37 911.13,517.63" fill="#8cb7d7" stroke="#1e3a5f" stroke-width="1.4" stroke-linejoin="round"/>
+<polygon points="836.87,584.37 883.87,584.37 883.87,537.37 836.87,537.37" fill="#b7d2e8" stroke="#1e3a5f" stroke-width="1.4" stroke-linejoin="round"/>
+<polygon points="836.87,584.37 809.61,604.11 856.61,604.11 883.87,584.37" fill="#e1eff9" stroke="#1e3a5f" stroke-width="1.4" stroke-linejoin="round"/>
+<polygon points="883.87,631.37 856.61,651.11 856.61,604.11 883.87,584.37" fill="#8cb7d7" stroke="#1e3a5f" stroke-width="1.4" stroke-linejoin="round"/>
+<polygon points="809.61,604.11 782.35,623.85 829.35,623.85 856.61,604.11" fill="#e1eff9" stroke="#1e3a5f" stroke-width="1.4" stroke-linejoin="round"/>
+<polygon points="856.61,651.11 829.35,670.85 829.35,623.85 856.61,604.11" fill="#8cb7d7" stroke="#1e3a5f" stroke-width="1.4" stroke-linejoin="round"/>
+<polygon points="782.35,670.85 829.35,670.85 829.35,623.85 782.35,623.85" fill="#b7d2e8" stroke="#1e3a5f" stroke-width="1.4" stroke-linejoin="round"/>
+<text x="900" y="697" text-anchor="middle" font-family="Arial,sans-serif" font-size="14" fill="#64748b">Same viewpoint and unit scale</text>
+</svg>
