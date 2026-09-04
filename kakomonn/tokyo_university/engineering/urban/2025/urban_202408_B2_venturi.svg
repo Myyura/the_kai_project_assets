@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="690" height="370" viewBox="0 0 690 370" role="img"><title>Venturi tube: upstream pressure tap p1 at area A1 and throat pressure tap p2 at the smaller area A2.</title><rect width="100%" height="100%" fill="white"/><defs><marker id="arrow" markerWidth="7" markerHeight="7" refX="6" refY="3.5" orient="auto-start-reverse"><path d="M0,0 L7,3.5 L0,7 Z" fill="#202020"/></marker></defs><style>text{font-family:Arial,sans-serif;font-size:19px;fill:#202020}.axis{stroke:#202020;stroke-width:1.7;fill:none;marker-end:url(#arrow)}.line{stroke:#202020;stroke-width:2;fill:none}.dash{stroke:#888;stroke-width:1.3;stroke-dasharray:6 5;fill:none}.dim{stroke:#444;stroke-width:1.3;fill:none;marker-start:url(#arrow);marker-end:url(#arrow)}.curve{stroke:#145fa1;stroke-width:2.8;fill:none}</style>
+<path class="line" d="M40 115 H180 L270 170 H370 L520 115 H640 M40 285 H180 L270 230 H370 L520 285 H640"/>
+<path class="dash" d="M35 200 H650 M110 115 V285 M315 170 V230"/>
+<path class="dim" d="M110 124 V276"/><path class="dim" d="M315 178 V222"/>
+<text x="123" y="179">A₁</text><text x="329" y="207">A₂</text>
+<path class="axis" d="M43 200 H90 M540 200 H610"/>
+<text x="58" y="320">v₁ = Q/A₁</text><text x="267" y="320">v₂ = Q/A₂</text><text x="542" y="184">Q</text>
+<path class="line" d="M110 115 V59 H207 M315 170 V59 H287"/>
+<rect x="207" y="32" width="80" height="54" fill="white" stroke="#202020" stroke-width="1.8"/>
+<text x="214" y="67">Δp</text><text x="125" y="48">p₁</text><text x="319" y="96">p₂</text>
+<text x="408" y="58">Δp = p₁ - p₂</text><text x="267" y="354">A₂ &lt; A₁,  p₂ &lt; p₁</text>
+</svg>

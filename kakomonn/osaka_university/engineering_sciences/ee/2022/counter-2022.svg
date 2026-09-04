@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg
+  PUBLIC '-//W3C//DTD SVG 1.0//EN'
+  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg width="1000" height="278" preserveAspectRatio="xMinYMin meet" viewBox="0 0 1000 278" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="1000" height="278"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-278)" style="clip-path: url(#clip)">
+		<g transform="">
+			<rect x="0" y="0" width="1000" height="278" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="20" y="254" style="font-family: Helvetica, Hiragino Sans, Yu Gothic, sans-serif; font-size: 15px;fill: rgb(11%,16%,23%); stroke:none;" transform="translate(0,508) scale(1,-1)">2ビットカウンタ（立下り）</text>
+			<path d="M 110,40 L 110,235 Z" style="stroke: rgb(79%,83%,88%); stroke-linecap: butt; stroke-width: 0.7; stroke-dasharray: 3, 4;"/>
+			<text x="107.22" y="23" style="font-family: Helvetica, Hiragino Sans, Yu Gothic, sans-serif; font-size: 10px;fill: rgb(11%,16%,23%); stroke:none;" transform="translate(0,46) scale(1,-1)">n</text>
+			<path d="M 216.875,40 L 216.875,235 Z" style="stroke: rgb(79%,83%,88%); stroke-linecap: butt; stroke-width: 0.7; stroke-dasharray: 3, 4;"/>
+			<text x="208.395" y="23" style="font-family: Helvetica, Hiragino Sans, Yu Gothic, sans-serif; font-size: 10px;fill: rgb(11%,16%,23%); stroke:none;" transform="translate(0,46) scale(1,-1)">n+1</text>
+			<path d="M 323.75,40 L 323.75,235 Z" style="stroke: rgb(79%,83%,88%); stroke-linecap: butt; stroke-width: 0.7; stroke-dasharray: 3, 4;"/>
+			<text x="315.27" y="23" style="font-family: Helvetica, Hiragino Sans, Yu Gothic, sans-serif; font-size: 10px;fill: rgb(11%,16%,23%); stroke:none;" transform="translate(0,46) scale(1,-1)">n+2</text>
+			<path d="M 430.625,40 L 430.625,235 Z" style="stroke: rgb(79%,83%,88%); stroke-linecap: butt; stroke-width: 0.7; stroke-dasharray: 3, 4;"/>
+			<text x="422.145" y="23" style="font-family: Helvetica, Hiragino Sans, Yu Gothic, sans-serif; font-size: 10px;fill: rgb(11%,16%,23%); stroke:none;" transform="translate(0,46) scale(1,-1)">n+3</text>
+			<path d="M 537.5,40 L 537.5,235 Z" style="stroke: rgb(79%,83%,88%); stroke-linecap: butt; stroke-width: 0.7; stroke-dasharray: 3, 4;"/>
+			<text x="529.02" y="23" style="font-family: Helvetica, Hiragino Sans, Yu Gothic, sans-serif; font-size: 10px;fill: rgb(11%,16%,23%); stroke:none;" transform="translate(0,46) scale(1,-1)">n+4</text>
+			<path d="M 644.375,40 L 644.375,235 Z" style="stroke: rgb(79%,83%,88%); stroke-linecap: butt; stroke-width: 0.7; stroke-dasharray: 3, 4;"/>
+			<text x="635.895" y="23" style="font-family: Helvetica, Hiragino Sans, Yu Gothic, sans-serif; font-size: 10px;fill: rgb(11%,16%,23%); stroke:none;" transform="translate(0,46) scale(1,-1)">n+5</text>
+			<path d="M 751.25,40 L 751.25,235 Z" style="stroke: rgb(79%,83%,88%); stroke-linecap: butt; stroke-width: 0.7; stroke-dasharray: 3, 4;"/>
+			<text x="742.77" y="23" style="font-family: Helvetica, Hiragino Sans, Yu Gothic, sans-serif; font-size: 10px;fill: rgb(11%,16%,23%); stroke:none;" transform="translate(0,46) scale(1,-1)">n+6</text>
+			<path d="M 858.125,40 L 858.125,235 Z" style="stroke: rgb(79%,83%,88%); stroke-linecap: butt; stroke-width: 0.7; stroke-dasharray: 3, 4;"/>
+			<text x="849.645" y="23" style="font-family: Helvetica, Hiragino Sans, Yu Gothic, sans-serif; font-size: 10px;fill: rgb(11%,16%,23%); stroke:none;" transform="translate(0,46) scale(1,-1)">n+7</text>
+			<text x="18" y="209" style="font-family: Helvetica, Hiragino Sans, Yu Gothic, sans-serif; font-size: 14px;fill: rgb(11%,16%,23%); stroke:none;" transform="translate(0,418) scale(1,-1)">CLK</text>
+			<text x="80" y="226" style="font-family: Helvetica, Hiragino Sans, Yu Gothic, sans-serif; font-size: 10px;fill: rgb(11%,16%,23%); stroke:none;" transform="translate(0,452) scale(1,-1)">H</text>
+			<text x="80" y="198" style="font-family: Helvetica, Hiragino Sans, Yu Gothic, sans-serif; font-size: 10px;fill: rgb(11%,16%,23%); stroke:none;" transform="translate(0,396) scale(1,-1)">L</text>
+			<polyline points="110 201, 163.4375 201, 163.4375 225, 216.875 225, 216.875 201, 270.3125 201, 270.3125 225, 323.75 225, 323.75 201, 377.1875 201, 377.1875 225, 430.625 225, 430.625 201, 484.0625 201, 484.0625 225, 537.5 225, 537.5 201, 590.9375 201, 590.9375 225, 644.375 225, 644.375 201, 697.8125 201, 697.8125 225, 751.25 225, 751.25 201, 804.6875 201, 804.6875 225, 858.125 225, 858.125 201, 965 201" style="stroke: rgb(11%,16%,23%); stroke-linecap: butt; stroke-width: 2; fill: None; fill-rule: evenodd;"/>
+			<text x="18" y="143" style="font-family: Helvetica, Hiragino Sans, Yu Gothic, sans-serif; font-size: 14px;fill: rgb(11%,16%,23%); stroke:none;" transform="translate(0,286) scale(1,-1)">Y</text>
+			<text x="80" y="160" style="font-family: Helvetica, Hiragino Sans, Yu Gothic, sans-serif; font-size: 10px;fill: rgb(11%,16%,23%); stroke:none;" transform="translate(0,320) scale(1,-1)">H</text>
+			<text x="80" y="132" style="font-family: Helvetica, Hiragino Sans, Yu Gothic, sans-serif; font-size: 10px;fill: rgb(11%,16%,23%); stroke:none;" transform="translate(0,264) scale(1,-1)">L</text>
+			<polyline points="110 135, 216.875 135, 216.875 159, 323.75 159, 323.75 135, 430.625 135, 430.625 159, 537.5 159, 537.5 135, 644.375 135, 644.375 159, 751.25 159, 751.25 135, 858.125 135, 858.125 159, 965 159" style="stroke: rgb(1%,41%,63%); stroke-linecap: butt; stroke-width: 2; fill: None; fill-rule: evenodd;"/>
+			<text x="18" y="77" style="font-family: Helvetica, Hiragino Sans, Yu Gothic, sans-serif; font-size: 14px;fill: rgb(11%,16%,23%); stroke:none;" transform="translate(0,154) scale(1,-1)">Z</text>
+			<text x="80" y="94" style="font-family: Helvetica, Hiragino Sans, Yu Gothic, sans-serif; font-size: 10px;fill: rgb(11%,16%,23%); stroke:none;" transform="translate(0,188) scale(1,-1)">H</text>
+			<text x="80" y="66" style="font-family: Helvetica, Hiragino Sans, Yu Gothic, sans-serif; font-size: 10px;fill: rgb(11%,16%,23%); stroke:none;" transform="translate(0,132) scale(1,-1)">L</text>
+			<polyline points="110 69, 216.875 69, 216.875 69, 323.75 69, 323.75 93, 430.625 93, 430.625 93, 537.5 93, 537.5 69, 644.375 69, 644.375 69, 751.25 69, 751.25 93, 858.125 93, 858.125 93, 965 93" style="stroke: rgb(1%,41%,63%); stroke-linecap: butt; stroke-width: 2; fill: None; fill-rule: evenodd;"/>
+			<path d="M 110,39 L 974,39 Z" style="stroke: rgb(11%,16%,23%); stroke-linecap: butt; stroke-width: 1;"/>
+			<text x="980" y="20" style="font-family: Helvetica, Hiragino Sans, Yu Gothic, sans-serif; font-size: 12px;fill: rgb(11%,16%,23%); stroke:none;" transform="translate(0,40) scale(1,-1)">t</text>
+		</g>
+	</g>
+</svg>

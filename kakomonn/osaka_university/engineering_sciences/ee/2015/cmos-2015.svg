@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg
+  PUBLIC '-//W3C//DTD SVG 1.0//EN'
+  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg width="650" height="510" preserveAspectRatio="xMinYMin meet" viewBox="0 0 650 510" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="650" height="510"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-510)" style="clip-path: url(#clip)">
+		<g transform="">
+			<rect x="0" y="0" width="650" height="510" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="20" y="483" style="font-family: Helvetica, Hiragino Sans, Yu Gothic, sans-serif; font-size: 16px;fill: rgb(11%,16%,23%); stroke:none;" transform="translate(0,966) scale(1,-1)">CMOS複合ゲート：Y = NOT (B OR D OR (A AND C))</text>
+			<path d="M 335,455 L 365,455 Z" style="stroke: rgb(11%,16%,23%); stroke-linecap: butt; stroke-width: 2;"/>
+			<text x="374" y="464" style="font-family: Helvetica, Hiragino Sans, Yu Gothic, sans-serif; font-size: 13px;fill: rgb(11%,16%,23%); stroke:none;" transform="translate(0,928) scale(1,-1)">V_DD</text>
+			<path d="M 350,455 L 350,435 Z" style="stroke: rgb(11%,16%,23%); stroke-linecap: butt; stroke-width: 1.7;"/>
+			<path d="M 350,435 L 350,425 Z" style="stroke: rgb(11%,16%,23%); stroke-linecap: butt; stroke-width: 1.7;"/>
+			<path d="M 350,395 L 350,385 Z" style="stroke: rgb(11%,16%,23%); stroke-linecap: butt; stroke-width: 1.7;"/>
+			<path d="M 344,425 L 355,425 Z" style="stroke: rgb(11%,16%,23%); stroke-linecap: butt; stroke-width: 1.7;"/>
+			<path d="M 344,395 L 355,395 Z" style="stroke: rgb(11%,16%,23%); stroke-linecap: butt; stroke-width: 1.7;"/>
+			<path d="M 344,395 L 344,425 Z" style="stroke: rgb(11%,16%,23%); stroke-linecap: butt; stroke-width: 2.2;"/>
+			<path d="M 337,393 L 337,427 Z" style="stroke: rgb(11%,16%,23%); stroke-linecap: butt; stroke-width: 1.7;"/>
+			<circle cx="332" cy="410" r="4" style="stroke: rgb(11%,16%,23%); stroke-linecap: butt; stroke-width: 1.5; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<path d="M 328,410 L 310,410 Z" style="stroke: rgb(11%,16%,23%); stroke-linecap: butt; stroke-width: 1.7;"/>
+			<text x="296.329" y="406" style="font-family: Helvetica, Hiragino Sans, Yu Gothic, sans-serif; font-size: 13px;fill: rgb(11%,16%,23%); stroke:none;" transform="translate(0,812) scale(1,-1)">B</text>
+			<text x="361" y="423" style="font-family: Helvetica, Hiragino Sans, Yu Gothic, sans-serif; font-size: 8px;fill: rgb(11%,16%,23%); stroke:none;" transform="translate(0,846) scale(1,-1)">S</text>
+			<text x="361" y="391" style="font-family: Helvetica, Hiragino Sans, Yu Gothic, sans-serif; font-size: 8px;fill: rgb(11%,16%,23%); stroke:none;" transform="translate(0,782) scale(1,-1)">D</text>
+			<path d="M 350,385 L 350,375 Z" style="stroke: rgb(11%,16%,23%); stroke-linecap: butt; stroke-width: 1.7;"/>
+			<path d="M 350,375 L 350,365 Z" style="stroke: rgb(11%,16%,23%); stroke-linecap: butt; stroke-width: 1.7;"/>
+			<path d="M 350,335 L 350,325 Z" style="stroke: rgb(11%,16%,23%); stroke-linecap: butt; stroke-width: 1.7;"/>
+			<path d="M 344,365 L 355,365 Z" style="stroke: rgb(11%,16%,23%); stroke-linecap: butt; stroke-width: 1.7;"/>
+			<path d="M 344,335 L 355,335 Z" style="stroke: rgb(11%,16%,23%); stroke-linecap: butt; stroke-width: 1.7;"/>
+			<path d="M 344,335 L 344,365 Z" style="stroke: rgb(11%,16%,23%); stroke-linecap: butt; stroke-width: 2.2;"/>
+			<path d="M 337,333 L 337,367 Z" style="stroke: rgb(11%,16%,23%); stroke-linecap: butt; stroke-width: 1.7;"/>
+			<circle cx="332" cy="350" r="4" style="stroke: rgb(11%,16%,23%); stroke-linecap: butt; stroke-width: 1.5; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<path d="M 328,350 L 310,350 Z" style="stroke: rgb(11%,16%,23%); stroke-linecap: butt; stroke-width: 1.7;"/>
+			<text x="295.614" y="346" style="font-family: Helvetica, Hiragino Sans, Yu Gothic, sans-serif; font-size: 13px;fill: rgb(11%,16%,23%); stroke:none;" transform="translate(0,692) scale(1,-1)">D</text>
+			<text x="361" y="363" style="font-family: Helvetica, Hiragino Sans, Yu Gothic, sans-serif; font-size: 8px;fill: rgb(11%,16%,23%); stroke:none;" transform="translate(0,726) scale(1,-1)">S</text>
+			<text x="361" y="331" style="font-family: Helvetica, Hiragino Sans, Yu Gothic, sans-serif; font-size: 8px;fill: rgb(11%,16%,23%); stroke:none;" transform="translate(0,662) scale(1,-1)">D</text>
+			<path d="M 350,325 L 350,315 Z" style="stroke: rgb(11%,16%,23%); stroke-linecap: butt; stroke-width: 1.7;"/>
+			<path d="M 250,315 L 450,315 Z" style="stroke: rgb(11%,16%,23%); stroke-linecap: butt; stroke-width: 1.7;"/>
+			<path d="M 250,315 L 250,295 Z" style="stroke: rgb(11%,16%,23%); stroke-linecap: butt; stroke-width: 1.7;"/>
+			<path d="M 450,315 L 450,295 Z" style="stroke: rgb(11%,16%,23%); stroke-linecap: butt; stroke-width: 1.7;"/>
+			<path d="M 250,295 L 250,285 Z" style="stroke: rgb(11%,16%,23%); stroke-linecap: butt; stroke-width: 1.7;"/>
+			<path d="M 250,255 L 250,245 Z" style="stroke: rgb(11%,16%,23%); stroke-linecap: butt; stroke-width: 1.7;"/>
+			<path d="M 244,285 L 255,285 Z" style="stroke: rgb(11%,16%,23%); stroke-linecap: butt; stroke-width: 1.7;"/>
+			<path d="M 244,255 L 255,255 Z" style="stroke: rgb(11%,16%,23%); stroke-linecap: butt; stroke-width: 1.7;"/>
+			<path d="M 244,255 L 244,285 Z" style="stroke: rgb(11%,16%,23%); stroke-linecap: butt; stroke-width: 2.2;"/>
+			<path d="M 237,253 L 237,287 Z" style="stroke: rgb(11%,16%,23%); stroke-linecap: butt; stroke-width: 1.7;"/>
+			<circle cx="232" cy="270" r="4" style="stroke: rgb(11%,16%,23%); stroke-linecap: butt; stroke-width: 1.5; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<path d="M 228,270 L 210,270 Z" style="stroke: rgb(11%,16%,23%); stroke-linecap: butt; stroke-width: 1.7;"/>
+			<text x="196.329" y="266" style="font-family: Helvetica, Hiragino Sans, Yu Gothic, sans-serif; font-size: 13px;fill: rgb(11%,16%,23%); stroke:none;" transform="translate(0,532) scale(1,-1)">A</text>
+			<text x="261" y="283" style="font-family: Helvetica, Hiragino Sans, Yu Gothic, sans-serif; font-size: 8px;fill: rgb(11%,16%,23%); stroke:none;" transform="translate(0,566) scale(1,-1)">S</text>
+			<text x="261" y="251" style="font-family: Helvetica, Hiragino Sans, Yu Gothic, sans-serif; font-size: 8px;fill: rgb(11%,16%,23%); stroke:none;" transform="translate(0,502) scale(1,-1)">D</text>
+			<path d="M 450,295 L 450,285 Z" style="stroke: rgb(11%,16%,23%); stroke-linecap: butt; stroke-width: 1.7;"/>
+			<path d="M 450,255 L 450,245 Z" style="stroke: rgb(11%,16%,23%); stroke-linecap: butt; stroke-width: 1.7;"/>
+			<path d="M 444,285 L 455,285 Z" style="stroke: rgb(11%,16%,23%); stroke-linecap: butt; stroke-width: 1.7;"/>
+			<path d="M 444,255 L 455,255 Z" style="stroke: rgb(11%,16%,23%); stroke-linecap: butt; stroke-width: 1.7;"/>
+			<path d="M 444,255 L 444,285 Z" style="stroke: rgb(11%,16%,23%); stroke-linecap: butt; stroke-width: 2.2;"/>
+			<path d="M 437,253 L 437,287 Z" style="stroke: rgb(11%,16%,23%); stroke-linecap: butt; stroke-width: 1.7;"/>
+			<circle cx="432" cy="270" r="4" style="stroke: rgb(11%,16%,23%); stroke-linecap: butt; stroke-width: 1.5; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<path d="M 428,270 L 410,270 Z" style="stroke: rgb(11%,16%,23%); stroke-linecap: butt; stroke-width: 1.7;"/>
+			<text x="395.614" y="266" style="font-family: Helvetica, Hiragino Sans, Yu Gothic, sans-serif; font-size: 13px;fill: rgb(11%,16%,23%); stroke:none;" transform="translate(0,532) scale(1,-1)">C</text>
+			<text x="461" y="283" style="font-family: Helvetica, Hiragino Sans, Yu Gothic, sans-serif; font-size: 8px;fill: rgb(11%,16%,23%); stroke:none;" transform="translate(0,566) scale(1,-1)">S</text>
+			<text x="461" y="251" style="font-family: Helvetica, Hiragino Sans, Yu Gothic, sans-serif; font-size: 8px;fill: rgb(11%,16%,23%); stroke:none;" transform="translate(0,502) scale(1,-1)">D</text>
+			<path d="M 250,245 L 250,230 Z" style="stroke: rgb(11%,16%,23%); stroke-linecap: butt; stroke-width: 1.7;"/>
+			<path d="M 450,245 L 450,230 Z" style="stroke: rgb(11%,16%,23%); stroke-linecap: butt; stroke-width: 1.7;"/>
+			<path d="M 250,230 L 450,230 Z" style="stroke: rgb(11%,16%,23%); stroke-linecap: butt; stroke-width: 1.7;"/>
+			<path d="M 350,230 L 350,210 Z" style="stroke: rgb(11%,16%,23%); stroke-linecap: butt; stroke-width: 1.7;"/>
+			<circle cx="350" cy="210" r="2.5" style="stroke: rgb(11%,16%,23%); stroke-linecap: butt; stroke-width: 1; fill: rgb(11%,16%,23%); fill-rule: evenodd;"/>
+			<path d="M 350,210 L 540,210 Z" style="stroke: rgb(11%,16%,23%); stroke-linecap: butt; stroke-width: 1.7;"/>
+			<text x="550" y="206" style="font-family: Helvetica, Hiragino Sans, Yu Gothic, sans-serif; font-size: 16px;fill: rgb(62%,7%,22%); stroke:none;" transform="translate(0,412) scale(1,-1)">Y</text>
+			<path d="M 150,210 L 450,210 Z" style="stroke: rgb(11%,16%,23%); stroke-linecap: butt; stroke-width: 1.7;"/>
+			<path d="M 150,210 L 150,155 Z" style="stroke: rgb(11%,16%,23%); stroke-linecap: butt; stroke-width: 1.7;"/>
+			<path d="M 300,210 L 300,155 Z" style="stroke: rgb(11%,16%,23%); stroke-linecap: butt; stroke-width: 1.7;"/>
+			<path d="M 150,155 L 150,145 Z" style="stroke: rgb(11%,16%,23%); stroke-linecap: butt; stroke-width: 1.7;"/>
+			<path d="M 150,115 L 150,105 Z" style="stroke: rgb(11%,16%,23%); stroke-linecap: butt; stroke-width: 1.7;"/>
+			<path d="M 144,145 L 155,145 Z" style="stroke: rgb(11%,16%,23%); stroke-linecap: butt; stroke-width: 1.7;"/>
+			<path d="M 144,115 L 155,115 Z" style="stroke: rgb(11%,16%,23%); stroke-linecap: butt; stroke-width: 1.7;"/>
+			<path d="M 144,115 L 144,145 Z" style="stroke: rgb(11%,16%,23%); stroke-linecap: butt; stroke-width: 2.2;"/>
+			<path d="M 137,113 L 137,147 Z" style="stroke: rgb(11%,16%,23%); stroke-linecap: butt; stroke-width: 1.7;"/>
+			<path d="M 137,130 L 110,130 Z" style="stroke: rgb(11%,16%,23%); stroke-linecap: butt; stroke-width: 1.7;"/>
+			<text x="96.329" y="126" style="font-family: Helvetica, Hiragino Sans, Yu Gothic, sans-serif; font-size: 13px;fill: rgb(11%,16%,23%); stroke:none;" transform="translate(0,252) scale(1,-1)">B</text>
+			<text x="161" y="143" style="font-family: Helvetica, Hiragino Sans, Yu Gothic, sans-serif; font-size: 8px;fill: rgb(11%,16%,23%); stroke:none;" transform="translate(0,286) scale(1,-1)">D</text>
+			<text x="161" y="111" style="font-family: Helvetica, Hiragino Sans, Yu Gothic, sans-serif; font-size: 8px;fill: rgb(11%,16%,23%); stroke:none;" transform="translate(0,222) scale(1,-1)">S</text>
+			<path d="M 300,155 L 300,145 Z" style="stroke: rgb(11%,16%,23%); stroke-linecap: butt; stroke-width: 1.7;"/>
+			<path d="M 300,115 L 300,105 Z" style="stroke: rgb(11%,16%,23%); stroke-linecap: butt; stroke-width: 1.7;"/>
+			<path d="M 294,145 L 305,145 Z" style="stroke: rgb(11%,16%,23%); stroke-linecap: butt; stroke-width: 1.7;"/>
+			<path d="M 294,115 L 305,115 Z" style="stroke: rgb(11%,16%,23%); stroke-linecap: butt; stroke-width: 1.7;"/>
+			<path d="M 294,115 L 294,145 Z" style="stroke: rgb(11%,16%,23%); stroke-linecap: butt; stroke-width: 2.2;"/>
+			<path d="M 287,113 L 287,147 Z" style="stroke: rgb(11%,16%,23%); stroke-linecap: butt; stroke-width: 1.7;"/>
+			<path d="M 287,130 L 260,130 Z" style="stroke: rgb(11%,16%,23%); stroke-linecap: butt; stroke-width: 1.7;"/>
+			<text x="245.614" y="126" style="font-family: Helvetica, Hiragino Sans, Yu Gothic, sans-serif; font-size: 13px;fill: rgb(11%,16%,23%); stroke:none;" transform="translate(0,252) scale(1,-1)">D</text>
+			<text x="311" y="143" style="font-family: Helvetica, Hiragino Sans, Yu Gothic, sans-serif; font-size: 8px;fill: rgb(11%,16%,23%); stroke:none;" transform="translate(0,286) scale(1,-1)">D</text>
+			<text x="311" y="111" style="font-family: Helvetica, Hiragino Sans, Yu Gothic, sans-serif; font-size: 8px;fill: rgb(11%,16%,23%); stroke:none;" transform="translate(0,222) scale(1,-1)">S</text>
+			<path d="M 150,105 L 150,50 Z" style="stroke: rgb(11%,16%,23%); stroke-linecap: butt; stroke-width: 1.7;"/>
+			<path d="M 300,105 L 300,50 Z" style="stroke: rgb(11%,16%,23%); stroke-linecap: butt; stroke-width: 1.7;"/>
+			<path d="M 450,210 L 450,190 Z" style="stroke: rgb(11%,16%,23%); stroke-linecap: butt; stroke-width: 1.7;"/>
+			<path d="M 450,190 L 450,180 Z" style="stroke: rgb(11%,16%,23%); stroke-linecap: butt; stroke-width: 1.7;"/>
+			<path d="M 450,150 L 450,140 Z" style="stroke: rgb(11%,16%,23%); stroke-linecap: butt; stroke-width: 1.7;"/>
+			<path d="M 444,180 L 455,180 Z" style="stroke: rgb(11%,16%,23%); stroke-linecap: butt; stroke-width: 1.7;"/>
+			<path d="M 444,150 L 455,150 Z" style="stroke: rgb(11%,16%,23%); stroke-linecap: butt; stroke-width: 1.7;"/>
+			<path d="M 444,150 L 444,180 Z" style="stroke: rgb(11%,16%,23%); stroke-linecap: butt; stroke-width: 2.2;"/>
+			<path d="M 437,148 L 437,182 Z" style="stroke: rgb(11%,16%,23%); stroke-linecap: butt; stroke-width: 1.7;"/>
+			<path d="M 437,165 L 410,165 Z" style="stroke: rgb(11%,16%,23%); stroke-linecap: butt; stroke-width: 1.7;"/>
+			<text x="396.329" y="161" style="font-family: Helvetica, Hiragino Sans, Yu Gothic, sans-serif; font-size: 13px;fill: rgb(11%,16%,23%); stroke:none;" transform="translate(0,322) scale(1,-1)">A</text>
+			<text x="461" y="178" style="font-family: Helvetica, Hiragino Sans, Yu Gothic, sans-serif; font-size: 8px;fill: rgb(11%,16%,23%); stroke:none;" transform="translate(0,356) scale(1,-1)">D</text>
+			<text x="461" y="146" style="font-family: Helvetica, Hiragino Sans, Yu Gothic, sans-serif; font-size: 8px;fill: rgb(11%,16%,23%); stroke:none;" transform="translate(0,292) scale(1,-1)">S</text>
+			<path d="M 450,140 L 450,130 Z" style="stroke: rgb(11%,16%,23%); stroke-linecap: butt; stroke-width: 1.7;"/>
+			<path d="M 450,130 L 450,120 Z" style="stroke: rgb(11%,16%,23%); stroke-linecap: butt; stroke-width: 1.7;"/>
+			<path d="M 450,90 L 450,80 Z" style="stroke: rgb(11%,16%,23%); stroke-linecap: butt; stroke-width: 1.7;"/>
+			<path d="M 444,120 L 455,120 Z" style="stroke: rgb(11%,16%,23%); stroke-linecap: butt; stroke-width: 1.7;"/>
+			<path d="M 444,90 L 455,90 Z" style="stroke: rgb(11%,16%,23%); stroke-linecap: butt; stroke-width: 1.7;"/>
+			<path d="M 444,90 L 444,120 Z" style="stroke: rgb(11%,16%,23%); stroke-linecap: butt; stroke-width: 2.2;"/>
+			<path d="M 437,88 L 437,122 Z" style="stroke: rgb(11%,16%,23%); stroke-linecap: butt; stroke-width: 1.7;"/>
+			<path d="M 437,105 L 410,105 Z" style="stroke: rgb(11%,16%,23%); stroke-linecap: butt; stroke-width: 1.7;"/>
+			<text x="395.614" y="101" style="font-family: Helvetica, Hiragino Sans, Yu Gothic, sans-serif; font-size: 13px;fill: rgb(11%,16%,23%); stroke:none;" transform="translate(0,202) scale(1,-1)">C</text>
+			<text x="461" y="118" style="font-family: Helvetica, Hiragino Sans, Yu Gothic, sans-serif; font-size: 8px;fill: rgb(11%,16%,23%); stroke:none;" transform="translate(0,236) scale(1,-1)">D</text>
+			<text x="461" y="86" style="font-family: Helvetica, Hiragino Sans, Yu Gothic, sans-serif; font-size: 8px;fill: rgb(11%,16%,23%); stroke:none;" transform="translate(0,172) scale(1,-1)">S</text>
+			<path d="M 450,80 L 450,50 Z" style="stroke: rgb(11%,16%,23%); stroke-linecap: butt; stroke-width: 1.7;"/>
+			<path d="M 150,50 L 450,50 Z" style="stroke: rgb(11%,16%,23%); stroke-linecap: butt; stroke-width: 1.7;"/>
+			<path d="M 350,50 L 350,32 Z" style="stroke: rgb(11%,16%,23%); stroke-linecap: butt; stroke-width: 1.7;"/>
+			<path d="M 342,32 L 358,32 Z" style="stroke: rgb(11%,16%,23%); stroke-linecap: butt; stroke-width: 1.7;"/>
+			<path d="M 344.5,27 L 355.5,27 Z" style="stroke: rgb(11%,16%,23%); stroke-linecap: butt; stroke-width: 1.7;"/>
+			<path d="M 347.5,22 L 352.5,22 Z" style="stroke: rgb(11%,16%,23%); stroke-linecap: butt; stroke-width: 1.7;"/>
+			<text x="368" y="25" style="font-family: Helvetica, Hiragino Sans, Yu Gothic, sans-serif; font-size: 12px;fill: rgb(11%,16%,23%); stroke:none;" transform="translate(0,50) scale(1,-1)">GND</text>
+		</g>
+	</g>
+</svg>

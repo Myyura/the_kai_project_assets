@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="510" height="385" viewBox="0 0 510 385" role="img"><title>Uniform rod of length 2L, pivot O, center G at distance l; x points down, y right, theta lies between x and the rod.</title><rect width="100%" height="100%" fill="white"/><defs><marker id="arrow" markerWidth="7" markerHeight="7" refX="6" refY="3.5" orient="auto-start-reverse"><path d="M0,0 L7,3.5 L0,7 Z" fill="#202020"/></marker></defs><style>text{font-family:Arial,sans-serif;font-size:19px;fill:#202020}.axis{stroke:#202020;stroke-width:1.7;fill:none;marker-end:url(#arrow)}.line{stroke:#202020;stroke-width:2;fill:none}.dash{stroke:#888;stroke-width:1.3;stroke-dasharray:6 5;fill:none}.dim{stroke:#444;stroke-width:1.3;fill:none;marker-start:url(#arrow);marker-end:url(#arrow)}.curve{stroke:#145fa1;stroke-width:2.8;fill:none}</style>
+<path d="M145 40 L345 300" stroke="#777" stroke-width="12" fill="none"/>
+<path d="M145 40 L345 300" class="dash"/>
+<circle cx="188" cy="96" r="6" fill="#202020"/><circle cx="245" cy="170" r="6" fill="#202020"/>
+<text x="161" y="92">O</text><text x="254" y="173">G</text>
+<path class="axis" d="M188 96 V322"/><path class="axis" d="M188 96 H327"/>
+<text x="174" y="344">x</text><text x="334" y="102">y</text>
+<path class="axis" d="M106 162 V257"/><text x="82" y="215">g</text>
+<path class="line" d="M188 174 A78 78 0 0 0 236 158"/><text x="204" y="199">θ</text>
+<path class="dim" d="M235 60 L292 134"/><path class="dash" d="M188 96 L235 60 M245 170 L292 134"/>
+<text x="277" y="91">l</text>
+<path class="dim" d="M217 20 L417 280"/><path class="dash" d="M145 40 L217 20 M345 300 L417 280"/>
+<text x="351" y="139">2L</text>
+</svg>

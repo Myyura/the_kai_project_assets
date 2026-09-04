@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="650" height="365" viewBox="0 0 650 365" role="img">
+<title>Three equal masses and three springs: x2 is at the top, x1 at the bottom, and x3 is joined to the midpoint of the massless rod.</title>
+<rect width="650" height="365" fill="white"/>
+<defs><marker id="arr" markerWidth="7" markerHeight="7" refX="6" refY="3.5" orient="auto-start-reverse"><path d="M0 0L7 3.5L0 7Z" fill="#222"/></marker></defs>
+<style>text{font-family:Arial,sans-serif;font-size:20px;fill:#222}.line{stroke:#222;stroke-width:2;fill:none}.arr{stroke:#222;stroke-width:1.6;fill:none;marker-end:url(#arr)}</style>
+<path d="M90 30H580V330H90" stroke="#aaa" stroke-width="1.5" fill="none"/>
+<path class="line" d="M90 10V350 M260 95V275"/>
+<path class="line" d="M90,95 L102,95 L108,85 L123.625,105 L139.25,85 L154.875,105 L170.5,85 L186.125,105 L201.75,85 L217.375,105 L237,95 L245,95 M90,275 L102,275 L108,265 L123.625,285 L139.25,265 L154.875,285 L170.5,265 L186.125,285 L201.75,265 L217.375,285 L237,275 L245,275 M260,185 L272,185 L278,175 L293.625,195 L309.25,175 L324.875,195 L340.5,175 L356.125,195 L371.75,175 L387.375,195 L407,185 L415,185"/>
+<circle cx="260" cy="95" r="11" fill="#222"/><circle cx="260" cy="275" r="11" fill="#222"/><circle cx="425" cy="185" r="11" fill="#222"/>
+<path class="line" d="M245 95H260 M245 275H260"/>
+<path class="arr" d="M243 60H310"/><path class="arr" d="M243 308H310"/><path class="arr" d="M410 152H477"/>
+<text x="261" y="49">x₂</text><text x="263" y="343">x₁</text><text x="429" y="141">x₃</text>
+<text x="281" y="101">m</text><text x="281" y="281">m</text><text x="446" y="191">m</text>
+<text x="160" y="73">k</text><text x="160" y="253">k</text><text x="330" y="164">k</text>
+<path d="M530 98V272" stroke="#777" stroke-width="1.2" fill="none" marker-start="url(#arr)" marker-end="url(#arr)"/>
+<path d="M320 95H543 M320 275H543" stroke="#aaa" stroke-width="1.1" stroke-dasharray="5 4" fill="none"/>
+<text x="541" y="192">2a</text><text x="24" y="182">wall</text>
+</svg>
