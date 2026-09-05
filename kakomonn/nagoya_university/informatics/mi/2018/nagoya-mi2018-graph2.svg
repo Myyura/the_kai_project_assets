@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 540 290" role="img"><title>Figure 2</title><rect width="540" height="290" fill="white"/>
+<line x1="230" y1="50" x2="160" y2="140" stroke="#334155" stroke-width="2"/>
+<line x1="230" y1="50" x2="300" y2="140" stroke="#334155" stroke-width="2"/>
+<line x1="160" y1="140" x2="100" y2="240" stroke="#334155" stroke-width="2"/>
+<line x1="160" y1="140" x2="180" y2="240" stroke="#334155" stroke-width="2"/>
+<line x1="160" y1="140" x2="240" y2="240" stroke="#334155" stroke-width="2"/>
+<line x1="300" y1="140" x2="350" y2="240" stroke="#334155" stroke-width="2"/>
+<circle cx="230" cy="50" r="15" fill="white" stroke="#334155" stroke-width="2"/>
+<circle cx="160" cy="140" r="15" fill="white" stroke="#334155" stroke-width="2"/>
+<circle cx="300" cy="140" r="15" fill="white" stroke="#334155" stroke-width="2"/>
+<circle cx="100" cy="240" r="15" fill="white" stroke="#334155" stroke-width="2"/>
+<circle cx="180" cy="240" r="15" fill="white" stroke="#334155" stroke-width="2"/>
+<circle cx="240" cy="240" r="15" fill="white" stroke="#334155" stroke-width="2"/>
+<circle cx="350" cy="240" r="15" fill="white" stroke="#334155" stroke-width="2"/>
+</svg>

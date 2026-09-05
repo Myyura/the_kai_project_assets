@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="340" viewBox="0 0 480 340"><rect width="100%" height="100%" fill="white"/>
+<ellipse cx="235" cy="247" rx="132" ry="43" fill="none" stroke="#172033" stroke-width="2"/>
+<path d="M235 60L235 247" fill="none" stroke="#64748b" stroke-width="2"/>
+<text x="213" y="155" fill="#172033" font-family="serif" font-size="20" text-anchor="middle">z</text>
+<path d="M235 247L328 275" fill="none" stroke="#2563eb" stroke-width="2"/>
+<path d="M328 275L319.57774499871385 268.286906771591L317.27140622085557 275.9472462837632Z" fill="#2563eb" stroke="#2563eb" stroke-width="1"/>
+<text x="285" y="282" fill="#172033" font-family="serif" font-size="20" text-anchor="middle">a</text>
+<path d="M328 275L235 60" fill="none" stroke="#2563eb" stroke-width="2"/>
+<path d="M235 60L235.2988234878833 70.76618337773834L242.64134347587296 67.59011659223583Z" fill="#2563eb" stroke="#2563eb" stroke-width="1"/>
+<text x="299" y="164" fill="#172033" font-family="serif" font-size="20" text-anchor="middle">r</text>
+<path d="M328 275L361 253" fill="none" stroke="#2563eb" stroke-width="2"/>
+<path d="M361 253L350.4606962717207 255.2188007849009L354.8982978415225 261.8752031396037Z" fill="#2563eb" stroke="#2563eb" stroke-width="1"/>
+<text x="380" y="249" fill="#172033" font-family="serif" font-size="20" text-anchor="middle">ds</text>
+<path d="M235 60L283 34" fill="none" stroke="#2563eb" stroke-width="2"/>
+<path d="M283 34L272.30194774046925 35.24566361926043L276.1122129287953 42.27999935155462Z" fill="#2563eb" stroke="#2563eb" stroke-width="1"/>
+<text x="327" y="40" fill="#172033" font-family="serif" font-size="20" text-anchor="middle">dH(r)</text>
+<circle cx="235" cy="60" r="3" fill="#172033" stroke="#172033" stroke-width="2"/>
+<text x="218" y="52" fill="#172033" font-family="serif" font-size="20" text-anchor="middle">P</text>
+</svg>

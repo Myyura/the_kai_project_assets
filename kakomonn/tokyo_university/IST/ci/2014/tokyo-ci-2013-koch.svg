@@ -1,0 +1,153 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="350" viewBox="0 0 1080 350" role="img" aria-labelledby="title desc">
+<title id="title">Grid points and the first three Koch snowflake polygons</title><desc id="desc">An original schematic calculated from the problem coordinates: the closed square from zero to ten has 121 unit grid points; K0, K1, K2 use outward equilateral bumps.</desc>
+<rect width="1080" height="350" fill="white"/>
+<text x="135" y="30" text-anchor="middle" font-family="Arial,sans-serif" font-size="20" fill="#223047">R0 and d = 1</text>
+<path d="M55 75 V235 M55 75 H215" stroke="#d6dce5" fill="none"/>
+<circle cx="55" cy="235" r="2.1" fill="#0a7f79"/>
+<circle cx="55" cy="219" r="2.1" fill="#0a7f79"/>
+<circle cx="55" cy="203" r="2.1" fill="#0a7f79"/>
+<circle cx="55" cy="187" r="2.1" fill="#0a7f79"/>
+<circle cx="55" cy="171" r="2.1" fill="#0a7f79"/>
+<circle cx="55" cy="155" r="2.1" fill="#0a7f79"/>
+<circle cx="55" cy="139" r="2.1" fill="#0a7f79"/>
+<circle cx="55" cy="123" r="2.1" fill="#0a7f79"/>
+<circle cx="55" cy="107" r="2.1" fill="#0a7f79"/>
+<circle cx="55" cy="91" r="2.1" fill="#0a7f79"/>
+<circle cx="55" cy="75" r="2.1" fill="#0a7f79"/>
+<path d="M71 75 V235 M55 91 H215" stroke="#d6dce5" fill="none"/>
+<circle cx="71" cy="235" r="2.1" fill="#0a7f79"/>
+<circle cx="71" cy="219" r="2.1" fill="#0a7f79"/>
+<circle cx="71" cy="203" r="2.1" fill="#0a7f79"/>
+<circle cx="71" cy="187" r="2.1" fill="#0a7f79"/>
+<circle cx="71" cy="171" r="2.1" fill="#0a7f79"/>
+<circle cx="71" cy="155" r="2.1" fill="#0a7f79"/>
+<circle cx="71" cy="139" r="2.1" fill="#0a7f79"/>
+<circle cx="71" cy="123" r="2.1" fill="#0a7f79"/>
+<circle cx="71" cy="107" r="2.1" fill="#0a7f79"/>
+<circle cx="71" cy="91" r="2.1" fill="#0a7f79"/>
+<circle cx="71" cy="75" r="2.1" fill="#0a7f79"/>
+<path d="M87 75 V235 M55 107 H215" stroke="#d6dce5" fill="none"/>
+<circle cx="87" cy="235" r="2.1" fill="#0a7f79"/>
+<circle cx="87" cy="219" r="2.1" fill="#0a7f79"/>
+<circle cx="87" cy="203" r="2.1" fill="#0a7f79"/>
+<circle cx="87" cy="187" r="2.1" fill="#0a7f79"/>
+<circle cx="87" cy="171" r="2.1" fill="#0a7f79"/>
+<circle cx="87" cy="155" r="2.1" fill="#0a7f79"/>
+<circle cx="87" cy="139" r="2.1" fill="#0a7f79"/>
+<circle cx="87" cy="123" r="2.1" fill="#0a7f79"/>
+<circle cx="87" cy="107" r="2.1" fill="#0a7f79"/>
+<circle cx="87" cy="91" r="2.1" fill="#0a7f79"/>
+<circle cx="87" cy="75" r="2.1" fill="#0a7f79"/>
+<path d="M103 75 V235 M55 123 H215" stroke="#d6dce5" fill="none"/>
+<circle cx="103" cy="235" r="2.1" fill="#0a7f79"/>
+<circle cx="103" cy="219" r="2.1" fill="#0a7f79"/>
+<circle cx="103" cy="203" r="2.1" fill="#0a7f79"/>
+<circle cx="103" cy="187" r="2.1" fill="#0a7f79"/>
+<circle cx="103" cy="171" r="2.1" fill="#0a7f79"/>
+<circle cx="103" cy="155" r="2.1" fill="#0a7f79"/>
+<circle cx="103" cy="139" r="2.1" fill="#0a7f79"/>
+<circle cx="103" cy="123" r="2.1" fill="#0a7f79"/>
+<circle cx="103" cy="107" r="2.1" fill="#0a7f79"/>
+<circle cx="103" cy="91" r="2.1" fill="#0a7f79"/>
+<circle cx="103" cy="75" r="2.1" fill="#0a7f79"/>
+<path d="M119 75 V235 M55 139 H215" stroke="#d6dce5" fill="none"/>
+<circle cx="119" cy="235" r="2.1" fill="#0a7f79"/>
+<circle cx="119" cy="219" r="2.1" fill="#0a7f79"/>
+<circle cx="119" cy="203" r="2.1" fill="#0a7f79"/>
+<circle cx="119" cy="187" r="2.1" fill="#0a7f79"/>
+<circle cx="119" cy="171" r="2.1" fill="#0a7f79"/>
+<circle cx="119" cy="155" r="2.1" fill="#0a7f79"/>
+<circle cx="119" cy="139" r="2.1" fill="#0a7f79"/>
+<circle cx="119" cy="123" r="2.1" fill="#0a7f79"/>
+<circle cx="119" cy="107" r="2.1" fill="#0a7f79"/>
+<circle cx="119" cy="91" r="2.1" fill="#0a7f79"/>
+<circle cx="119" cy="75" r="2.1" fill="#0a7f79"/>
+<path d="M135 75 V235 M55 155 H215" stroke="#d6dce5" fill="none"/>
+<circle cx="135" cy="235" r="2.1" fill="#0a7f79"/>
+<circle cx="135" cy="219" r="2.1" fill="#0a7f79"/>
+<circle cx="135" cy="203" r="2.1" fill="#0a7f79"/>
+<circle cx="135" cy="187" r="2.1" fill="#0a7f79"/>
+<circle cx="135" cy="171" r="2.1" fill="#0a7f79"/>
+<circle cx="135" cy="155" r="2.1" fill="#0a7f79"/>
+<circle cx="135" cy="139" r="2.1" fill="#0a7f79"/>
+<circle cx="135" cy="123" r="2.1" fill="#0a7f79"/>
+<circle cx="135" cy="107" r="2.1" fill="#0a7f79"/>
+<circle cx="135" cy="91" r="2.1" fill="#0a7f79"/>
+<circle cx="135" cy="75" r="2.1" fill="#0a7f79"/>
+<path d="M151 75 V235 M55 171 H215" stroke="#d6dce5" fill="none"/>
+<circle cx="151" cy="235" r="2.1" fill="#0a7f79"/>
+<circle cx="151" cy="219" r="2.1" fill="#0a7f79"/>
+<circle cx="151" cy="203" r="2.1" fill="#0a7f79"/>
+<circle cx="151" cy="187" r="2.1" fill="#0a7f79"/>
+<circle cx="151" cy="171" r="2.1" fill="#0a7f79"/>
+<circle cx="151" cy="155" r="2.1" fill="#0a7f79"/>
+<circle cx="151" cy="139" r="2.1" fill="#0a7f79"/>
+<circle cx="151" cy="123" r="2.1" fill="#0a7f79"/>
+<circle cx="151" cy="107" r="2.1" fill="#0a7f79"/>
+<circle cx="151" cy="91" r="2.1" fill="#0a7f79"/>
+<circle cx="151" cy="75" r="2.1" fill="#0a7f79"/>
+<path d="M167 75 V235 M55 187 H215" stroke="#d6dce5" fill="none"/>
+<circle cx="167" cy="235" r="2.1" fill="#0a7f79"/>
+<circle cx="167" cy="219" r="2.1" fill="#0a7f79"/>
+<circle cx="167" cy="203" r="2.1" fill="#0a7f79"/>
+<circle cx="167" cy="187" r="2.1" fill="#0a7f79"/>
+<circle cx="167" cy="171" r="2.1" fill="#0a7f79"/>
+<circle cx="167" cy="155" r="2.1" fill="#0a7f79"/>
+<circle cx="167" cy="139" r="2.1" fill="#0a7f79"/>
+<circle cx="167" cy="123" r="2.1" fill="#0a7f79"/>
+<circle cx="167" cy="107" r="2.1" fill="#0a7f79"/>
+<circle cx="167" cy="91" r="2.1" fill="#0a7f79"/>
+<circle cx="167" cy="75" r="2.1" fill="#0a7f79"/>
+<path d="M183 75 V235 M55 203 H215" stroke="#d6dce5" fill="none"/>
+<circle cx="183" cy="235" r="2.1" fill="#0a7f79"/>
+<circle cx="183" cy="219" r="2.1" fill="#0a7f79"/>
+<circle cx="183" cy="203" r="2.1" fill="#0a7f79"/>
+<circle cx="183" cy="187" r="2.1" fill="#0a7f79"/>
+<circle cx="183" cy="171" r="2.1" fill="#0a7f79"/>
+<circle cx="183" cy="155" r="2.1" fill="#0a7f79"/>
+<circle cx="183" cy="139" r="2.1" fill="#0a7f79"/>
+<circle cx="183" cy="123" r="2.1" fill="#0a7f79"/>
+<circle cx="183" cy="107" r="2.1" fill="#0a7f79"/>
+<circle cx="183" cy="91" r="2.1" fill="#0a7f79"/>
+<circle cx="183" cy="75" r="2.1" fill="#0a7f79"/>
+<path d="M199 75 V235 M55 219 H215" stroke="#d6dce5" fill="none"/>
+<circle cx="199" cy="235" r="2.1" fill="#0a7f79"/>
+<circle cx="199" cy="219" r="2.1" fill="#0a7f79"/>
+<circle cx="199" cy="203" r="2.1" fill="#0a7f79"/>
+<circle cx="199" cy="187" r="2.1" fill="#0a7f79"/>
+<circle cx="199" cy="171" r="2.1" fill="#0a7f79"/>
+<circle cx="199" cy="155" r="2.1" fill="#0a7f79"/>
+<circle cx="199" cy="139" r="2.1" fill="#0a7f79"/>
+<circle cx="199" cy="123" r="2.1" fill="#0a7f79"/>
+<circle cx="199" cy="107" r="2.1" fill="#0a7f79"/>
+<circle cx="199" cy="91" r="2.1" fill="#0a7f79"/>
+<circle cx="199" cy="75" r="2.1" fill="#0a7f79"/>
+<path d="M215 75 V235 M55 235 H215" stroke="#d6dce5" fill="none"/>
+<circle cx="215" cy="235" r="2.1" fill="#0a7f79"/>
+<circle cx="215" cy="219" r="2.1" fill="#0a7f79"/>
+<circle cx="215" cy="203" r="2.1" fill="#0a7f79"/>
+<circle cx="215" cy="187" r="2.1" fill="#0a7f79"/>
+<circle cx="215" cy="171" r="2.1" fill="#0a7f79"/>
+<circle cx="215" cy="155" r="2.1" fill="#0a7f79"/>
+<circle cx="215" cy="139" r="2.1" fill="#0a7f79"/>
+<circle cx="215" cy="123" r="2.1" fill="#0a7f79"/>
+<circle cx="215" cy="107" r="2.1" fill="#0a7f79"/>
+<circle cx="215" cy="91" r="2.1" fill="#0a7f79"/>
+<circle cx="215" cy="75" r="2.1" fill="#0a7f79"/>
+<path d="M45 235 H230 M55 245 V60" fill="none" stroke="#223047" stroke-width="1.4"/>
+<text x="50" y="259" text-anchor="middle" font-family="Arial,sans-serif" font-size="13" fill="#223047">0</text>
+<text x="216" y="256" text-anchor="middle" font-family="Arial,sans-serif" font-size="13" fill="#223047">10</text>
+<text x="39" y="80" text-anchor="middle" font-family="Arial,sans-serif" font-size="13" fill="#223047">10</text>
+<text x="234" y="243" text-anchor="middle" font-family="Arial,sans-serif" font-size="14" fill="#223047">x</text>
+<text x="55" y="52" text-anchor="middle" font-family="Arial,sans-serif" font-size="14" fill="#223047">y</text>
+<text x="135" y="312" text-anchor="middle" font-family="Arial,sans-serif" font-size="16" fill="#223047">A(1, R0) = 121</text>
+<path d="M310.0000 235.0000 L490.0000 235.0000 L400.0000 79.1154 Z" fill="#e6f4f2" stroke="#0a7f79" stroke-width="2"/>
+<text x="400" y="30" text-anchor="middle" font-family="Arial,sans-serif" font-size="20" fill="#223047">K0</text>
+<text x="400" y="312" text-anchor="middle" font-family="Arial,sans-serif" font-size="16" fill="#223047">3 sides</text>
+<path d="M580.0000 235.0000 L640.0000 235.0000 L670.0000 286.9615 L700.0000 235.0000 L760.0000 235.0000 L730.0000 183.0385 L760.0000 131.0770 L700.0000 131.0770 L670.0000 79.1154 L640.0000 131.0770 L580.0000 131.0770 L610.0000 183.0385 Z" fill="#e6f4f2" stroke="#0a7f79" stroke-width="2"/>
+<text x="670" y="30" text-anchor="middle" font-family="Arial,sans-serif" font-size="20" fill="#223047">K1</text>
+<text x="670" y="312" text-anchor="middle" font-family="Arial,sans-serif" font-size="16" fill="#223047">12 sides</text>
+<path d="M850.0000 235.0000 L870.0000 235.0000 L880.0000 252.3205 L890.0000 235.0000 L910.0000 235.0000 L920.0000 252.3205 L910.0000 269.6410 L930.0000 269.6410 L940.0000 286.9615 L950.0000 269.6410 L970.0000 269.6410 L960.0000 252.3205 L970.0000 235.0000 L990.0000 235.0000 L1000.0000 252.3205 L1010.0000 235.0000 L1030.0000 235.0000 L1020.0000 217.6795 L1030.0000 200.3590 L1010.0000 200.3590 L1000.0000 183.0385 L1010.0000 165.7180 L1030.0000 165.7180 L1020.0000 148.3975 L1030.0000 131.0770 L1010.0000 131.0770 L1000.0000 113.7564 L990.0000 131.0770 L970.0000 131.0770 L960.0000 113.7564 L970.0000 96.4359 L950.0000 96.4359 L940.0000 79.1154 L930.0000 96.4359 L910.0000 96.4359 L920.0000 113.7564 L910.0000 131.0770 L890.0000 131.0770 L880.0000 113.7564 L870.0000 131.0770 L850.0000 131.0770 L860.0000 148.3975 L850.0000 165.7180 L870.0000 165.7180 L880.0000 183.0385 L870.0000 200.3590 L850.0000 200.3590 L860.0000 217.6795 Z" fill="#e6f4f2" stroke="#0a7f79" stroke-width="2"/>
+<text x="940" y="30" text-anchor="middle" font-family="Arial,sans-serif" font-size="20" fill="#223047">K2</text>
+<text x="940" y="312" text-anchor="middle" font-family="Arial,sans-serif" font-size="16" fill="#223047">48 sides</text>
+</svg>

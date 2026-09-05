@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="465" viewBox="0 0 1080 465" role="img" aria-labelledby="title desc"><title id="title">Spring attached to mass P of 2m, with a pendulum mass Q of m. Two mode snapshots for s=b greater than zero.</title><desc id="desc">Spring attached to mass P of 2m, with a pendulum mass Q of m. Two mode snapshots for s=b greater than zero.</desc><rect width="100%" height="100%" fill="white"/><defs><marker id="arrow" markerWidth="7" markerHeight="7" refX="6" refY="3.5" orient="auto"><path d="M0 0 L7 3.5 L0 7 Z" fill="#155e75"/></marker><marker id="axis" markerWidth="6" markerHeight="6" refX="5" refY="3" orient="auto"><path d="M0 0 L6 3 L0 6 Z" fill="#64748b"/></marker><marker id="red" markerWidth="7" markerHeight="7" refX="6" refY="3.5" orient="auto"><path d="M0 0 L7 3.5 L0 7 Z" fill="#b45309"/></marker></defs><style>text{font-family:Arial,Helvetica,sans-serif;font-size:19px;fill:#172b3a}.title{font-size:23px;font-weight:bold}.small{font-size:16px}.axis{fill:none;stroke:#64748b;stroke-width:1.4;marker-end:url(#axis)}.line{fill:none;stroke:#155e75;stroke-width:2.8}.dash{fill:none;stroke:#94a3b8;stroke-width:1.5;stroke-dasharray:5 5}.node{fill:#155e75}.orange{fill:none;stroke:#b45309;stroke-width:2.4}</style><text class="title" x="28" y="35">Spring and pendulum: positions at maximum positive angle</text>
+<line x1="358" y1="62" x2="358" y2="410" stroke="#dbe4ea"/><line x1="719" y1="62" x2="719" y2="410" stroke="#dbe4ea"/>
+<text x="28" y="78">Apparatus</text><path class="axis" d="M85 170 H325"/><path class="axis" d="M130 380 V99"/>
+<text x="311" y="198">x</text><text x="111" y="105">y</text><text x="111" y="197">O</text>
+<path d="M45 142 V197 M30 150 L45 142 M30 165 L45 157 M30 180 L45 172 M30 195 L45 187" stroke="#64748b" fill="none" stroke-width="2"/>
+<polyline class="line" points="45,170 53,170 57.14285714285714,163 69.28571428571428,177 81.42857142857143,163 93.57142857142857,177 105.71428571428571,163 117.85714285714286,177 130.0,163 142.14285714285714,177 154.28571428571428,163 166.42857142857142,177 178.57142857142856,163 190.71428571428572,177 202.85714285714286,163 210,170 215,170"/>
+<path class="line" d="M215 170 L277 346"/><path class="dash" d="M215 170 V347"/>
+<circle class="node" cx="215" cy="170" r="8"/><circle class="node" cx="277" cy="346" r="9"/>
+<path class="orange" d="M215 236 A66 66 0 0 0 237 232"/>
+<text x="226" y="257">θ</text><text x="263" y="258">l</text><text x="146" y="147">k</text>
+<text x="211" y="139">P (2m)</text><text x="249" y="377">Q (m)</text>
+<text x="386" y="78">High frequency: opposite motion</text>
+<path class="axis" d="M395 170 H690"/><path class="dash" d="M545 135 V355"/>
+<text x="533" y="151">O</text><path class="line" d="M510 170 L580 346"/>
+<circle class="node" cx="510" cy="170" r="8"/><circle class="node" cx="580" cy="346" r="9"/>
+<path class="dash" d="M510 170 V346"/>
+<path class="orange" d="M510 236 A66 66 0 0 0 534 231"/><text x="518" y="259">θ</text>
+<text class="small" x="427" y="119">P = (−b/2, 0)</text><text class="small" x="551" y="378">Q = (b/2, −l)</text>
+<path class="orange" d="M545 198 H514" marker-end="url(#red)"/>
+<text class="small" x="612" y="164">x</text>
+<text x="746" y="78">Low frequency: same direction</text>
+<path class="axis" d="M746 170 H1040"/><path class="dash" d="M825 135 V355"/>
+<text x="813" y="151">O</text><path class="line" d="M885 170 L945 346"/>
+<circle class="node" cx="885" cy="170" r="8"/><circle class="node" cx="945" cy="346" r="9"/>
+<path class="dash" d="M885 170 V346"/><path class="orange" d="M885 236 A66 66 0 0 0 906 232"/>
+<text x="894" y="259">θ</text><text class="small" x="849" y="119">P = (b, 0)</text><text class="small" x="910" y="378">Q = (2b, −l)</text>
+<path class="orange" d="M829 198 H880" marker-end="url(#red)"/><text class="small" x="1030" y="197">x</text>
+<text class="small" x="28" y="435">Mode sketches: s = lθ = b &gt; 0; coordinates use the small-angle approximation. Horizontal displacements are enlarged.</text>
+</svg>

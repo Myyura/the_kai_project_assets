@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1130 560" role="img"><title>Programmable XOR recurrence generator and load/run selection</title><rect width="100%" height="100%" fill="white"/>
+<text x="25" y="32" font-family="Arial,sans-serif" font-size="24" fill="#17324d">Recurrence mode: X1 ← F; Xi ← X(i−1) for i = 2, …, 256</text>
+<rect x="120" y="75" width="112" height="76" fill="#ecf5ff" stroke="#17324d" stroke-width="2"/>
+<text x="128" y="100" font-family="Arial,sans-serif" font-size="16" fill="#17324d">D</text>
+<text x="208" y="100" font-family="Arial,sans-serif" font-size="16" fill="#17324d">Q</text>
+<text x="155" y="117" font-family="Arial,sans-serif" font-size="22" fill="#17324d">X1</text>
+<path d="M165,151 L176,137 L187,151" fill="none" stroke="#17324d" stroke-width="2"/>
+<path d="M95,100 L120,100" fill="none" stroke="#17324d" stroke-width="2"/>
+<text x="38" y="90" font-family="Arial,sans-serif" font-size="17" fill="#17324d">F</text>
+<path d="M232,100 L263,100" fill="none" stroke="#17324d" stroke-width="2"/>
+<text x="268" y="106" font-family="Arial,sans-serif" font-size="17" fill="#17324d">X1</text>
+<path d="M176,181 L176,151" fill="none" stroke="#17324d" stroke-width="2"/>
+<text x="187" y="180" font-family="Arial,sans-serif" font-size="16" fill="#17324d">CLK</text>
+<rect x="455" y="75" width="112" height="76" fill="#ecf5ff" stroke="#17324d" stroke-width="2"/>
+<text x="463" y="100" font-family="Arial,sans-serif" font-size="16" fill="#17324d">D</text>
+<text x="543" y="100" font-family="Arial,sans-serif" font-size="16" fill="#17324d">Q</text>
+<text x="490" y="117" font-family="Arial,sans-serif" font-size="22" fill="#17324d">X2</text>
+<path d="M500,151 L511,137 L522,151" fill="none" stroke="#17324d" stroke-width="2"/>
+<path d="M430,100 L455,100" fill="none" stroke="#17324d" stroke-width="2"/>
+<text x="373" y="90" font-family="Arial,sans-serif" font-size="17" fill="#17324d">X1</text>
+<path d="M567,100 L598,100" fill="none" stroke="#17324d" stroke-width="2"/>
+<text x="603" y="106" font-family="Arial,sans-serif" font-size="17" fill="#17324d">X2</text>
+<path d="M511,181 L511,151" fill="none" stroke="#17324d" stroke-width="2"/>
+<text x="522" y="180" font-family="Arial,sans-serif" font-size="16" fill="#17324d">CLK</text>
+<rect x="835" y="75" width="112" height="76" fill="#ecf5ff" stroke="#17324d" stroke-width="2"/>
+<text x="843" y="100" font-family="Arial,sans-serif" font-size="16" fill="#17324d">D</text>
+<text x="923" y="100" font-family="Arial,sans-serif" font-size="16" fill="#17324d">Q</text>
+<text x="870" y="117" font-family="Arial,sans-serif" font-size="22" fill="#17324d">X256</text>
+<path d="M880,151 L891,137 L902,151" fill="none" stroke="#17324d" stroke-width="2"/>
+<path d="M810,100 L835,100" fill="none" stroke="#17324d" stroke-width="2"/>
+<text x="753" y="90" font-family="Arial,sans-serif" font-size="17" fill="#17324d">X255</text>
+<path d="M947,100 L978,100" fill="none" stroke="#17324d" stroke-width="2"/>
+<text x="983" y="106" font-family="Arial,sans-serif" font-size="17" fill="#17324d">X256</text>
+<path d="M891,181 L891,151" fill="none" stroke="#17324d" stroke-width="2"/>
+<text x="902" y="180" font-family="Arial,sans-serif" font-size="16" fill="#17324d">CLK</text>
+<text x="757" y="116" font-family="Arial,sans-serif" font-size="28" fill="#17324d">…</text>
+<text x="25" y="228" font-family="Arial,sans-serif" font-size="18" fill="#17324d">F = XOR of all 256 tap terms Ti. Each XOR is expanded by the two-input circuit above.</text>
+<path d="M120,270 L154,270 A30,30 0 0 1 154,330 L120,330 Z" fill="#ecf5ff" stroke="#17324d" stroke-width="2"/>
+<text x="55" y="291" font-family="Arial,sans-serif" font-size="17" fill="#17324d">C1</text>
+<path d="M105,285 L120,285" fill="none" stroke="#17324d" stroke-width="2"/>
+<text x="55" y="321" font-family="Arial,sans-serif" font-size="17" fill="#17324d">X1</text>
+<path d="M105,315 L120,315" fill="none" stroke="#17324d" stroke-width="2"/>
+<path d="M184,300 L220,300" fill="none" stroke="#17324d" stroke-width="2"/>
+<text x="228" y="306" font-family="Arial,sans-serif" font-size="17" fill="#17324d">T1</text>
+<path d="M455,270 L489,270 A30,30 0 0 1 489,330 L455,330 Z" fill="#ecf5ff" stroke="#17324d" stroke-width="2"/>
+<text x="390" y="291" font-family="Arial,sans-serif" font-size="17" fill="#17324d">C2</text>
+<path d="M440,285 L455,285" fill="none" stroke="#17324d" stroke-width="2"/>
+<text x="390" y="321" font-family="Arial,sans-serif" font-size="17" fill="#17324d">X2</text>
+<path d="M440,315 L455,315" fill="none" stroke="#17324d" stroke-width="2"/>
+<path d="M519,300 L555,300" fill="none" stroke="#17324d" stroke-width="2"/>
+<text x="563" y="306" font-family="Arial,sans-serif" font-size="17" fill="#17324d">T2</text>
+<path d="M835,270 L869,270 A30,30 0 0 1 869,330 L835,330 Z" fill="#ecf5ff" stroke="#17324d" stroke-width="2"/>
+<text x="770" y="291" font-family="Arial,sans-serif" font-size="17" fill="#17324d">C256</text>
+<path d="M820,285 L835,285" fill="none" stroke="#17324d" stroke-width="2"/>
+<text x="770" y="321" font-family="Arial,sans-serif" font-size="17" fill="#17324d">X256</text>
+<path d="M820,315 L835,315" fill="none" stroke="#17324d" stroke-width="2"/>
+<path d="M899,300 L935,300" fill="none" stroke="#17324d" stroke-width="2"/>
+<text x="943" y="306" font-family="Arial,sans-serif" font-size="17" fill="#17324d">T256</text>
+<text x="710" y="307" font-family="Arial,sans-serif" font-size="28" fill="#17324d">…</text>
+<text x="25" y="380" font-family="Arial,sans-serif" font-size="18" fill="#17324d">Ci registers retain their tap bits: D(Ci) = Ci. Every register uses the same ungated CLK.</text>
+<text x="25" y="432" font-family="Arial,sans-serif" font-size="23" fill="#17324d">Load/run mode (W = 0 / 1):</text>
+<text x="25" y="472" font-family="Arial,sans-serif" font-size="20" fill="#17324d">D(X1) = (W AND F) OR (NOT W AND X0)</text>
+<text x="25" y="507" font-family="Arial,sans-serif" font-size="20" fill="#17324d">D(Xi) = X(i−1), i ≥ 2;   D(Ci) = (W AND Ci) OR (NOT W AND C(i−1))</text>
+<text x="25" y="542" font-family="Arial,sans-serif" font-size="18" fill="#17324d">C0 and X0 are external serial inputs. Identical labels denote connected nets.</text>
+</svg>

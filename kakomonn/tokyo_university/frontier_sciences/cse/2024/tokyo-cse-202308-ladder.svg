@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="380" viewBox="0 0 440 380"><rect width="100%" height="100%" fill="white"/>
+<path d="M100 35L100 325" fill="none" stroke="#172033" stroke-width="3"/>
+<path d="M100 325L390 325" fill="none" stroke="#172033" stroke-width="3"/>
+<path d="M100 55L310 325" fill="none" stroke="#172033" stroke-width="4"/>
+<circle cx="207" cy="192" r="7" fill="#172033" stroke="#172033" stroke-width="2"/>
+<text x="183" y="192" fill="#172033" font-family="serif" font-size="20" text-anchor="middle">m</text>
+<path d="M126 41L337 311" fill="none" stroke="#64748b" stroke-width="1"/>
+<path d="M121 45L136 33" fill="none" stroke="#64748b" stroke-width="1"/>
+<path d="M329 319L344 307" fill="none" stroke="#64748b" stroke-width="1"/>
+<text x="264" y="165" fill="#172033" font-family="serif" font-size="20" text-anchor="middle">L</text>
+<path d="M226 185L324 311" fill="none" stroke="#64748b" stroke-width="1"/>
+<text x="297" y="246" fill="#172033" font-family="serif" font-size="20" text-anchor="middle">x</text>
+<path d="M270 325Q272 305 288 297" fill="none" stroke="#172033" stroke-width="2"/>
+<text x="258" y="311" fill="#172033" font-family="serif" font-size="20" text-anchor="middle">θ</text>
+</svg>

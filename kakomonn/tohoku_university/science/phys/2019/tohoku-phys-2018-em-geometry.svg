@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="420" viewBox="0 0 1000 420" role="img" aria-labelledby="title desc"><title id="title">Two geometries: a uniformly charged ring rotating about the z axis, and a rectangular perfectly conducting cavity with side lengths a, a and b.</title><desc id="desc">Two geometries: a uniformly charged ring rotating about the z axis, and a rectangular perfectly conducting cavity with side lengths a, a and b.</desc><rect width="100%" height="100%" fill="white"/><defs><marker id="arrow" markerWidth="7" markerHeight="7" refX="6" refY="3.5" orient="auto"><path d="M0 0 L7 3.5 L0 7 Z" fill="#155e75"/></marker><marker id="axis" markerWidth="6" markerHeight="6" refX="5" refY="3" orient="auto"><path d="M0 0 L6 3 L0 6 Z" fill="#64748b"/></marker><marker id="red" markerWidth="7" markerHeight="7" refX="6" refY="3.5" orient="auto"><path d="M0 0 L7 3.5 L0 7 Z" fill="#b45309"/></marker></defs><style>text{font-family:Arial,Helvetica,sans-serif;font-size:19px;fill:#172b3a}.title{font-size:23px;font-weight:bold}.small{font-size:16px}.axis{fill:none;stroke:#64748b;stroke-width:1.4;marker-end:url(#axis)}.line{fill:none;stroke:#155e75;stroke-width:2.8}.dash{fill:none;stroke:#94a3b8;stroke-width:1.5;stroke-dasharray:5 5}.node{fill:#155e75}.orange{fill:none;stroke:#b45309;stroke-width:2.4}</style>
+<text class="title" x="28" y="38">Electromagnetic geometries</text><line x1="485" y1="65" x2="485" y2="379" stroke="#dbe4ea"/>
+<text x="28" y="82">Charged ring in the xy plane</text><text class="small" x="28" y="105">Radius a; line charge density ρ &gt; 0</text>
+<path class="axis" d="M58 250 H425"/><path class="axis" d="M135 312 L334 169"/><path class="axis" d="M230 339 V127"/>
+<ellipse cx="230" cy="250" rx="135" ry="47" class="line"/>
+<path class="dash" d="M132 218 L328 282"/><path class="line" d="M230 250 L132 218"/>
+<circle class="node" cx="132" cy="218" r="4"/><circle class="node" cx="328" cy="282" r="4"/>
+<circle class="node" cx="230" cy="159" r="4"/><path class="dash" d="M132 218 L230 159 L328 282"/>
+<path class="orange" d="M369 233 A145 53 0 0 0 281 200" marker-end="url(#red)"/>
+<text x="377" y="219">ω</text><text x="241" y="153">P (0, 0, z)</text><text x="245" y="139">z</text>
+<text x="426" y="254">x</text><text x="335" y="168">y</text><text x="210" y="275">O</text>
+<text x="108" y="213">B</text><text x="334" y="300">A</text><text x="175" y="226">a</text>
+<text class="small" x="28" y="370">Positive rotation follows the right-hand rule about +z.</text>
+<text x="520" y="82">Perfectly conducting cavity</text><text class="small" x="520" y="105">0 ≤ x ≤ a, 0 ≤ y ≤ a, 0 ≤ z ≤ b; a &gt; b</text>
+<polygon points="650,165 800,165 715,235 565,235" fill="#f0f8fa" stroke="none"/>
+<polygon points="715,235 800,165 800,265 715,335" fill="#edf3f7" stroke="none"/>
+<path class="line" d="M650 165 H800 L715 235 H565 Z M565 235 V335 H715 V235 M715 335 L800 265 V165"/>
+<path class="dash" d="M650 165 V265 H800 M650 265 L565 335"/>
+<path class="axis" d="M650 265 L535 361"/><path class="axis" d="M650 265 H866"/><path class="axis" d="M650 265 V126"/>
+<text x="517" y="379">x</text><text x="870" y="272">y</text><text x="664" y="136">z</text><text x="630" y="287">O</text>
+<text x="630" y="362">a</text><text x="774" y="319">a</text><text x="819" y="216">b</text>
+<text class="small" x="520" y="399">The electric field has only a z component.</text></svg>

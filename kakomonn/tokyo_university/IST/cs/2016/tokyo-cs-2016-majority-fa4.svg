@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 300" role="img"><title>Four-bit ripple-carry majority full adder</title><rect width="100%" height="100%" fill="white"/>
+<text x="25" y="30" font-family="Arial, sans-serif" font-size="23" fill="#172b4d" text-anchor="start">(3) Four-bit full adder FA₄</text>
+<rect x="100" y="100" width="130" height="90" fill="#edf6ff" stroke="#243b53" stroke-width="2"/>
+<text x="165" y="152" font-family="Arial, sans-serif" font-size="22" fill="#172b4d" text-anchor="middle">FA₁ [0]</text>
+<text x="135" y="61" font-family="Arial, sans-serif" font-size="20" fill="#172b4d" text-anchor="middle">a0</text>
+<path d="M135,70 L135,100" fill="none" stroke="#243b53" stroke-width="2"/>
+<text x="195" y="61" font-family="Arial, sans-serif" font-size="20" fill="#172b4d" text-anchor="middle">b0</text>
+<path d="M195,70 L195,100" fill="none" stroke="#243b53" stroke-width="2"/>
+<path d="M30,145 L100,145" fill="none" stroke="#243b53" stroke-width="2"/>
+<text x="60" y="133" font-family="Arial, sans-serif" font-size="18" fill="#172b4d" text-anchor="middle">C0</text>
+<path d="M165,190 L165,220" fill="none" stroke="#243b53" stroke-width="2"/>
+<text x="165" y="245" font-family="Arial, sans-serif" font-size="18" fill="#172b4d" text-anchor="middle">S0 (depth 2)</text>
+<path d="M230,145 L280,145" fill="none" stroke="#243b53" stroke-width="2"/>
+<rect x="350" y="100" width="130" height="90" fill="#edf6ff" stroke="#243b53" stroke-width="2"/>
+<text x="415" y="152" font-family="Arial, sans-serif" font-size="22" fill="#172b4d" text-anchor="middle">FA₁ [1]</text>
+<text x="385" y="61" font-family="Arial, sans-serif" font-size="20" fill="#172b4d" text-anchor="middle">a1</text>
+<path d="M385,70 L385,100" fill="none" stroke="#243b53" stroke-width="2"/>
+<text x="445" y="61" font-family="Arial, sans-serif" font-size="20" fill="#172b4d" text-anchor="middle">b1</text>
+<path d="M445,70 L445,100" fill="none" stroke="#243b53" stroke-width="2"/>
+<path d="M280,145 L350,145" fill="none" stroke="#243b53" stroke-width="2"/>
+<text x="310" y="133" font-family="Arial, sans-serif" font-size="18" fill="#172b4d" text-anchor="middle">C1</text>
+<path d="M415,190 L415,220" fill="none" stroke="#243b53" stroke-width="2"/>
+<text x="415" y="245" font-family="Arial, sans-serif" font-size="18" fill="#172b4d" text-anchor="middle">S1 (depth 3)</text>
+<path d="M480,145 L530,145" fill="none" stroke="#243b53" stroke-width="2"/>
+<rect x="600" y="100" width="130" height="90" fill="#edf6ff" stroke="#243b53" stroke-width="2"/>
+<text x="665" y="152" font-family="Arial, sans-serif" font-size="22" fill="#172b4d" text-anchor="middle">FA₁ [2]</text>
+<text x="635" y="61" font-family="Arial, sans-serif" font-size="20" fill="#172b4d" text-anchor="middle">a2</text>
+<path d="M635,70 L635,100" fill="none" stroke="#243b53" stroke-width="2"/>
+<text x="695" y="61" font-family="Arial, sans-serif" font-size="20" fill="#172b4d" text-anchor="middle">b2</text>
+<path d="M695,70 L695,100" fill="none" stroke="#243b53" stroke-width="2"/>
+<path d="M530,145 L600,145" fill="none" stroke="#243b53" stroke-width="2"/>
+<text x="560" y="133" font-family="Arial, sans-serif" font-size="18" fill="#172b4d" text-anchor="middle">C2</text>
+<path d="M665,190 L665,220" fill="none" stroke="#243b53" stroke-width="2"/>
+<text x="665" y="245" font-family="Arial, sans-serif" font-size="18" fill="#172b4d" text-anchor="middle">S2 (depth 4)</text>
+<path d="M730,145 L780,145" fill="none" stroke="#243b53" stroke-width="2"/>
+<rect x="850" y="100" width="130" height="90" fill="#edf6ff" stroke="#243b53" stroke-width="2"/>
+<text x="915" y="152" font-family="Arial, sans-serif" font-size="22" fill="#172b4d" text-anchor="middle">FA₁ [3]</text>
+<text x="885" y="61" font-family="Arial, sans-serif" font-size="20" fill="#172b4d" text-anchor="middle">a3</text>
+<path d="M885,70 L885,100" fill="none" stroke="#243b53" stroke-width="2"/>
+<text x="945" y="61" font-family="Arial, sans-serif" font-size="20" fill="#172b4d" text-anchor="middle">b3</text>
+<path d="M945,70 L945,100" fill="none" stroke="#243b53" stroke-width="2"/>
+<path d="M780,145 L850,145" fill="none" stroke="#243b53" stroke-width="2"/>
+<text x="810" y="133" font-family="Arial, sans-serif" font-size="18" fill="#172b4d" text-anchor="middle">C3</text>
+<path d="M915,190 L915,220" fill="none" stroke="#243b53" stroke-width="2"/>
+<text x="915" y="245" font-family="Arial, sans-serif" font-size="18" fill="#172b4d" text-anchor="middle">S3 (depth 5)</text>
+<path d="M980,145 L1035,145" fill="none" stroke="#243b53" stroke-width="2"/>
+<text x="1040" y="152" font-family="Arial, sans-serif" font-size="19" fill="#172b4d" text-anchor="start">C4</text>
+<text x="25" y="279" font-family="Arial, sans-serif" font-size="18" fill="#172b4d" text-anchor="start">Carry path: C₀ → C₁ → C₂ → C₃ → C₄.   Maximum majority depth: 5 (S₃).</text>
+</svg>

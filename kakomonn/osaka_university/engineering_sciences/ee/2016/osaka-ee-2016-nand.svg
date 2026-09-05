@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="660" height="630" viewBox="0 0 660 630" role="img" aria-labelledby="title desc">
+<title id="title">Two-input CMOS NAND circuit</title><desc id="desc">Two pMOS devices controlled by A and B connect VDD to VO in parallel. Two nMOS devices controlled by A and B connect VO to GND in series. The n-type substrate is tied to VDD and the p-well to GND.</desc>
+<rect width="660" height="630" fill="white"/>
+<g stroke="#17202a" fill="none" stroke-width="3" stroke-linecap="square">
+<!-- supply and parallel pMOS branches -->
+<path d="M330 52V85H210V135 M330 85H450V135"/>
+<path d="M210 135H192V195H210V245H450V195H432V135H450"/>
+<path d="M180 145V185 M420 145V185 M120 165H161 M360 165H401"/>
+<circle cx="170" cy="165" r="8"/><circle cx="410" cy="165" r="8"/>
+<!-- output and series nMOS devices -->
+<path d="M330 245H555 M330 245V305H312V365H330V410H312V470H330V520"/>
+<path d="M300 315V355 M300 420V460 M240 335H300 M240 440H300"/>
+<!-- ground -->
+<path d="M306 520H354 M313 529H347 M321 538H339"/>
+</g>
+<g fill="#17202a"><circle cx="330" cy="85" r="5"/><circle cx="330" cy="245" r="5"/><circle cx="210" cy="245" r="4"/></g>
+<g font-family="Arial, sans-serif" font-size="23" fill="#17202a">
+<text x="308" y="40">VDD</text><text x="560" y="253">VO</text>
+<text x="87" y="173">A</text><text x="327" y="173">B</text>
+<text x="204" y="343">A</text><text x="204" y="448">B</text>
+<text x="220" y="174">pMOS</text><text x="460" y="174">pMOS</text>
+<text x="341" y="343">nMOS</text><text x="341" y="448">nMOS</text>
+<text x="304" y="568">GND</text>
+<text x="48" y="601" font-size="18">n-substrate → VDD; p-well → GND</text>
+</g></svg>

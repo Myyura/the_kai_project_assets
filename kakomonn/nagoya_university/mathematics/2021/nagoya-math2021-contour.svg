@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 370" role="img"><title>Counterclockwise upper semicircle containing the three upper-half-plane poles</title><rect width="620" height="370" fill="white"/>
+<defs><marker id="arrow" markerWidth="7" markerHeight="7" refX="6" refY="3.5" orient="auto"><path d="M0,0 L7,3.5 L0,7 Z" fill="#334155"/></marker></defs>
+<path d="M25,290 H590 M310,335 V20" fill="none" stroke="#94a3b8" stroke-width="1.5" marker-end="url(#arrow)"/>
+<path d="M80,290 H540 A230,230 0 0 0 80,290" fill="none" stroke="#2563eb" stroke-width="3"/>
+<path d="M200,290 H260 M410,83 L390,74" stroke="#334155" stroke-width="2" fill="none" marker-end="url(#arrow)"/>
+<circle cx="310" cy="190" r="5" fill="#dc2626"/>
+<circle cx="396.60254037844385" cy="240" r="5" fill="#dc2626"/>
+<circle cx="223.39745962155615" cy="240" r="5" fill="#dc2626"/>
+<text x="55" y="320" font-family="sans-serif" font-size="20" stroke="white" stroke-width="4" paint-order="stroke">−R</text>
+<text x="535" y="320" font-family="sans-serif" font-size="20" stroke="white" stroke-width="4" paint-order="stroke">R</text>
+<text x="291" y="318" font-family="sans-serif" font-size="20" stroke="white" stroke-width="4" paint-order="stroke">0</text>
+<text x="594" y="297" font-family="sans-serif" font-size="20" stroke="white" stroke-width="4" paint-order="stroke">Re</text>
+<text x="319" y="25" font-family="sans-serif" font-size="20" stroke="white" stroke-width="4" paint-order="stroke">Im</text>
+<text x="400" y="58" font-family="sans-serif" font-size="20" stroke="white" stroke-width="4" paint-order="stroke">C_R</text>
+<text x="230" y="278" font-family="sans-serif" font-size="20" stroke="white" stroke-width="4" paint-order="stroke">J_R</text>
+<text x="320" y="190" font-family="sans-serif" font-size="20" stroke="white" stroke-width="4" paint-order="stroke">i</text>
+<text x="400" y="234" font-family="sans-serif" font-size="20" stroke="white" stroke-width="4" paint-order="stroke">(√3+i)/2</text>
+<text x="105" y="230" font-family="sans-serif" font-size="20" stroke="white" stroke-width="4" paint-order="stroke">(−√3+i)/2</text>
+</svg>

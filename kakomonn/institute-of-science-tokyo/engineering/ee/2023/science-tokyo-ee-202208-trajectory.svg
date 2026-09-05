@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="420" viewBox="0 0 620 420">
+<rect width="620" height="420" fill="white"/>
+<path d="M550 345H55 M410 380V35" fill="none" stroke="#222" stroke-width="2"/>
+<path d="M55 345l12 -6v12z M410 35l-6 12h12z" fill="#222"/>
+<path d="M60 245H555" stroke="#666" stroke-width="1.5"/>
+<path d="M410 245A120 120 0 0 0 170 245" fill="none" stroke="#1768a0" stroke-width="3.5"/>
+<path d="M280 125l15 -6v12z" fill="#1768a0"/>
+<path d="M410 340V257" stroke="#1768a0" stroke-width="3"/><path d="M410 252l-6 13h12z" fill="#1768a0"/>
+<path d="M290 239V230 M290 222V213 M290 205V196 M290 188V179 M290 171V162 M290 154V145 M290 137V128" stroke="#666" stroke-width="1.5"/>
+<circle cx="290" cy="245" r="3" fill="#222"/>
+<text x="39" y="370" font-family="serif" font-size="23">x</text>
+<text x="422" y="38" font-family="serif" font-size="23">y</text>
+<text x="420" y="366" font-family="serif" font-size="21">O</text>
+<text x="422" y="251" font-family="serif" font-size="21">y₁</text>
+<text x="281" y="275" font-family="serif" font-size="23">r</text>
+<text x="151" y="273" font-family="serif" font-size="21">2r</text>
+<text x="424" y="302" font-family="serif" font-size="21">v₀</text>
+<text x="70" y="70" font-family="serif" font-size="22">r = mv₀/(qB)</text>
+<text x="313" y="112" font-family="serif" font-size="21">yₘₐₓ = y₁ + r</text>
+<text x="475" y="190" font-family="serif" font-size="21">B ⊗</text>
+</svg>

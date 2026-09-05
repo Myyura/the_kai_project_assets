@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 420" role="img"><title>Parity output using four pass transistors and one inverter</title><rect width="100%" height="100%" fill="white"/>
+<text x="25" y="32" font-family="Arial,sans-serif" font-size="24" fill="#17324d">B = A S5 + A̅ S6</text>
+<text x="35" y="190" font-family="Arial,sans-serif" font-size="22" fill="#17324d">S5</text>
+<path d="M165,141 L200,141 L200,125 L240,125 L240,141 L275,141" fill="none" stroke="#17324d" stroke-width="2"/>
+<path d="M200,113 L240,113" fill="none" stroke="#17324d" stroke-width="2"/>
+<path d="M220,80 L220,113" fill="none" stroke="#17324d" stroke-width="2"/>
+<text x="235" y="90" font-family="Arial,sans-serif" font-size="18" fill="#17324d">A</text>
+<text x="288" y="123" font-family="Arial,sans-serif" font-size="17" fill="#17324d">nMOS</text>
+<path d="M165,251 L200,251 L200,235 L240,235 L240,251 L275,251" fill="none" stroke="#17324d" stroke-width="2"/>
+<path d="M200,223 L240,223" fill="none" stroke="#17324d" stroke-width="2"/>
+<path d="M220,190 L220,211" fill="none" stroke="#17324d" stroke-width="2"/>
+<circle cx="220" cy="217" r="6" fill="white" stroke="#17324d" stroke-width="2"/>
+<text x="235" y="200" font-family="Arial,sans-serif" font-size="18" fill="#17324d">A̅</text>
+<text x="288" y="233" font-family="Arial,sans-serif" font-size="17" fill="#17324d">pMOS</text>
+<path d="M78,184 L145,184" fill="none" stroke="#17324d" stroke-width="2"/>
+<path d="M145,141 L145,251" fill="none" stroke="#17324d" stroke-width="2"/>
+<path d="M145,141 L165,141" fill="none" stroke="#17324d" stroke-width="2"/>
+<path d="M275,141 L370,141" fill="none" stroke="#17324d" stroke-width="2"/>
+<path d="M145,251 L165,251" fill="none" stroke="#17324d" stroke-width="2"/>
+<path d="M275,251 L370,251" fill="none" stroke="#17324d" stroke-width="2"/>
+<path d="M370,141 L370,251" fill="none" stroke="#17324d" stroke-width="2"/>
+<path d="M370,184 L415,184" fill="none" stroke="#17324d" stroke-width="2"/>
+<text x="423" y="191" font-family="Arial,sans-serif" font-size="22" fill="#17324d">B</text>
+<text x="560" y="190" font-family="Arial,sans-serif" font-size="22" fill="#17324d">S6</text>
+<path d="M690,141 L725,141 L725,125 L765,125 L765,141 L800,141" fill="none" stroke="#17324d" stroke-width="2"/>
+<path d="M725,113 L765,113" fill="none" stroke="#17324d" stroke-width="2"/>
+<path d="M745,80 L745,113" fill="none" stroke="#17324d" stroke-width="2"/>
+<text x="760" y="90" font-family="Arial,sans-serif" font-size="18" fill="#17324d">A̅</text>
+<text x="813" y="123" font-family="Arial,sans-serif" font-size="17" fill="#17324d">nMOS</text>
+<path d="M690,251 L725,251 L725,235 L765,235 L765,251 L800,251" fill="none" stroke="#17324d" stroke-width="2"/>
+<path d="M725,223 L765,223" fill="none" stroke="#17324d" stroke-width="2"/>
+<path d="M745,190 L745,211" fill="none" stroke="#17324d" stroke-width="2"/>
+<circle cx="745" cy="217" r="6" fill="white" stroke="#17324d" stroke-width="2"/>
+<text x="760" y="200" font-family="Arial,sans-serif" font-size="18" fill="#17324d">A</text>
+<text x="813" y="233" font-family="Arial,sans-serif" font-size="17" fill="#17324d">pMOS</text>
+<path d="M603,184 L670,184" fill="none" stroke="#17324d" stroke-width="2"/>
+<path d="M670,141 L670,251" fill="none" stroke="#17324d" stroke-width="2"/>
+<path d="M670,141 L690,141" fill="none" stroke="#17324d" stroke-width="2"/>
+<path d="M800,141 L895,141" fill="none" stroke="#17324d" stroke-width="2"/>
+<path d="M670,251 L690,251" fill="none" stroke="#17324d" stroke-width="2"/>
+<path d="M800,251 L895,251" fill="none" stroke="#17324d" stroke-width="2"/>
+<path d="M895,141 L895,251" fill="none" stroke="#17324d" stroke-width="2"/>
+<path d="M895,184 L940,184" fill="none" stroke="#17324d" stroke-width="2"/>
+<text x="948" y="191" font-family="Arial,sans-serif" font-size="22" fill="#17324d">B</text>
+<text x="35" y="330" font-family="Arial,sans-serif" font-size="21" fill="#17324d">A</text>
+<path d="M58,324 L98,324" fill="none" stroke="#17324d" stroke-width="2"/>
+<path d="M98,306 L98,342 L136,324 Z" fill="#ecf5ff" stroke="#17324d" stroke-width="2"/><circle cx="142" cy="324" r="6" fill="white" stroke="#17324d" stroke-width="2"/>
+<path d="M148,324 L182,324" fill="none" stroke="#17324d" stroke-width="2"/>
+<text x="192" y="331" font-family="Arial,sans-serif" font-size="21" fill="#17324d">A̅</text>
+<text x="250" y="330" font-family="Arial,sans-serif" font-size="18" fill="#17324d">Inverter: 2 transistors; both transmission gates: 4 transistors.</text>
+<text x="25" y="390" font-family="Arial,sans-serif" font-size="18" fill="#17324d">Identical labels denote the same net. nMOS bodies → GND; pMOS bodies → VDD. Total: 6 transistors.</text>
+</svg>

@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="310" viewBox="0 0 520 310"><rect width="100%" height="100%" fill="white"/>
+<path d="M65 255L480 255" fill="none" stroke="#64748b" stroke-width="2"/>
+<path d="M480 255L470.0 251.0L470.0 259.0Z" fill="#64748b" stroke="#64748b" stroke-width="1"/>
+<path d="M65 255L65 35" fill="none" stroke="#64748b" stroke-width="2"/>
+<path d="M65 35L61.0 45.0L69.0 45.0Z" fill="#64748b" stroke="#64748b" stroke-width="1"/>
+<path d="M65 217H205L340 90H472" fill="none" stroke="#172033" stroke-width="3"/>
+<path d="M65.0 90.0L82.1875 90.0" fill="none" stroke="#64748b" stroke-width="1"/>
+<path d="M99.375 90.0L116.5625 90.0" fill="none" stroke="#64748b" stroke-width="1"/>
+<path d="M133.75 90.0L150.9375 90.0" fill="none" stroke="#64748b" stroke-width="1"/>
+<path d="M168.125 90.0L185.3125 90.0" fill="none" stroke="#64748b" stroke-width="1"/>
+<path d="M202.5 90.0L219.6875 90.0" fill="none" stroke="#64748b" stroke-width="1"/>
+<path d="M236.875 90.0L254.0625 90.0" fill="none" stroke="#64748b" stroke-width="1"/>
+<path d="M271.25 90.0L288.4375 90.0" fill="none" stroke="#64748b" stroke-width="1"/>
+<path d="M305.625 90.0L322.8125 90.0" fill="none" stroke="#64748b" stroke-width="1"/>
+<path d="M205.0 255.0L205.0 242.5" fill="none" stroke="#64748b" stroke-width="1"/>
+<path d="M205.0 230.0L205.0 217.5" fill="none" stroke="#64748b" stroke-width="1"/>
+<path d="M205.0 205.0L205.0 192.5" fill="none" stroke="#64748b" stroke-width="1"/>
+<path d="M205.0 180.0L205.0 167.5" fill="none" stroke="#64748b" stroke-width="1"/>
+<path d="M205.0 155.0L205.0 142.5" fill="none" stroke="#64748b" stroke-width="1"/>
+<path d="M205.0 130.0L205.0 117.5" fill="none" stroke="#64748b" stroke-width="1"/>
+<path d="M205.0 105.0L205.0 92.5" fill="none" stroke="#64748b" stroke-width="1"/>
+<path d="M205.0 80.0L205.0 67.5" fill="none" stroke="#64748b" stroke-width="1"/>
+<path d="M340.0 255.0L340.0 242.5" fill="none" stroke="#64748b" stroke-width="1"/>
+<path d="M340.0 230.0L340.0 217.5" fill="none" stroke="#64748b" stroke-width="1"/>
+<path d="M340.0 205.0L340.0 192.5" fill="none" stroke="#64748b" stroke-width="1"/>
+<path d="M340.0 180.0L340.0 167.5" fill="none" stroke="#64748b" stroke-width="1"/>
+<path d="M340.0 155.0L340.0 142.5" fill="none" stroke="#64748b" stroke-width="1"/>
+<path d="M340.0 130.0L340.0 117.5" fill="none" stroke="#64748b" stroke-width="1"/>
+<path d="M340.0 105.0L340.0 92.5" fill="none" stroke="#64748b" stroke-width="1"/>
+<path d="M340.0 80.0L340.0 67.5" fill="none" stroke="#64748b" stroke-width="1"/>
+<text x="38" y="98" fill="#172033" font-family="serif" font-size="20" text-anchor="middle">Bₑ</text>
+<text x="38" y="223" fill="#172033" font-family="serif" font-size="20" text-anchor="middle">Bₛ</text>
+<text x="205" y="282" fill="#172033" font-family="serif" font-size="20" text-anchor="middle">tₛ</text>
+<text x="340" y="282" fill="#172033" font-family="serif" font-size="20" text-anchor="middle">tₑ</text>
+<text x="490" y="261" fill="#172033" font-family="serif" font-size="20" text-anchor="middle">t</text>
+<text x="49" y="30" fill="#172033" font-family="serif" font-size="20" text-anchor="middle">B</text>
+<text x="47" y="274" fill="#172033" font-family="serif" font-size="20" text-anchor="middle">0</text>
+</svg>

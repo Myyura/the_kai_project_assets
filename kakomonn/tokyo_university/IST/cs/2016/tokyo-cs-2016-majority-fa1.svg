@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 225" role="img"><title>Two-level majority full adder</title><rect width="100%" height="100%" fill="white"/>
+<text x="25" y="32" font-family="Arial, sans-serif" font-size="23" fill="#172b4d" text-anchor="start">(2) One-bit full adder FA₁</text>
+<rect x="110" y="80" width="70" height="100" fill="#edf6ff" stroke="#243b53" stroke-width="2"/>
+<text x="145" y="138" font-family="Arial, sans-serif" font-size="24" fill="#172b4d" text-anchor="middle">M₃</text>
+<text x="45" y="106" font-family="Arial, sans-serif" font-size="19" fill="#172b4d" text-anchor="start">a</text>
+<path d="M80,100 L110,100" fill="none" stroke="#243b53" stroke-width="2"/>
+<text x="45" y="136" font-family="Arial, sans-serif" font-size="19" fill="#172b4d" text-anchor="start">b</text>
+<path d="M80,130 L110,130" fill="none" stroke="#243b53" stroke-width="2"/>
+<text x="45" y="166" font-family="Arial, sans-serif" font-size="19" fill="#172b4d" text-anchor="start">c</text>
+<path d="M80,160 L110,160" fill="none" stroke="#243b53" stroke-width="2"/>
+<path d="M180,130 L210,130" fill="none" stroke="#243b53" stroke-width="2"/>
+<text x="220" y="137" font-family="Arial, sans-serif" font-size="19" fill="#172b4d" text-anchor="start">C</text>
+<rect x="455" y="80" width="70" height="100" fill="#edf6ff" stroke="#243b53" stroke-width="2"/>
+<text x="490" y="138" font-family="Arial, sans-serif" font-size="24" fill="#172b4d" text-anchor="middle">M₃</text>
+<text x="390" y="106" font-family="Arial, sans-serif" font-size="19" fill="#172b4d" text-anchor="start">b</text>
+<path d="M425,100 L455,100" fill="none" stroke="#243b53" stroke-width="2"/>
+<text x="390" y="136" font-family="Arial, sans-serif" font-size="19" fill="#172b4d" text-anchor="start">c</text>
+<path d="M425,130 L455,130" fill="none" stroke="#243b53" stroke-width="2"/>
+<text x="390" y="166" font-family="Arial, sans-serif" font-size="19" fill="#172b4d" text-anchor="start">a</text>
+<path d="M425,160 L455,160" fill="none" stroke="#243b53" stroke-width="2"/>
+<circle cx="448" cy="160" r="7" fill="white" stroke="#243b53" stroke-width="2"/>
+<path d="M525,130 L555,130" fill="none" stroke="#243b53" stroke-width="2"/>
+<text x="565" y="137" font-family="Arial, sans-serif" font-size="19" fill="#172b4d" text-anchor="start">T</text>
+<rect x="820" y="80" width="70" height="100" fill="#edf6ff" stroke="#243b53" stroke-width="2"/>
+<text x="855" y="138" font-family="Arial, sans-serif" font-size="24" fill="#172b4d" text-anchor="middle">M₃</text>
+<text x="755" y="106" font-family="Arial, sans-serif" font-size="19" fill="#172b4d" text-anchor="start">C</text>
+<path d="M790,100 L820,100" fill="none" stroke="#243b53" stroke-width="2"/>
+<circle cx="813" cy="100" r="7" fill="white" stroke="#243b53" stroke-width="2"/>
+<text x="755" y="136" font-family="Arial, sans-serif" font-size="19" fill="#172b4d" text-anchor="start">a</text>
+<path d="M790,130 L820,130" fill="none" stroke="#243b53" stroke-width="2"/>
+<text x="755" y="166" font-family="Arial, sans-serif" font-size="19" fill="#172b4d" text-anchor="start">T</text>
+<path d="M790,160 L820,160" fill="none" stroke="#243b53" stroke-width="2"/>
+<path d="M890,130 L920,130" fill="none" stroke="#243b53" stroke-width="2"/>
+<text x="930" y="137" font-family="Arial, sans-serif" font-size="19" fill="#172b4d" text-anchor="start">S</text>
+<text x="25" y="215" font-family="Arial, sans-serif" font-size="18" fill="#172b4d" text-anchor="start">Equal signal names denote the same net. A circle denotes NOT.  Depth(C) = 1; depth(S) = 2.</text>
+</svg>

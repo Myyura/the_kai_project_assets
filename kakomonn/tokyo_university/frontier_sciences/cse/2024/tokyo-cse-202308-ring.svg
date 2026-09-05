@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="370" viewBox="0 0 500 370"><rect width="100%" height="100%" fill="white"/>
+<circle cx="245" cy="155" r="115" fill="white" stroke="#172033" stroke-width="2"/>
+<circle cx="245" cy="155" r="4" fill="#172033" stroke="#172033" stroke-width="2"/>
+<path d="M245 155L337 224" fill="none" stroke="#172033" stroke-width="3"/>
+<text x="297" y="174" fill="#172033" font-family="serif" font-size="20" text-anchor="middle">a</text>
+<path d="M130 155L87 155" fill="none" stroke="#172033" stroke-width="2"/>
+<path d="M87 155L87 322" fill="none" stroke="#172033" stroke-width="2"/>
+<path d="M245 155L245 322" fill="none" stroke="#172033" stroke-width="2"/>
+<path d="M87 322L141.0 322" fill="none" stroke="#172033" stroke-width="2"/>
+<path d="M141.0 313H191.0V331H141.0Z" fill="none" stroke="#172033" stroke-width="2"/>
+<path d="M191.0 322L245 322" fill="none" stroke="#172033" stroke-width="2"/>
+<text x="166.0" y="303" fill="#172033" font-family="serif" font-size="18" text-anchor="middle">R</text>
+<circle cx="394" cy="81" r="11" fill="white" stroke="#172033" stroke-width="2"/>
+<path d="M387 74L401 88" fill="none" stroke="#172033" stroke-width="2"/>
+<path d="M387 88L401 74" fill="none" stroke="#172033" stroke-width="2"/>
+<text x="420" y="87" fill="#172033" font-family="serif" font-size="20" text-anchor="middle">B</text>
+<path d="M361 171Q357 212 328 241" fill="none" stroke="#2563eb" stroke-width="2"/>
+<path d="M339 231L328 241" fill="none" stroke="#2563eb" stroke-width="2"/>
+<path d="M328 241L338.0900919099447 237.23303235362064L332.7087095579742 231.3135117664531Z" fill="#2563eb" stroke="#2563eb" stroke-width="1"/>
+<text x="390" y="221" fill="#172033" font-family="serif" font-size="20" text-anchor="middle">ω</text>
+</svg>

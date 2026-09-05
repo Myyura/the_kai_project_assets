@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="810" height="280" viewBox="0 0 810 280"><rect width="100%" height="100%" fill="white"/>
+<text x="175" y="36" fill="#172033" font-family="serif" font-size="20" text-anchor="middle">(1)</text>
+<text x="35" y="94" fill="#172033" font-family="serif" font-size="20" text-anchor="middle">A</text>
+<text x="35" y="233" fill="#172033" font-family="serif" font-size="20" text-anchor="middle">B</text>
+<path d="M50 90L70 90" fill="none" stroke="#172033" stroke-width="2"/>
+<path d="M50 230L335 230" fill="none" stroke="#172033" stroke-width="2"/>
+<path d="M70 90L105.0 90" fill="none" stroke="#172033" stroke-width="2"/>
+<path d="M105.0 81H155.0V99H105.0Z" fill="none" stroke="#172033" stroke-width="2"/>
+<path d="M155.0 90L190 90" fill="none" stroke="#172033" stroke-width="2"/>
+<text x="130.0" y="71" fill="#172033" font-family="serif" font-size="18" text-anchor="middle">10 Ω</text>
+<path d="M190 90L227.5 90" fill="none" stroke="#172033" stroke-width="2"/>
+<path d="M227.5 81H277.5V99H227.5Z" fill="none" stroke="#172033" stroke-width="2"/>
+<path d="M277.5 90L315 90" fill="none" stroke="#172033" stroke-width="2"/>
+<text x="252.5" y="71" fill="#172033" font-family="serif" font-size="18" text-anchor="middle">10 Ω</text>
+<path d="M190 90L190 135.0" fill="none" stroke="#172033" stroke-width="2"/>
+<path d="M181 135.0H199V185.0H181Z" fill="none" stroke="#172033" stroke-width="2"/>
+<path d="M190 185.0L190 230" fill="none" stroke="#172033" stroke-width="2"/>
+<text x="208" y="165.0" fill="#172033" font-family="serif" font-size="18" text-anchor="start">10 Ω</text>
+<path d="M315 90L335 90" fill="none" stroke="#172033" stroke-width="2"/>
+<circle cx="335" cy="90" r="3" fill="#172033" stroke="#172033" stroke-width="2"/>
+<circle cx="335" cy="230" r="3" fill="#172033" stroke="#172033" stroke-width="2"/>
+<circle cx="50" cy="90" r="3" fill="#172033" stroke="#172033" stroke-width="2"/>
+<circle cx="50" cy="230" r="3" fill="#172033" stroke="#172033" stroke-width="2"/>
+<text x="565" y="36" fill="#172033" font-family="serif" font-size="20" text-anchor="middle">(2)</text>
+<text x="425" y="94" fill="#172033" font-family="serif" font-size="20" text-anchor="middle">A</text>
+<text x="425" y="233" fill="#172033" font-family="serif" font-size="20" text-anchor="middle">B</text>
+<path d="M440 90L460 90" fill="none" stroke="#172033" stroke-width="2"/>
+<path d="M440 230L725 230" fill="none" stroke="#172033" stroke-width="2"/>
+<path d="M460 90L495.0 90" fill="none" stroke="#172033" stroke-width="2"/>
+<path d="M495.0 81H545.0V99H495.0Z" fill="none" stroke="#172033" stroke-width="2"/>
+<path d="M545.0 90L580 90" fill="none" stroke="#172033" stroke-width="2"/>
+<text x="520.0" y="71" fill="#172033" font-family="serif" font-size="18" text-anchor="middle">10 Ω</text>
+<path d="M580 90L617.5 90" fill="none" stroke="#172033" stroke-width="2"/>
+<path d="M617.5 81H667.5V99H617.5Z" fill="none" stroke="#172033" stroke-width="2"/>
+<path d="M667.5 90L705 90" fill="none" stroke="#172033" stroke-width="2"/>
+<text x="642.5" y="71" fill="#172033" font-family="serif" font-size="18" text-anchor="middle">10 Ω</text>
+<path d="M580 90L580 135.0" fill="none" stroke="#172033" stroke-width="2"/>
+<path d="M571 135.0H589V185.0H571Z" fill="none" stroke="#172033" stroke-width="2"/>
+<path d="M580 185.0L580 230" fill="none" stroke="#172033" stroke-width="2"/>
+<text x="598" y="165.0" fill="#172033" font-family="serif" font-size="18" text-anchor="start">20 Ω</text>
+<path d="M705 90L715 90" fill="none" stroke="#172033" stroke-width="2"/>
+<path d="M715 90L715 135.0" fill="none" stroke="#172033" stroke-width="2"/>
+<path d="M706 135.0H724V185.0H706Z" fill="none" stroke="#172033" stroke-width="2"/>
+<path d="M715 185.0L715 230" fill="none" stroke="#172033" stroke-width="2"/>
+<text x="733" y="165.0" fill="#172033" font-family="serif" font-size="18" text-anchor="start">20 Ω</text>
+<circle cx="440" cy="90" r="3" fill="#172033" stroke="#172033" stroke-width="2"/>
+<circle cx="440" cy="230" r="3" fill="#172033" stroke="#172033" stroke-width="2"/>
+</svg>

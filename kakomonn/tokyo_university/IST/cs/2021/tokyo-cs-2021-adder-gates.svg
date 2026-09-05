@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1180 435" role="img"><title>NAND XOR and two-XOR three-NAND full adder</title><rect width="100%" height="100%" fill="white"/>
+<text x="25" y="30" font-family="Arial,sans-serif" font-size="23" fill="#17324d">(1) XOR using four NAND gates</text>
+<rect x="100" y="65" width="85" height="64" fill="#ecf5ff" stroke="#17324d" stroke-width="2"/>
+<text x="110" y="103.0" font-family="Arial,sans-serif" font-size="18" fill="#17324d">NAND</text>
+<text x="42" y="89" font-family="Arial,sans-serif" font-size="17" fill="#17324d">A</text>
+<path d="M82,83 L100,83" fill="none" stroke="#17324d" stroke-width="2"/>
+<text x="42" y="119" font-family="Arial,sans-serif" font-size="17" fill="#17324d">B</text>
+<path d="M82,113 L100,113" fill="none" stroke="#17324d" stroke-width="2"/>
+<path d="M185,97 L215,97" fill="none" stroke="#17324d" stroke-width="2"/>
+<text x="222" y="103" font-family="Arial,sans-serif" font-size="17" fill="#17324d">N1</text>
+<rect x="390" y="65" width="85" height="64" fill="#ecf5ff" stroke="#17324d" stroke-width="2"/>
+<text x="400" y="103.0" font-family="Arial,sans-serif" font-size="18" fill="#17324d">NAND</text>
+<text x="332" y="89" font-family="Arial,sans-serif" font-size="17" fill="#17324d">A</text>
+<path d="M372,83 L390,83" fill="none" stroke="#17324d" stroke-width="2"/>
+<text x="332" y="119" font-family="Arial,sans-serif" font-size="17" fill="#17324d">N1</text>
+<path d="M372,113 L390,113" fill="none" stroke="#17324d" stroke-width="2"/>
+<path d="M475,97 L505,97" fill="none" stroke="#17324d" stroke-width="2"/>
+<text x="512" y="103" font-family="Arial,sans-serif" font-size="17" fill="#17324d">N2</text>
+<rect x="670" y="65" width="85" height="64" fill="#ecf5ff" stroke="#17324d" stroke-width="2"/>
+<text x="680" y="103.0" font-family="Arial,sans-serif" font-size="18" fill="#17324d">NAND</text>
+<text x="612" y="89" font-family="Arial,sans-serif" font-size="17" fill="#17324d">B</text>
+<path d="M652,83 L670,83" fill="none" stroke="#17324d" stroke-width="2"/>
+<text x="612" y="119" font-family="Arial,sans-serif" font-size="17" fill="#17324d">N1</text>
+<path d="M652,113 L670,113" fill="none" stroke="#17324d" stroke-width="2"/>
+<path d="M755,97 L785,97" fill="none" stroke="#17324d" stroke-width="2"/>
+<text x="792" y="103" font-family="Arial,sans-serif" font-size="17" fill="#17324d">N3</text>
+<rect x="950" y="65" width="85" height="64" fill="#ecf5ff" stroke="#17324d" stroke-width="2"/>
+<text x="960" y="103.0" font-family="Arial,sans-serif" font-size="18" fill="#17324d">NAND</text>
+<text x="892" y="89" font-family="Arial,sans-serif" font-size="17" fill="#17324d">N2</text>
+<path d="M932,83 L950,83" fill="none" stroke="#17324d" stroke-width="2"/>
+<text x="892" y="119" font-family="Arial,sans-serif" font-size="17" fill="#17324d">N3</text>
+<path d="M932,113 L950,113" fill="none" stroke="#17324d" stroke-width="2"/>
+<path d="M1035,97 L1065,97" fill="none" stroke="#17324d" stroke-width="2"/>
+<text x="1072" y="103" font-family="Arial,sans-serif" font-size="17" fill="#17324d">A ⊕ B</text>
+<text x="25" y="185" font-family="Arial,sans-serif" font-size="23" fill="#17324d">(2) Full adder: two XOR gates and three NAND gates</text>
+<rect x="100" y="225" width="85" height="64" fill="#ecf5ff" stroke="#17324d" stroke-width="2"/>
+<text x="110" y="263.0" font-family="Arial,sans-serif" font-size="18" fill="#17324d">XOR</text>
+<text x="42" y="249" font-family="Arial,sans-serif" font-size="17" fill="#17324d">A</text>
+<path d="M82,243 L100,243" fill="none" stroke="#17324d" stroke-width="2"/>
+<text x="42" y="279" font-family="Arial,sans-serif" font-size="17" fill="#17324d">B</text>
+<path d="M82,273 L100,273" fill="none" stroke="#17324d" stroke-width="2"/>
+<path d="M185,257 L215,257" fill="none" stroke="#17324d" stroke-width="2"/>
+<text x="222" y="263" font-family="Arial,sans-serif" font-size="17" fill="#17324d">X1</text>
+<rect x="450" y="225" width="85" height="64" fill="#ecf5ff" stroke="#17324d" stroke-width="2"/>
+<text x="460" y="263.0" font-family="Arial,sans-serif" font-size="18" fill="#17324d">XOR</text>
+<text x="392" y="249" font-family="Arial,sans-serif" font-size="17" fill="#17324d">X1</text>
+<path d="M432,243 L450,243" fill="none" stroke="#17324d" stroke-width="2"/>
+<text x="392" y="279" font-family="Arial,sans-serif" font-size="17" fill="#17324d">Cin</text>
+<path d="M432,273 L450,273" fill="none" stroke="#17324d" stroke-width="2"/>
+<path d="M535,257 L565,257" fill="none" stroke="#17324d" stroke-width="2"/>
+<text x="572" y="263" font-family="Arial,sans-serif" font-size="17" fill="#17324d">S</text>
+<rect x="100" y="335" width="85" height="64" fill="#ecf5ff" stroke="#17324d" stroke-width="2"/>
+<text x="110" y="373.0" font-family="Arial,sans-serif" font-size="18" fill="#17324d">NAND</text>
+<text x="42" y="359" font-family="Arial,sans-serif" font-size="17" fill="#17324d">A</text>
+<path d="M82,353 L100,353" fill="none" stroke="#17324d" stroke-width="2"/>
+<text x="42" y="389" font-family="Arial,sans-serif" font-size="17" fill="#17324d">B</text>
+<path d="M82,383 L100,383" fill="none" stroke="#17324d" stroke-width="2"/>
+<path d="M185,367 L215,367" fill="none" stroke="#17324d" stroke-width="2"/>
+<text x="222" y="373" font-family="Arial,sans-serif" font-size="17" fill="#17324d">N1</text>
+<rect x="450" y="335" width="85" height="64" fill="#ecf5ff" stroke="#17324d" stroke-width="2"/>
+<text x="460" y="373.0" font-family="Arial,sans-serif" font-size="18" fill="#17324d">NAND</text>
+<text x="392" y="359" font-family="Arial,sans-serif" font-size="17" fill="#17324d">X1</text>
+<path d="M432,353 L450,353" fill="none" stroke="#17324d" stroke-width="2"/>
+<text x="392" y="389" font-family="Arial,sans-serif" font-size="17" fill="#17324d">Cin</text>
+<path d="M432,383 L450,383" fill="none" stroke="#17324d" stroke-width="2"/>
+<path d="M535,367 L565,367" fill="none" stroke="#17324d" stroke-width="2"/>
+<text x="572" y="373" font-family="Arial,sans-serif" font-size="17" fill="#17324d">N2</text>
+<rect x="820" y="335" width="85" height="64" fill="#ecf5ff" stroke="#17324d" stroke-width="2"/>
+<text x="830" y="373.0" font-family="Arial,sans-serif" font-size="18" fill="#17324d">NAND</text>
+<text x="762" y="359" font-family="Arial,sans-serif" font-size="17" fill="#17324d">N1</text>
+<path d="M802,353 L820,353" fill="none" stroke="#17324d" stroke-width="2"/>
+<text x="762" y="389" font-family="Arial,sans-serif" font-size="17" fill="#17324d">N2</text>
+<path d="M802,383 L820,383" fill="none" stroke="#17324d" stroke-width="2"/>
+<path d="M905,367 L935,367" fill="none" stroke="#17324d" stroke-width="2"/>
+<text x="942" y="373" font-family="Arial,sans-serif" font-size="17" fill="#17324d">Cout</text>
+<text x="800" y="265" font-family="Arial,sans-serif" font-size="18" fill="#17324d">Identical net labels are connected.</text>
+</svg>

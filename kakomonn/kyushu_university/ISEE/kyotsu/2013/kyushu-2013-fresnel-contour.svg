@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="330" viewBox="0 0 440 330" role="img" aria-labelledby="title desc">
+<title id="title">Fresnel integration contour</title><desc id="desc">Counterclockwise sector: C1 from 0 to R, C2 an arc to R exp(i pi/4), and C3 back to 0.</desc>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0 0L10 5L0 10Z" fill="#1f2937"/></marker></defs>
+<rect width="440" height="330" fill="white"/>
+<g stroke="#6b7280" stroke-width="1.2" marker-end="url(#arrow)"><path d="M45 275H400"/><path d="M75 295V35"/></g>
+<g fill="none" stroke="#1f2937" stroke-width="2.5"><path d="M75 275H335 A260 260 0 0 0 258.85 91.15L75 275"/>
+<path d="M175 275H208" marker-end="url(#arrow)"/>
+<path d="M325.63 205.08 A260 260 0 0 0 312.23 168.37" marker-end="url(#arrow)"/>
+<path d="M197 153L172 178" marker-end="url(#arrow)"/>
+<path d="M122 275A47 47 0 0 0 108.23 241.77" stroke-width="1.2"/>
+</g>
+<g font-family="Georgia,serif" font-size="21" fill="#111827"><text x="55" y="300">O</text><text x="403" y="282">x</text><text x="66" y="26">y</text><text x="332" y="299">R</text><text x="160" y="304">C₁</text><text x="342" y="190">C₂</text><text x="145" y="163">C₃</text><text x="241" y="70">R exp(iπ/4)</text><text x="123" y="256" font-size="18">π/4</text></g></svg>

@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1140 300" role="img"><title>AND OR and XOR using majority gates</title><rect width="100%" height="100%" fill="white"/>
+<text x="25" y="32" font-family="Arial, sans-serif" font-size="23" fill="#172b4d" text-anchor="start">(1) Basic gates</text>
+<rect x="95" y="90" width="70" height="100" fill="#edf6ff" stroke="#243b53" stroke-width="2"/>
+<text x="130" y="148" font-family="Arial, sans-serif" font-size="24" fill="#172b4d" text-anchor="middle">M₃</text>
+<text x="30" y="116" font-family="Arial, sans-serif" font-size="19" fill="#172b4d" text-anchor="start">x</text>
+<path d="M65,110 L95,110" fill="none" stroke="#243b53" stroke-width="2"/>
+<text x="30" y="146" font-family="Arial, sans-serif" font-size="19" fill="#172b4d" text-anchor="start">y</text>
+<path d="M65,140 L95,140" fill="none" stroke="#243b53" stroke-width="2"/>
+<text x="30" y="176" font-family="Arial, sans-serif" font-size="19" fill="#172b4d" text-anchor="start">0</text>
+<path d="M65,170 L95,170" fill="none" stroke="#243b53" stroke-width="2"/>
+<path d="M165,140 L195,140" fill="none" stroke="#243b53" stroke-width="2"/>
+<text x="205" y="147" font-family="Arial, sans-serif" font-size="19" fill="#172b4d" text-anchor="start">AND</text>
+<rect x="355" y="90" width="70" height="100" fill="#edf6ff" stroke="#243b53" stroke-width="2"/>
+<text x="390" y="148" font-family="Arial, sans-serif" font-size="24" fill="#172b4d" text-anchor="middle">M₃</text>
+<text x="290" y="116" font-family="Arial, sans-serif" font-size="19" fill="#172b4d" text-anchor="start">x</text>
+<path d="M325,110 L355,110" fill="none" stroke="#243b53" stroke-width="2"/>
+<text x="290" y="146" font-family="Arial, sans-serif" font-size="19" fill="#172b4d" text-anchor="start">y</text>
+<path d="M325,140 L355,140" fill="none" stroke="#243b53" stroke-width="2"/>
+<text x="290" y="176" font-family="Arial, sans-serif" font-size="19" fill="#172b4d" text-anchor="start">1</text>
+<path d="M325,170 L355,170" fill="none" stroke="#243b53" stroke-width="2"/>
+<path d="M425,140 L455,140" fill="none" stroke="#243b53" stroke-width="2"/>
+<text x="465" y="147" font-family="Arial, sans-serif" font-size="19" fill="#172b4d" text-anchor="start">OR</text>
+<rect x="650" y="60" width="70" height="100" fill="#edf6ff" stroke="#243b53" stroke-width="2"/>
+<text x="685" y="118" font-family="Arial, sans-serif" font-size="24" fill="#172b4d" text-anchor="middle">M₃</text>
+<text x="585" y="86" font-family="Arial, sans-serif" font-size="19" fill="#172b4d" text-anchor="start">x</text>
+<path d="M620,80 L650,80" fill="none" stroke="#243b53" stroke-width="2"/>
+<text x="585" y="116" font-family="Arial, sans-serif" font-size="19" fill="#172b4d" text-anchor="start">y</text>
+<path d="M620,110 L650,110" fill="none" stroke="#243b53" stroke-width="2"/>
+<text x="585" y="146" font-family="Arial, sans-serif" font-size="19" fill="#172b4d" text-anchor="start">1</text>
+<path d="M620,140 L650,140" fill="none" stroke="#243b53" stroke-width="2"/>
+<path d="M720,110 L750,110" fill="none" stroke="#243b53" stroke-width="2"/>
+<text x="760" y="117" font-family="Arial, sans-serif" font-size="19" fill="#172b4d" text-anchor="start">u</text>
+<rect x="650" y="185" width="70" height="100" fill="#edf6ff" stroke="#243b53" stroke-width="2"/>
+<text x="685" y="243" font-family="Arial, sans-serif" font-size="24" fill="#172b4d" text-anchor="middle">M₃</text>
+<text x="585" y="211" font-family="Arial, sans-serif" font-size="19" fill="#172b4d" text-anchor="start">x</text>
+<path d="M620,205 L650,205" fill="none" stroke="#243b53" stroke-width="2"/>
+<text x="585" y="241" font-family="Arial, sans-serif" font-size="19" fill="#172b4d" text-anchor="start">y</text>
+<path d="M620,235 L650,235" fill="none" stroke="#243b53" stroke-width="2"/>
+<text x="585" y="271" font-family="Arial, sans-serif" font-size="19" fill="#172b4d" text-anchor="start">0</text>
+<path d="M620,265 L650,265" fill="none" stroke="#243b53" stroke-width="2"/>
+<path d="M720,235 L750,235" fill="none" stroke="#243b53" stroke-width="2"/>
+<text x="760" y="242" font-family="Arial, sans-serif" font-size="19" fill="#172b4d" text-anchor="start">v</text>
+<rect x="950" y="115" width="70" height="100" fill="#edf6ff" stroke="#243b53" stroke-width="2"/>
+<text x="985" y="173" font-family="Arial, sans-serif" font-size="24" fill="#172b4d" text-anchor="middle">M₃</text>
+<text x="885" y="141" font-family="Arial, sans-serif" font-size="19" fill="#172b4d" text-anchor="start">u</text>
+<path d="M920,135 L950,135" fill="none" stroke="#243b53" stroke-width="2"/>
+<text x="885" y="171" font-family="Arial, sans-serif" font-size="19" fill="#172b4d" text-anchor="start">v</text>
+<path d="M920,165 L950,165" fill="none" stroke="#243b53" stroke-width="2"/>
+<circle cx="943" cy="165" r="7" fill="white" stroke="#243b53" stroke-width="2"/>
+<text x="885" y="201" font-family="Arial, sans-serif" font-size="19" fill="#172b4d" text-anchor="start">0</text>
+<path d="M920,195 L950,195" fill="none" stroke="#243b53" stroke-width="2"/>
+<path d="M1020,165 L1050,165" fill="none" stroke="#243b53" stroke-width="2"/>
+<text x="1060" y="172" font-family="Arial, sans-serif" font-size="19" fill="#172b4d" text-anchor="start">XOR</text>
+<text x="875" y="285" font-family="Arial, sans-serif" font-size="18" fill="#172b4d" text-anchor="start">XOR depth: 2</text>
+</svg>

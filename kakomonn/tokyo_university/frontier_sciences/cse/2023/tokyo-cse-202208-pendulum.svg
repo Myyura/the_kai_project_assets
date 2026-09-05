@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="420" viewBox="0 0 480 420"><rect width="100%" height="100%" fill="white"/>
+<path d="M140 45L202 208" fill="none" stroke="#172033" stroke-width="3"/>
+<path d="M202 208L299 348" fill="none" stroke="#172033" stroke-width="3"/>
+<path d="M140.0 45.0L140.0 57.5" fill="none" stroke="#64748b" stroke-width="1"/>
+<path d="M140.0 70.0L140.0 82.5" fill="none" stroke="#64748b" stroke-width="1"/>
+<path d="M140.0 95.0L140.0 107.5" fill="none" stroke="#64748b" stroke-width="1"/>
+<path d="M140.0 120.0L140.0 132.5" fill="none" stroke="#64748b" stroke-width="1"/>
+<path d="M140.0 145.0L140.0 157.5" fill="none" stroke="#64748b" stroke-width="1"/>
+<path d="M140.0 170.0L140.0 182.5" fill="none" stroke="#64748b" stroke-width="1"/>
+<path d="M140.0 195.0L140.0 207.5" fill="none" stroke="#64748b" stroke-width="1"/>
+<path d="M140.0 220.0L140.0 232.5" fill="none" stroke="#64748b" stroke-width="1"/>
+<path d="M202.0 208.0L202.0 218.75" fill="none" stroke="#64748b" stroke-width="1"/>
+<path d="M202.0 229.5L202.0 240.25" fill="none" stroke="#64748b" stroke-width="1"/>
+<path d="M202.0 251.0L202.0 261.75" fill="none" stroke="#64748b" stroke-width="1"/>
+<path d="M202.0 272.5L202.0 283.25" fill="none" stroke="#64748b" stroke-width="1"/>
+<path d="M202.0 294.0L202.0 304.75" fill="none" stroke="#64748b" stroke-width="1"/>
+<path d="M202.0 315.5L202.0 326.25" fill="none" stroke="#64748b" stroke-width="1"/>
+<path d="M202.0 337.0L202.0 347.75" fill="none" stroke="#64748b" stroke-width="1"/>
+<path d="M202.0 358.5L202.0 369.25" fill="none" stroke="#64748b" stroke-width="1"/>
+<circle cx="140" cy="45" r="4" fill="#172033" stroke="#172033" stroke-width="2"/>
+<circle cx="202" cy="208" r="8" fill="white" stroke="#172033" stroke-width="2"/>
+<circle cx="299" cy="348" r="8" fill="white" stroke="#172033" stroke-width="2"/>
+<path d="M140 110Q150 112 164 109" fill="none" stroke="#172033" stroke-width="2"/>
+<path d="M202 262Q222 267 236 259" fill="none" stroke="#172033" stroke-width="2"/>
+<text x="163" y="137" fill="#172033" font-family="serif" font-size="20" text-anchor="middle">θ₁</text>
+<text x="224" y="289" fill="#172033" font-family="serif" font-size="20" text-anchor="middle">θ₂</text>
+<text x="202" y="124" fill="#172033" font-family="serif" font-size="20" text-anchor="middle">l₁</text>
+<text x="281" y="273" fill="#172033" font-family="serif" font-size="20" text-anchor="middle">l₂</text>
+<text x="236" y="202" fill="#172033" font-family="serif" font-size="20" text-anchor="middle">m₁</text>
+<text x="336" y="351" fill="#172033" font-family="serif" font-size="20" text-anchor="middle">m₂</text>
+<path d="M70 90L70 175" fill="none" stroke="#2563eb" stroke-width="2"/>
+<path d="M70 175L74.0 165.0L66.0 165.0Z" fill="#2563eb" stroke="#2563eb" stroke-width="1"/>
+<text x="48" y="135" fill="#172033" font-family="serif" font-size="20" text-anchor="middle">g</text>
+</svg>

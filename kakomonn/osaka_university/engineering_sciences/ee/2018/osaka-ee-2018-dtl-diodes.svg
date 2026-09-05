@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="210" viewBox="0 0 620 210" role="img" aria-labelledby="title desc">
+<title id="title">DTL level-shifting diode pair</title><desc id="desc">Two series diodes conduct from Q1 toward P3. Q1 connects to the first anode, the first cathode to the second anode, and the second cathode to the transistor base P3.</desc>
+<rect width="620" height="210" fill="white"/>
+<g stroke="#17202a" fill="white" stroke-width="3"><path d="M90 90H200 M240 90H360 M400 90H530"/><path d="M200 67L240 90L200 113Z M360 67L400 90L360 113Z"/><path d="M240 63V117 M400 63V117"/><circle cx="80" cy="90" r="10"/><circle cx="540" cy="90" r="10"/></g>
+<g font-family="Arial, sans-serif" font-size="23" fill="#17202a"><text x="62" y="55">Q1</text><text x="521" y="55">P3</text><text x="183" y="155">0.7 V</text><text x="344" y="155">0.7 V</text><text x="163" y="194" font-size="18">forward current: Q1 → P3</text></g>
+</svg>

@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="430" viewBox="0 0 720 430">
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#334155"/></marker></defs>
+<rect width="720" height="430" fill="white"/>
+<text x="360" y="25" text-anchor="middle" font-family="DejaVu Sans,Arial,sans-serif" font-size="19" fill="#1f2937" stroke="white" stroke-width="5" paint-order="stroke">Remainder modulo 3</text>
+<path d="M40 190L102 190" fill="none" stroke="#334155" stroke-width="2" marker-end="url(#arrow)"/>
+<path d="M153 172Q240 95 327 172" fill="none" stroke="#334155" stroke-width="2" marker-end="url(#arrow)"/>
+<text x="240" y="130" text-anchor="middle" font-family="DejaVu Sans,Arial,sans-serif" font-size="19" fill="#1f2937" stroke="white" stroke-width="5" paint-order="stroke">B</text>
+<path d="M373 172Q460 95 547 172" fill="none" stroke="#334155" stroke-width="2" marker-end="url(#arrow)"/>
+<text x="460" y="130" text-anchor="middle" font-family="DejaVu Sans,Arial,sans-serif" font-size="19" fill="#1f2937" stroke="white" stroke-width="5" paint-order="stroke">B</text>
+<path d="M550 166Q350 -75 150 166" fill="none" stroke="#334155" stroke-width="2" marker-end="url(#arrow)"/>
+<text x="350" y="60" text-anchor="middle" font-family="DejaVu Sans,Arial,sans-serif" font-size="19" fill="#1f2937" stroke="white" stroke-width="5" paint-order="stroke">B</text>
+<path d="M327 208Q240 285 153 208" fill="none" stroke="#334155" stroke-width="2" marker-end="url(#arrow)"/>
+<text x="240" y="258" text-anchor="middle" font-family="DejaVu Sans,Arial,sans-serif" font-size="19" fill="#1f2937" stroke="white" stroke-width="5" paint-order="stroke">C</text>
+<path d="M547 208Q460 285 373 208" fill="none" stroke="#334155" stroke-width="2" marker-end="url(#arrow)"/>
+<text x="460" y="258" text-anchor="middle" font-family="DejaVu Sans,Arial,sans-serif" font-size="19" fill="#1f2937" stroke="white" stroke-width="5" paint-order="stroke">C</text>
+<path d="M150 213Q350 445 550 213" fill="none" stroke="#334155" stroke-width="2" marker-end="url(#arrow)"/>
+<text x="350" y="350" text-anchor="middle" font-family="DejaVu Sans,Arial,sans-serif" font-size="19" fill="#1f2937" stroke="white" stroke-width="5" paint-order="stroke">C</text>
+<path d="M109 169C35 65 35 295 109 211" fill="none" stroke="#334155" stroke-width="2" marker-end="url(#arrow)"/>
+<text x="45" y="253" text-anchor="middle" font-family="DejaVu Sans,Arial,sans-serif" font-size="19" fill="#1f2937" stroke="white" stroke-width="5" paint-order="stroke">A</text>
+<path d="M334 167C285 62 415 62 366 167" fill="none" stroke="#334155" stroke-width="2" marker-end="url(#arrow)"/>
+<text x="350" y="105" text-anchor="middle" font-family="DejaVu Sans,Arial,sans-serif" font-size="19" fill="#1f2937" stroke="white" stroke-width="5" paint-order="stroke">A</text>
+<path d="M591 169C665 65 665 295 591 211" fill="none" stroke="#334155" stroke-width="2" marker-end="url(#arrow)"/>
+<text x="660" y="253" text-anchor="middle" font-family="DejaVu Sans,Arial,sans-serif" font-size="19" fill="#1f2937" stroke="white" stroke-width="5" paint-order="stroke">A</text>
+<circle cx="130" cy="190" r="28" fill="white" stroke="#334155" stroke-width="2"/>
+<circle cx="130" cy="190" r="22" fill="none" stroke="#334155" stroke-width="2"/>
+<text x="130" y="197" text-anchor="middle" font-family="DejaVu Sans,Arial,sans-serif" font-size="19" fill="#1f2937" stroke="white" stroke-width="5" paint-order="stroke">r₀</text>
+<circle cx="350" cy="190" r="28" fill="white" stroke="#334155" stroke-width="2"/>
+<text x="350" y="197" text-anchor="middle" font-family="DejaVu Sans,Arial,sans-serif" font-size="19" fill="#1f2937" stroke="white" stroke-width="5" paint-order="stroke">r₁</text>
+<circle cx="570" cy="190" r="28" fill="white" stroke="#334155" stroke-width="2"/>
+<text x="570" y="197" text-anchor="middle" font-family="DejaVu Sans,Arial,sans-serif" font-size="19" fill="#1f2937" stroke="white" stroke-width="5" paint-order="stroke">r₂</text>
+<text x="360" y="402" text-anchor="middle" font-family="DejaVu Sans,Arial,sans-serif" font-size="17" fill="#1f2937" stroke="white" stroke-width="5" paint-order="stroke">A = {0,3,6,9}    B = {1,4,7}    C = {2,5,8}</text>
+</svg>

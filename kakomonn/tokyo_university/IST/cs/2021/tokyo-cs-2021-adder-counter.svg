@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1180 605" role="img"><title>Four-bit ripple adder and synchronous up-down counter</title><rect width="100%" height="100%" fill="white"/>
+<text x="25" y="32" font-family="Arial,sans-serif" font-size="24" fill="#17324d">(3) Four-bit ripple adder</text>
+<rect x="120" y="110" width="140" height="88" fill="#ecf5ff" stroke="#17324d" stroke-width="2"/>
+<text x="130" y="160.0" font-family="Arial,sans-serif" font-size="18" fill="#17324d">FA0</text>
+<text x="135" y="80" font-family="Arial,sans-serif" font-size="20" fill="#17324d">A0     B0</text>
+<path d="M150,85 L150,110" fill="none" stroke="#17324d" stroke-width="2"/>
+<path d="M225,85 L225,110" fill="none" stroke="#17324d" stroke-width="2"/>
+<path d="M45,154 L120,154" fill="none" stroke="#c43b35" stroke-width="3"/>
+<text x="58" y="139" font-family="Arial,sans-serif" font-size="18" fill="#17324d">Cin</text>
+<path d="M190,198 L190,220" fill="none" stroke="#17324d" stroke-width="2"/>
+<text x="178" y="245" font-family="Arial,sans-serif" font-size="19" fill="#17324d">S0</text>
+<path d="M260,154 L300,154" fill="none" stroke="#c43b35" stroke-width="3"/>
+<rect x="375" y="110" width="140" height="88" fill="#ecf5ff" stroke="#17324d" stroke-width="2"/>
+<text x="385" y="160.0" font-family="Arial,sans-serif" font-size="18" fill="#17324d">FA1</text>
+<text x="390" y="80" font-family="Arial,sans-serif" font-size="20" fill="#17324d">A1     B1</text>
+<path d="M405,85 L405,110" fill="none" stroke="#17324d" stroke-width="2"/>
+<path d="M480,85 L480,110" fill="none" stroke="#17324d" stroke-width="2"/>
+<path d="M300,154 L375,154" fill="none" stroke="#c43b35" stroke-width="3"/>
+<text x="313" y="139" font-family="Arial,sans-serif" font-size="18" fill="#17324d">C1</text>
+<path d="M445,198 L445,220" fill="none" stroke="#17324d" stroke-width="2"/>
+<text x="433" y="245" font-family="Arial,sans-serif" font-size="19" fill="#17324d">S1</text>
+<path d="M515,154 L555,154" fill="none" stroke="#c43b35" stroke-width="3"/>
+<rect x="630" y="110" width="140" height="88" fill="#ecf5ff" stroke="#17324d" stroke-width="2"/>
+<text x="640" y="160.0" font-family="Arial,sans-serif" font-size="18" fill="#17324d">FA2</text>
+<text x="645" y="80" font-family="Arial,sans-serif" font-size="20" fill="#17324d">A2     B2</text>
+<path d="M660,85 L660,110" fill="none" stroke="#17324d" stroke-width="2"/>
+<path d="M735,85 L735,110" fill="none" stroke="#17324d" stroke-width="2"/>
+<path d="M555,154 L630,154" fill="none" stroke="#c43b35" stroke-width="3"/>
+<text x="568" y="139" font-family="Arial,sans-serif" font-size="18" fill="#17324d">C2</text>
+<path d="M700,198 L700,220" fill="none" stroke="#17324d" stroke-width="2"/>
+<text x="688" y="245" font-family="Arial,sans-serif" font-size="19" fill="#17324d">S2</text>
+<path d="M770,154 L810,154" fill="none" stroke="#c43b35" stroke-width="3"/>
+<rect x="885" y="110" width="140" height="88" fill="#ecf5ff" stroke="#17324d" stroke-width="2"/>
+<text x="895" y="160.0" font-family="Arial,sans-serif" font-size="18" fill="#17324d">FA3</text>
+<text x="900" y="80" font-family="Arial,sans-serif" font-size="20" fill="#17324d">A3     B3</text>
+<path d="M915,85 L915,110" fill="none" stroke="#17324d" stroke-width="2"/>
+<path d="M990,85 L990,110" fill="none" stroke="#17324d" stroke-width="2"/>
+<path d="M810,154 L885,154" fill="none" stroke="#c43b35" stroke-width="3"/>
+<text x="823" y="139" font-family="Arial,sans-serif" font-size="18" fill="#17324d">C3</text>
+<path d="M955,198 L955,220" fill="none" stroke="#17324d" stroke-width="2"/>
+<text x="943" y="245" font-family="Arial,sans-serif" font-size="19" fill="#17324d">S3</text>
+<path d="M1025,154 L1090,154" fill="none" stroke="#c43b35" stroke-width="3"/>
+<text x="1037" y="139" font-family="Arial,sans-serif" font-size="18" fill="#17324d">Cout</text>
+<text x="25" y="280" font-family="Arial,sans-serif" font-size="18" fill="#17324d">Carry propagation is highlighted. With unit gate delays, the longest path starts at A0 or B0.</text>
+<text x="25" y="333" font-family="Arial,sans-serif" font-size="24" fill="#17324d">(4) Synchronous up-down counter (all buses listed high bit first)</text>
+<rect x="385" y="385" width="230" height="95" fill="#ecf5ff" stroke="#17324d" stroke-width="2"/>
+<text x="395" y="438.5" font-family="Arial,sans-serif" font-size="18" fill="#17324d">Four full adders</text>
+<rect x="830" y="385" width="185" height="95" fill="#ecf5ff" stroke="#17324d" stroke-width="2"/>
+<text x="840" y="438.5" font-family="Arial,sans-serif" font-size="18" fill="#17324d">DFF × 4</text>
+<text x="35" y="410" font-family="Arial,sans-serif" font-size="18" fill="#17324d">K = (A̅, A̅, A̅, 1), A = X</text>
+<text x="35" y="440" font-family="Arial,sans-serif" font-size="18" fill="#17324d">C0 = 0; A̅ = NOT(X)</text>
+<path d="M305,420 L385,420" fill="none" stroke="#17324d" stroke-width="2"/>
+<path d="M615,430 L830,430" fill="none" stroke="#17324d" stroke-width="2"/>
+<text x="655" y="412" font-family="Arial,sans-serif" font-size="18" fill="#17324d">S[3:0] → D[3:0]</text>
+<path d="M1015,430 L1110,430" fill="none" stroke="#17324d" stroke-width="2"/>
+<text x="1030" y="410" font-family="Arial,sans-serif" font-size="18" fill="#17324d">Y = Q[3:0]</text>
+<path d="M1070,430 L1070,545 L350,545 L350,460 L385,460" fill="none" stroke="#17324d" stroke-width="2"/>
+<text x="515" y="575" font-family="Arial,sans-serif" font-size="18" fill="#17324d">Q[3:0] feeds the other adder operand. Discard C4.</text>
+<path d="M918,515 L918,480" fill="none" stroke="#17324d" stroke-width="2"/>
+<path d="M908,480 L918,466 L928,480" fill="none" stroke="#17324d" stroke-width="2"/>
+<text x="942" y="512" font-family="Arial,sans-serif" font-size="18" fill="#17324d">CLK</text>
+</svg>

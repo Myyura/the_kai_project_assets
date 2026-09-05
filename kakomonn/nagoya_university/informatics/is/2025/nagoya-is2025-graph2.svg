@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 290" role="img"><title>Figure 2: graphs a, b, c, d</title><rect width="1040" height="290" fill="white"/>
+<line x1="120" y1="45" x2="40" y2="135" stroke="#334155" stroke-width="2"/>
+<line x1="120" y1="45" x2="210" y2="135" stroke="#334155" stroke-width="2"/>
+<line x1="120" y1="45" x2="120" y2="225" stroke="#334155" stroke-width="2"/>
+<line x1="40" y1="135" x2="120" y2="225" stroke="#334155" stroke-width="2"/>
+<line x1="150" y1="135" x2="120" y2="225" stroke="#334155" stroke-width="2"/>
+<line x1="210" y1="135" x2="120" y2="225" stroke="#334155" stroke-width="2"/>
+<circle cx="120" cy="45" r="15" fill="white" stroke="#334155" stroke-width="2"/>
+<text x="139" y="35" font-family="sans-serif" font-size="19" stroke="white" stroke-width="5" paint-order="stroke">u1</text>
+<circle cx="40" cy="135" r="15" fill="white" stroke="#334155" stroke-width="2"/>
+<text x="59" y="125" font-family="sans-serif" font-size="19" stroke="white" stroke-width="5" paint-order="stroke">u2</text>
+<circle cx="150" cy="135" r="15" fill="white" stroke="#334155" stroke-width="2"/>
+<text x="169" y="125" font-family="sans-serif" font-size="19" stroke="white" stroke-width="5" paint-order="stroke">u3</text>
+<circle cx="210" cy="135" r="15" fill="white" stroke="#334155" stroke-width="2"/>
+<text x="229" y="125" font-family="sans-serif" font-size="19" stroke="white" stroke-width="5" paint-order="stroke">u4</text>
+<circle cx="120" cy="225" r="15" fill="white" stroke="#334155" stroke-width="2"/>
+<text x="139" y="215" font-family="sans-serif" font-size="19" stroke="white" stroke-width="5" paint-order="stroke">u5</text>
+<text x="125" y="275" text-anchor="middle" font-family="sans-serif" font-size="23">(a)</text>
+<line x1="380" y1="45" x2="290" y2="90" stroke="#334155" stroke-width="2"/>
+<line x1="380" y1="45" x2="465" y2="90" stroke="#334155" stroke-width="2"/>
+<line x1="290" y1="90" x2="465" y2="90" stroke="#334155" stroke-width="2"/>
+<line x1="290" y1="90" x2="465" y2="225" stroke="#334155" stroke-width="2"/>
+<line x1="465" y1="90" x2="465" y2="225" stroke="#334155" stroke-width="2"/>
+<line x1="290" y1="225" x2="465" y2="225" stroke="#334155" stroke-width="2"/>
+<circle cx="380" cy="45" r="15" fill="white" stroke="#334155" stroke-width="2"/>
+<text x="399" y="35" font-family="sans-serif" font-size="19" stroke="white" stroke-width="5" paint-order="stroke">u1</text>
+<circle cx="290" cy="90" r="15" fill="white" stroke="#334155" stroke-width="2"/>
+<text x="309" y="80" font-family="sans-serif" font-size="19" stroke="white" stroke-width="5" paint-order="stroke">u2</text>
+<circle cx="465" cy="90" r="15" fill="white" stroke="#334155" stroke-width="2"/>
+<text x="484" y="80" font-family="sans-serif" font-size="19" stroke="white" stroke-width="5" paint-order="stroke">u3</text>
+<circle cx="290" cy="225" r="15" fill="white" stroke="#334155" stroke-width="2"/>
+<text x="309" y="215" font-family="sans-serif" font-size="19" stroke="white" stroke-width="5" paint-order="stroke">u4</text>
+<circle cx="465" cy="225" r="15" fill="white" stroke="#334155" stroke-width="2"/>
+<text x="484" y="215" font-family="sans-serif" font-size="19" stroke="white" stroke-width="5" paint-order="stroke">u5</text>
+<text x="375" y="275" text-anchor="middle" font-family="sans-serif" font-size="23">(b)</text>
+<line x1="625" y1="45" x2="625" y2="100" stroke="#334155" stroke-width="2"/>
+<line x1="625" y1="45" x2="540" y2="170" stroke="#334155" stroke-width="2"/>
+<line x1="625" y1="45" x2="715" y2="170" stroke="#334155" stroke-width="2"/>
+<line x1="625" y1="100" x2="540" y2="170" stroke="#334155" stroke-width="2"/>
+<line x1="625" y1="100" x2="715" y2="170" stroke="#334155" stroke-width="2"/>
+<line x1="540" y1="170" x2="715" y2="170" stroke="#334155" stroke-width="2"/>
+<line x1="715" y1="170" x2="625" y2="225" stroke="#334155" stroke-width="2"/>
+<circle cx="625" cy="45" r="15" fill="white" stroke="#334155" stroke-width="2"/>
+<text x="644" y="35" font-family="sans-serif" font-size="19" stroke="white" stroke-width="5" paint-order="stroke">u1</text>
+<circle cx="625" cy="100" r="15" fill="white" stroke="#334155" stroke-width="2"/>
+<text x="644" y="90" font-family="sans-serif" font-size="19" stroke="white" stroke-width="5" paint-order="stroke">u2</text>
+<circle cx="540" cy="170" r="15" fill="white" stroke="#334155" stroke-width="2"/>
+<text x="559" y="160" font-family="sans-serif" font-size="19" stroke="white" stroke-width="5" paint-order="stroke">u3</text>
+<circle cx="715" cy="170" r="15" fill="white" stroke="#334155" stroke-width="2"/>
+<text x="734" y="160" font-family="sans-serif" font-size="19" stroke="white" stroke-width="5" paint-order="stroke">u4</text>
+<circle cx="625" cy="225" r="15" fill="white" stroke="#334155" stroke-width="2"/>
+<text x="644" y="215" font-family="sans-serif" font-size="19" stroke="white" stroke-width="5" paint-order="stroke">u5</text>
+<text x="625" y="275" text-anchor="middle" font-family="sans-serif" font-size="23">(c)</text>
+<line x1="880" y1="45" x2="790" y2="115" stroke="#334155" stroke-width="2"/>
+<line x1="880" y1="45" x2="825" y2="225" stroke="#334155" stroke-width="2"/>
+<line x1="880" y1="45" x2="925" y2="225" stroke="#334155" stroke-width="2"/>
+<line x1="790" y1="115" x2="925" y2="225" stroke="#334155" stroke-width="2"/>
+<line x1="965" y1="115" x2="925" y2="225" stroke="#334155" stroke-width="2"/>
+<line x1="825" y1="225" x2="925" y2="225" stroke="#334155" stroke-width="2"/>
+<circle cx="880" cy="45" r="15" fill="white" stroke="#334155" stroke-width="2"/>
+<text x="899" y="35" font-family="sans-serif" font-size="19" stroke="white" stroke-width="5" paint-order="stroke">u1</text>
+<circle cx="790" cy="115" r="15" fill="white" stroke="#334155" stroke-width="2"/>
+<text x="809" y="105" font-family="sans-serif" font-size="19" stroke="white" stroke-width="5" paint-order="stroke">u2</text>
+<circle cx="965" cy="115" r="15" fill="white" stroke="#334155" stroke-width="2"/>
+<text x="984" y="105" font-family="sans-serif" font-size="19" stroke="white" stroke-width="5" paint-order="stroke">u3</text>
+<circle cx="825" cy="225" r="15" fill="white" stroke="#334155" stroke-width="2"/>
+<text x="844" y="215" font-family="sans-serif" font-size="19" stroke="white" stroke-width="5" paint-order="stroke">u4</text>
+<circle cx="925" cy="225" r="15" fill="white" stroke="#334155" stroke-width="2"/>
+<text x="944" y="215" font-family="sans-serif" font-size="19" stroke="white" stroke-width="5" paint-order="stroke">u5</text>
+<text x="875" y="275" text-anchor="middle" font-family="sans-serif" font-size="23">(d)</text>
+</svg>

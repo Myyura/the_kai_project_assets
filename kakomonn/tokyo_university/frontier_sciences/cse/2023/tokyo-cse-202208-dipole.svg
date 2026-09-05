@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="260" viewBox="0 0 440 260"><rect width="100%" height="100%" fill="white"/>
+<path d="M90 175L90 230" fill="none" stroke="#2563eb" stroke-width="2"/>
+<path d="M90 230L94.0 220.0L86.0 220.0Z" fill="#2563eb" stroke="#2563eb" stroke-width="1"/>
+<text x="66" y="218" fill="#172033" font-family="serif" font-size="20" text-anchor="middle">m</text>
+<path d="M90 175L320 80" fill="none" stroke="#2563eb" stroke-width="2"/>
+<path d="M320 80L309.2303451174206 80.12055583823783L312.28442635277895 87.51464725015802Z" fill="#2563eb" stroke="#2563eb" stroke-width="1"/>
+<text x="205" y="146" fill="#172033" font-family="serif" font-size="20" text-anchor="middle">r</text>
+<circle cx="320" cy="80" r="3" fill="#172033" stroke="#172033" stroke-width="2"/>
+<text x="341" y="93" fill="#172033" font-family="serif" font-size="20" text-anchor="middle">P</text>
+<path d="M320 80L259 52" fill="none" stroke="#2563eb" stroke-width="2"/>
+<path d="M259 52L266.41962481588087 59.80699478618789L269.75696609852605 52.536358420425124Z" fill="#2563eb" stroke="#2563eb" stroke-width="1"/>
+<text x="267" y="29" fill="#172033" font-family="serif" font-size="20" text-anchor="middle">H(r)</text>
+</svg>

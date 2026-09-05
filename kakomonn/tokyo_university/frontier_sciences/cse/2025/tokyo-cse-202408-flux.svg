@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="430" height="250" viewBox="0 0 430 250"><rect width="100%" height="100%" fill="white"/>
+<ellipse cx="215" cy="164" rx="125" ry="46" fill="none" stroke="#172033" stroke-width="2"/>
+<path d="M215 164L215 39" fill="none" stroke="#2563eb" stroke-width="2"/>
+<path d="M215 39L211.0 49.0L219.0 49.0Z" fill="#2563eb" stroke="#2563eb" stroke-width="1"/>
+<text x="237" y="67" fill="#172033" font-family="serif" font-size="20" text-anchor="middle">n</text>
+<text x="249" y="172" fill="#172033" font-family="serif" font-size="20" text-anchor="middle">S</text>
+</svg>

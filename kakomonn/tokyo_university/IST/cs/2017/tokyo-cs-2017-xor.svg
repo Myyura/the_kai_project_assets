@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1030 305" role="img"><title>Two-input XOR from AND, OR and NOT gates</title><rect width="100%" height="100%" fill="white"/>
+<text x="25" y="32" font-family="Arial,sans-serif" font-size="23" fill="#17324d">Two-input XOR: (a AND NOT b) OR (NOT a AND b)</text>
+<text x="55" y="96" font-family="Arial,sans-serif" font-size="18" fill="#17324d">a</text>
+<path d="M92,90 L110,90" fill="none" stroke="#17324d" stroke-width="2"/>
+<path d="M110,71 L110,109 L146,90 Z" fill="#ecf5ff" stroke="#17324d" stroke-width="2"/><circle cx="152" cy="90" r="6" fill="white" stroke="#17324d" stroke-width="2"/>
+<path d="M158,90 L185,90" fill="none" stroke="#17324d" stroke-width="2"/>
+<text x="195" y="96" font-family="Arial,sans-serif" font-size="18" fill="#17324d">ā</text>
+<text x="55" y="211" font-family="Arial,sans-serif" font-size="18" fill="#17324d">b</text>
+<path d="M92,205 L110,205" fill="none" stroke="#17324d" stroke-width="2"/>
+<path d="M110,186 L110,224 L146,205 Z" fill="#ecf5ff" stroke="#17324d" stroke-width="2"/><circle cx="152" cy="205" r="6" fill="white" stroke="#17324d" stroke-width="2"/>
+<path d="M158,205 L185,205" fill="none" stroke="#17324d" stroke-width="2"/>
+<text x="195" y="211" font-family="Arial,sans-serif" font-size="18" fill="#17324d">b̄</text>
+<path d="M440,60 L474,60 A30,30 0 0 1 474,120 L440,120 Z" fill="#ecf5ff" stroke="#17324d" stroke-width="2"/>
+<text x="375" y="81" font-family="Arial,sans-serif" font-size="17" fill="#17324d">a</text>
+<path d="M425,75 L440,75" fill="none" stroke="#17324d" stroke-width="2"/>
+<text x="375" y="111" font-family="Arial,sans-serif" font-size="17" fill="#17324d">b̄</text>
+<path d="M425,105 L440,105" fill="none" stroke="#17324d" stroke-width="2"/>
+<path d="M504,90 L540,90" fill="none" stroke="#17324d" stroke-width="2"/>
+<text x="548" y="96" font-family="Arial,sans-serif" font-size="17" fill="#17324d">p</text>
+<path d="M440,175 L474,175 A30,30 0 0 1 474,235 L440,235 Z" fill="#ecf5ff" stroke="#17324d" stroke-width="2"/>
+<text x="375" y="196" font-family="Arial,sans-serif" font-size="17" fill="#17324d">ā</text>
+<path d="M425,190 L440,190" fill="none" stroke="#17324d" stroke-width="2"/>
+<text x="375" y="226" font-family="Arial,sans-serif" font-size="17" fill="#17324d">b</text>
+<path d="M425,220 L440,220" fill="none" stroke="#17324d" stroke-width="2"/>
+<path d="M504,205 L540,205" fill="none" stroke="#17324d" stroke-width="2"/>
+<text x="548" y="211" font-family="Arial,sans-serif" font-size="17" fill="#17324d">q</text>
+<path d="M795,115 Q835,113 865,145 Q835,177 795,175 Q817,145 795,115 Z" fill="#ecf5ff" stroke="#17324d" stroke-width="2"/>
+<text x="730" y="136" font-family="Arial,sans-serif" font-size="17" fill="#17324d">p</text>
+<path d="M780,130 L803,130" fill="none" stroke="#17324d" stroke-width="2"/>
+<text x="730" y="166" font-family="Arial,sans-serif" font-size="17" fill="#17324d">q</text>
+<path d="M780,160 L803,160" fill="none" stroke="#17324d" stroke-width="2"/>
+<path d="M865,145 L895,145" fill="none" stroke="#17324d" stroke-width="2"/>
+<text x="903" y="151" font-family="Arial,sans-serif" font-size="17" fill="#17324d">a ⊕ b</text>
+<text x="25" y="282" font-family="Arial,sans-serif" font-size="18" fill="#17324d">Identical labels denote connected nets. Every gate has at most two inputs.</text>
+</svg>
