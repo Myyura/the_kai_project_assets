@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="282.49791pt" height="263.88pt" viewBox="0 0 282.49791 263.88" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-09-12T12:45:32.451121</dc:date>
+    <dc:description>Kyoto University Systems Science 2024; reproducible scientific diagram.</dc:description>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>祭音Myyura</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 263.88 
+L 282.49791 263.88 
+L 282.49791 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 74.224478 223.167761 
+C 74.224478 217.300045 73.068666 211.489386 70.823188 206.068323 
+C 68.57771 200.647261 65.286236 195.721221 61.137134 191.572119 
+" clip-path="url(#p75671418e0)" style="fill: none; stroke: #677784; stroke-linejoin: miter"/>
+   </g>
+   <g id="line2d_1">
+    <path d="M 29.541493 223.167761 
+L 238.06209 223.167761 
+" clip-path="url(#p75671418e0)" style="fill: none; stroke: #176b91; stroke-width: 2; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_2">
+    <path d="M 238.06209 223.167761 
+L 237.959197 216.617971 
+L 237.650622 210.074645 
+L 237.136668 203.54424 
+L 236.417842 197.033201 
+L 235.494855 190.547953 
+L 234.368616 184.094898 
+L 233.040238 177.680402 
+L 231.511032 171.310797 
+L 229.782505 164.992369 
+L 227.856365 158.731353 
+L 225.734512 152.533928 
+L 223.41904 146.40621 
+L 220.912235 140.354246 
+L 218.21657 134.384009 
+L 215.334705 128.501391 
+L 212.269485 122.712197 
+L 209.023934 117.022141 
+L 205.601256 111.436838 
+L 202.004828 105.9618 
+L 198.238199 100.602429 
+L 194.305087 95.364016 
+L 190.209374 90.25173 
+L 185.955101 85.270616 
+L 181.546466 80.42559 
+L 176.987821 75.721433 
+L 176.987821 75.721433 
+" clip-path="url(#p75671418e0)" style="fill: none; stroke: #176b91; stroke-width: 2; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_3">
+    <path d="M 176.987821 75.721433 
+L 29.541493 223.167761 
+" clip-path="url(#p75671418e0)" style="fill: none; stroke: #176b91; stroke-width: 2; stroke-linecap: square"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 9.200425 223.167761 
+Q 141.248298 223.167761 272.178136 223.167761 
+" style="fill: none; stroke: #677784; stroke-linecap: round"/>
+    <path d="M 267.378136 220.767761 
+L 272.178136 223.167761 
+L 267.378136 225.567761 
+" style="fill: none; stroke: #677784; stroke-linecap: round"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 29.541493 254.68145 
+Q 29.541493 131.939547 29.541493 10.315679 
+" style="fill: none; stroke: #677784; stroke-linecap: round"/>
+    <path d="M 27.141493 15.115679 
+L 29.541493 10.315679 
+L 31.941493 15.115679 
+" style="fill: none; stroke: #677784; stroke-linecap: round"/>
+   </g>
+   <g id="text_1">
+    <!-- Re $z$ -->
+    <g transform="translate(249.85791 232.849075)">
+     <text>
+      <tspan x="0" y="-0.25" style="font-size: 12px; font-family: 'DejaVu Sans'">R</tspan>
+      <tspan x="8.337891" y="-0.25" style="font-size: 12px; font-family: 'DejaVu Sans'">e</tspan>
+      <tspan x="15.720703" y="-0.25" style="font-size: 12px; font-family: 'DejaVu Sans'"> </tspan>
+      <tspan x="19.535156" y="-0.25" style="font-style: oblique; font-size: 12px; font-family: 'DejaVu Sans'">z</tspan>
+     </text>
+    </g>
+   </g>
+   <g id="text_2">
+    <!-- Im $z$ -->
+    <g transform="translate(35.499224 21.530202)">
+     <text>
+      <tspan x="0" y="-0.25" style="font-size: 12px; font-family: 'DejaVu Sans'">I</tspan>
+      <tspan x="3.539062" y="-0.25" style="font-size: 12px; font-family: 'DejaVu Sans'">m</tspan>
+      <tspan x="15.228516" y="-0.25" style="font-size: 12px; font-family: 'DejaVu Sans'"> </tspan>
+      <tspan x="19.042969" y="-0.25" style="font-style: oblique; font-size: 12px; font-family: 'DejaVu Sans'">z</tspan>
+     </text>
+    </g>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: start" x="20.604896" y="236.572657" transform="rotate(-0 20.604896 236.572657)">0</text>
+   </g>
+   <g id="patch_5">
+    <path d="M 96.56597 223.167761 
+Q 111.460299 223.167761 124.342166 223.167761 
+" style="fill: none; stroke: #176b91; stroke-width: 1.8; stroke-linecap: round"/>
+    <path d="M 119.542166 220.767761 
+L 124.342166 223.167761 
+L 119.542166 225.567761 
+z
+" style="fill: #176b91; stroke: #176b91; stroke-width: 1.8; stroke-linecap: round"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 227.476629 157.574154 
+Q 222.389944 145.021321 218.059058 134.333634 
+" style="fill: none; stroke: #176b91; stroke-width: 1.8; stroke-linecap: round"/>
+    <path d="M 217.637426 139.683609 
+L 218.059058 134.333634 
+L 222.086058 137.880925 
+z
+" style="fill: #176b91; stroke: #176b91; stroke-width: 1.8; stroke-linecap: round"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 133.801791 118.907463 
+Q 120.769254 131.94 109.159741 143.549512 
+" style="fill: none; stroke: #176b91; stroke-width: 1.8; stroke-linecap: round"/>
+    <path d="M 114.25091 141.852456 
+L 109.159741 143.549512 
+L 110.856798 138.458344 
+z
+" style="fill: #176b91; stroke: #176b91; stroke-width: 1.8; stroke-linecap: round"/>
+   </g>
+   <g id="text_4">
+    <!-- $\pi/4$ -->
+    <g transform="translate(75.71391 207.528716)">
+     <text>
+      <tspan x="0" y="-0.25" style="font-style: oblique; font-size: 12px; font-family: 'DejaVu Sans'">π</tspan>
+      <tspan x="7.224609" y="-0.25" style="font-size: 12px; font-family: 'DejaVu Sans'">/</tspan>
+      <tspan x="11.267578" y="-0.25" style="font-size: 12px; font-family: 'DejaVu Sans'">4</tspan>
+     </text>
+    </g>
+   </g>
+   <g id="text_5">
+    <!-- $R$ -->
+    <g transform="translate(238.06209 241.785672)">
+     <text>
+      <tspan x="0" y="-0.25" style="font-style: oblique; font-size: 12px; font-family: 'DejaVu Sans'">R</tspan>
+     </text>
+    </g>
+   </g>
+   <g id="text_6">
+    <!-- $Re^{i\pi/4}$ -->
+    <g transform="translate(159.866866 60.819582)">
+     <text>
+      <tspan x="0" y="-0.6565" style="font-style: oblique; font-size: 12px; font-family: 'DejaVu Sans'">R</tspan>
+      <tspan x="8.337891" y="-0.6565" style="font-style: oblique; font-size: 12px; font-family: 'DejaVu Sans'">e</tspan>
+      <tspan x="16.278516" y="-5.6125" style="font-style: oblique; font-size: 8.4px; font-family: 'DejaVu Sans'">i</tspan>
+      <tspan x="18.612305" y="-5.6125" style="font-style: oblique; font-size: 8.4px; font-family: 'DejaVu Sans'">π</tspan>
+      <tspan x="23.669531" y="-5.6125" style="font-size: 8.4px; font-family: 'DejaVu Sans'">/</tspan>
+      <tspan x="26.499609" y="-5.6125" style="font-size: 8.4px; font-family: 'DejaVu Sans'">4</tspan>
+     </text>
+    </g>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p75671418e0">
+   <rect x="7.2" y="7.2" width="268.09791" height="249.48"/>
+  </clipPath>
+ </defs>
+</svg>
