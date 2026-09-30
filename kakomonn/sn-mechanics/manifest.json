@@ -840,9 +840,7 @@
     "url": "https://raw.githubusercontent.com/Myyura/the_kai_project_assets/main/kakomonn/sn-mechanics/thermo/sn-plate-boundary-layers.svg",
     "author": "祭音Myyura",
     "sha256": "b7763d37c1b405630a53c995d7287e0f0ddf4a682a4d6d9703aa6e709be11229",
-    "documents": [
-      "supplements/sn-mechanics/exercises/sn_laminar_plate_convection.md"
-    ],
+    "documents": [],
     "original_sources": [
       "https://bloodystream.hatenadiary.jp/entry/2023/07/17/051500"
     ],

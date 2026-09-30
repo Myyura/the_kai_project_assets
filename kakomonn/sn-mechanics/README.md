@@ -6,4 +6,4 @@ These SVGs were newly drawn from the examination geometry or independently evalu
 
 The [manifest](manifest.json) records each diagram’s SHA-256, corresponding Kai documents, original problems, and SN comparison pages. Labels and scales are schematic except for plots explicitly calculated from the equations.
 
-Reproduction scripts and detailed verification are maintained under `supplements/sn-mechanics/` in the Kai project. Solution pages reference the SVGs in this repository directly.
+Solution pages reference the SVGs in this repository directly.
