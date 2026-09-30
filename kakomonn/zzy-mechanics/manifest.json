@@ -1,0 +1,200 @@
+[
+  {
+    "path": "kakomonn/zzy-mechanics/dynamics-early/2020-bode-gain.svg",
+    "url": "https://raw.githubusercontent.com/Myyura/the_kai_project_assets/main/kakomonn/zzy-mechanics/dynamics-early/2020-bode-gain.svg",
+    "author": "祭音Myyura",
+    "sha256": "d6bd00e206f44912a5d3626eb39d5d3af6a44a7e7c0d3957ed8af83c889b8073",
+    "documents": [
+      "docs/tokyo-university/engineering/mech/2020/mech_201908_II_2.md"
+    ]
+  },
+  {
+    "path": "kakomonn/zzy-mechanics/dynamics-early/2020-control-blocks.svg",
+    "url": "https://raw.githubusercontent.com/Myyura/the_kai_project_assets/main/kakomonn/zzy-mechanics/dynamics-early/2020-control-blocks.svg",
+    "author": "祭音Myyura",
+    "sha256": "cac78a273eced15111547ff0fe87150106d62f099bdca4a42a1ec0d4509c3e8b",
+    "documents": [
+      "docs/tokyo-university/engineering/mech/2020/mech_201908_II_2.md"
+    ]
+  },
+  {
+    "path": "kakomonn/zzy-mechanics/dynamics-early/2020-rotors.svg",
+    "url": "https://raw.githubusercontent.com/Myyura/the_kai_project_assets/main/kakomonn/zzy-mechanics/dynamics-early/2020-rotors.svg",
+    "author": "祭音Myyura",
+    "sha256": "16f690527cc971b1587dc409aee2bbbbefb9603c30e7aff4bef6a600c633e751",
+    "documents": [
+      "docs/tokyo-university/engineering/mech/2020/mech_201908_II_2.md"
+    ]
+  },
+  {
+    "path": "kakomonn/zzy-mechanics/dynamics-early/2021-damping-response.svg",
+    "url": "https://raw.githubusercontent.com/Myyura/the_kai_project_assets/main/kakomonn/zzy-mechanics/dynamics-early/2021-damping-response.svg",
+    "author": "祭音Myyura",
+    "sha256": "a2e6124c0157cadaf405c8523f33c74a00fac5260191a19757690a1f21f11bc6",
+    "documents": [
+      "docs/tokyo-university/engineering/mech/2021/mech_2020_7.md"
+    ]
+  },
+  {
+    "path": "kakomonn/zzy-mechanics/dynamics-early/2021-manipulator.svg",
+    "url": "https://raw.githubusercontent.com/Myyura/the_kai_project_assets/main/kakomonn/zzy-mechanics/dynamics-early/2021-manipulator.svg",
+    "author": "祭音Myyura",
+    "sha256": "50e14ec1cc5c8c3f70468340a458fe11e3e19f8cd49743dd21ed1a522d076552",
+    "documents": [
+      "docs/tokyo-university/engineering/mech/2021/mech_2020_8.md"
+    ]
+  },
+  {
+    "path": "kakomonn/zzy-mechanics/dynamics-early/2021-sprung-bar.svg",
+    "url": "https://raw.githubusercontent.com/Myyura/the_kai_project_assets/main/kakomonn/zzy-mechanics/dynamics-early/2021-sprung-bar.svg",
+    "author": "祭音Myyura",
+    "sha256": "4f6354ebc3581999fcd9259ea89d3ab0deb8876235b2472ffb38098eb85df4a9",
+    "documents": [
+      "docs/tokyo-university/engineering/mech/2021/mech_2020_7.md"
+    ]
+  },
+  {
+    "path": "kakomonn/zzy-mechanics/dynamics-early/2022-pd-block.svg",
+    "url": "https://raw.githubusercontent.com/Myyura/the_kai_project_assets/main/kakomonn/zzy-mechanics/dynamics-early/2022-pd-block.svg",
+    "author": "祭音Myyura",
+    "sha256": "92bea0cacf7661786c269c84cc381ab37809c5104a1fe90a3296a25c7993a7fa",
+    "documents": [
+      "docs/tokyo-university/engineering/mech/2022/mech_202108_II_2.md"
+    ]
+  },
+  {
+    "path": "kakomonn/zzy-mechanics/dynamics-early/2022-pendulums.svg",
+    "url": "https://raw.githubusercontent.com/Myyura/the_kai_project_assets/main/kakomonn/zzy-mechanics/dynamics-early/2022-pendulums.svg",
+    "author": "祭音Myyura",
+    "sha256": "b4492e59d6ffa14c47bbd6d2f6186258c0dfe7e9f7622f68d1d3135def2ff9c4",
+    "documents": [
+      "docs/tokyo-university/engineering/mech/2022/mech_202108_II_2.md"
+    ]
+  },
+  {
+    "path": "kakomonn/zzy-mechanics/dynamics-late/2023-attitude.svg",
+    "url": "https://raw.githubusercontent.com/Myyura/the_kai_project_assets/main/kakomonn/zzy-mechanics/dynamics-late/2023-attitude.svg",
+    "author": "祭音Myyura",
+    "sha256": "026135a0f4dfcdaaee8ca15d4a2dab919590fac3690492fa82b175258fd652c6",
+    "documents": [
+      "docs/tokyo-university/engineering/mech/2023/mech_202208_II_2.md"
+    ]
+  },
+  {
+    "path": "kakomonn/zzy-mechanics/dynamics-late/2023-plate.svg",
+    "url": "https://raw.githubusercontent.com/Myyura/the_kai_project_assets/main/kakomonn/zzy-mechanics/dynamics-late/2023-plate.svg",
+    "author": "祭音Myyura",
+    "sha256": "cf70b76991388711323f90bfac9b87f2bdc9f4a40fd42228726fae0787d458a8",
+    "documents": [
+      "docs/tokyo-university/engineering/mech/2023/mech_202208_II_2.md"
+    ]
+  },
+  {
+    "path": "kakomonn/zzy-mechanics/dynamics-late/2024-bode.svg",
+    "url": "https://raw.githubusercontent.com/Myyura/the_kai_project_assets/main/kakomonn/zzy-mechanics/dynamics-late/2024-bode.svg",
+    "author": "祭音Myyura",
+    "sha256": "21e76e8f56082113e82e5fea283c07ffe97de4b828ef5e9efeec7cc06e8d612b",
+    "documents": [
+      "docs/tokyo-university/engineering/mech/2024/mech_202308_II_2.md"
+    ]
+  },
+  {
+    "path": "kakomonn/zzy-mechanics/dynamics-late/2024-systems.svg",
+    "url": "https://raw.githubusercontent.com/Myyura/the_kai_project_assets/main/kakomonn/zzy-mechanics/dynamics-late/2024-systems.svg",
+    "author": "祭音Myyura",
+    "sha256": "e1c63f9ded8eaa119e900d86c4f5296596ce5de160fd91d5ed5d0d61352d6565",
+    "documents": [
+      "docs/tokyo-university/engineering/mech/2024/mech_202308_II_2.md"
+    ]
+  },
+  {
+    "path": "kakomonn/zzy-mechanics/dynamics-late/2025-carts.svg",
+    "url": "https://raw.githubusercontent.com/Myyura/the_kai_project_assets/main/kakomonn/zzy-mechanics/dynamics-late/2025-carts.svg",
+    "author": "祭音Myyura",
+    "sha256": "248a8c03e6f5dd6dc75507c32be7fc2fb5611fa8712d0c540b6243deafc8258b",
+    "documents": [
+      "docs/tokyo-university/engineering/mech/2025/mech_202408_4.md"
+    ]
+  },
+  {
+    "path": "kakomonn/zzy-mechanics/dynamics-late/2026-bode.svg",
+    "url": "https://raw.githubusercontent.com/Myyura/the_kai_project_assets/main/kakomonn/zzy-mechanics/dynamics-late/2026-bode.svg",
+    "author": "祭音Myyura",
+    "sha256": "292a2e5e226419d5fdac3866a1fd708a3ad5e7347f24d35101dba8bd7f0f2b30",
+    "documents": [
+      "docs/tokyo-university/engineering/mech/2026/mech_202508_II_2.md"
+    ]
+  },
+  {
+    "path": "kakomonn/zzy-mechanics/dynamics-late/2026-disks.svg",
+    "url": "https://raw.githubusercontent.com/Myyura/the_kai_project_assets/main/kakomonn/zzy-mechanics/dynamics-late/2026-disks.svg",
+    "author": "祭音Myyura",
+    "sha256": "c0e2079c0b9d37dd41f5a4b175594aae552219443d5a28e1fc5b0e559d3e8bab",
+    "documents": [
+      "docs/tokyo-university/engineering/mech/2026/mech_202508_II_2.md"
+    ]
+  },
+  {
+    "path": "kakomonn/zzy-mechanics/fluid/2021-vortex-control-volume.svg",
+    "url": "https://raw.githubusercontent.com/Myyura/the_kai_project_assets/main/kakomonn/zzy-mechanics/fluid/2021-vortex-control-volume.svg",
+    "author": "祭音Myyura",
+    "sha256": "7b0172f7b5c40c1c2162b743dac3a91457bebc20b9433a0a743885bb295b991b",
+    "documents": [
+      "docs/tokyo-university/engineering/mech/2021/mech_2020_3.md"
+    ]
+  },
+  {
+    "path": "kakomonn/zzy-mechanics/fluid/2025-gravity-pipe.svg",
+    "url": "https://raw.githubusercontent.com/Myyura/the_kai_project_assets/main/kakomonn/zzy-mechanics/fluid/2025-gravity-pipe.svg",
+    "author": "祭音Myyura",
+    "sha256": "48ff8a49e5c959c14194a34239ce16c7103d05a99bb867fae2dcb457d81cb7e2",
+    "documents": [
+      "docs/tokyo-university/engineering/mech/2025/mech_202408_2.md"
+    ]
+  },
+  {
+    "path": "kakomonn/zzy-mechanics/fluid/2026-stokes-geometry.svg",
+    "url": "https://raw.githubusercontent.com/Myyura/the_kai_project_assets/main/kakomonn/zzy-mechanics/fluid/2026-stokes-geometry.svg",
+    "author": "祭音Myyura",
+    "sha256": "185b615bff45e7068966e279f3cbcf8ebefedf8eeaf2b9674c8f06912ff6a31b",
+    "documents": [
+      "docs/tokyo-university/engineering/mech/2026/mech_202508_I_2.md"
+    ]
+  },
+  {
+    "path": "kakomonn/zzy-mechanics/fluid/2026-stokes-profile.svg",
+    "url": "https://raw.githubusercontent.com/Myyura/the_kai_project_assets/main/kakomonn/zzy-mechanics/fluid/2026-stokes-profile.svg",
+    "author": "祭音Myyura",
+    "sha256": "0a28b76be70609c4145b80107a48b9cce71dad31fca74e05d603989a6d8e2907",
+    "documents": [
+      "docs/tokyo-university/engineering/mech/2026/mech_202508_I_2.md"
+    ]
+  },
+  {
+    "path": "kakomonn/zzy-mechanics/materials/2024-selfweight-rod.svg",
+    "url": "https://raw.githubusercontent.com/Myyura/the_kai_project_assets/main/kakomonn/zzy-mechanics/materials/2024-selfweight-rod.svg",
+    "author": "祭音Myyura",
+    "sha256": "3aaef896679fcdf3cf51589695b0c127aa4ac500da7481fffa212d0348d6a44e",
+    "documents": [
+      "docs/tokyo-university/engineering/mech/2024/mech_202308_II_1.md"
+    ]
+  },
+  {
+    "path": "kakomonn/zzy-mechanics/materials/2024-welded-plate.svg",
+    "url": "https://raw.githubusercontent.com/Myyura/the_kai_project_assets/main/kakomonn/zzy-mechanics/materials/2024-welded-plate.svg",
+    "author": "祭音Myyura",
+    "sha256": "67ce47949b59bbff2c7f9570c22fd35f801c00b18609d1ecdffdf6a35039d071",
+    "documents": [
+      "docs/tokyo-university/engineering/mech/2024/mech_202308_II_1.md"
+    ]
+  },
+  {
+    "path": "kakomonn/zzy-mechanics/materials/2025-round-bar.svg",
+    "url": "https://raw.githubusercontent.com/Myyura/the_kai_project_assets/main/kakomonn/zzy-mechanics/materials/2025-round-bar.svg",
+    "author": "祭音Myyura",
+    "sha256": "0da20e4164c222fb0f8c457f749911c13ca7b7f791d7119af4dcc8f5044750c5",
+    "documents": [
+      "docs/tokyo-university/engineering/mech/2025/mech_202408_3.md"
+    ]
+  }
+]
