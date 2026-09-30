@@ -1,0 +1,853 @@
+[
+  {
+    "file": "fluid/2013-branch.svg",
+    "url": "https://raw.githubusercontent.com/Myyura/the_kai_project_assets/main/kakomonn/sn-mechanics/fluid/2013-branch.svg",
+    "author": "祭音Myyura",
+    "sha256": "066bc675b24f75560c333802f056b3ff2ce78e94b91011315654a804a839d438",
+    "documents": [
+      "docs/tokyo-university/engineering/mech/2013/mech_201208_I_2_I.md"
+    ],
+    "original_sources": [
+      "https://www2.mech.t.u-tokyo.ac.jp/wp-content/uploads/2022/04/H25%E7%AC%AC1%E9%83%A8-1.pdf"
+    ],
+    "sn_sources": [
+      "https://bloodystream.hatenadiary.jp/entry/2021/06/13/050000_2"
+    ]
+  },
+  {
+    "file": "fluid/2013-network.svg",
+    "url": "https://raw.githubusercontent.com/Myyura/the_kai_project_assets/main/kakomonn/sn-mechanics/fluid/2013-network.svg",
+    "author": "祭音Myyura",
+    "sha256": "14b283076c12cf54e03e8433b03a1a3fcf9a4d6b008e932703eb0f82ad58058d",
+    "documents": [
+      "docs/tokyo-university/engineering/mech/2013/mech_201208_I_2_II.md"
+    ],
+    "original_sources": [
+      "https://www2.mech.t.u-tokyo.ac.jp/wp-content/uploads/2022/04/H25%E7%AC%AC1%E9%83%A8-1.pdf"
+    ],
+    "sn_sources": [
+      "https://bloodystream.hatenadiary.jp/entry/2020/05/08/220442"
+    ]
+  },
+  {
+    "file": "fluid/2014-jet-pump.svg",
+    "url": "https://raw.githubusercontent.com/Myyura/the_kai_project_assets/main/kakomonn/sn-mechanics/fluid/2014-jet-pump.svg",
+    "author": "祭音Myyura",
+    "sha256": "26e97ce7b39fa64c8e49c51308efd40091d06e9ea98ea72d303ebfba326bcbe7",
+    "documents": [
+      "docs/tokyo-university/engineering/mech/2014/mech_201308_I_2_I.md"
+    ],
+    "original_sources": [
+      "https://www2.mech.t.u-tokyo.ac.jp/wp-content/uploads/2022/04/H26%E7%AC%AC1%E9%83%A8-1.pdf"
+    ],
+    "sn_sources": [
+      "https://bloodystream.hatenadiary.jp/entry/2019/09/11/194900"
+    ]
+  },
+  {
+    "file": "fluid/2014-mixing.svg",
+    "url": "https://raw.githubusercontent.com/Myyura/the_kai_project_assets/main/kakomonn/sn-mechanics/fluid/2014-mixing.svg",
+    "author": "祭音Myyura",
+    "sha256": "d647e5c3be1c683275546f7a5e5d10904567e639a06a6e3b2df0106ad210a9b6",
+    "documents": [
+      "docs/tokyo-university/engineering/mech/2014/mech_201308_I_2_I.md"
+    ],
+    "original_sources": [
+      "https://www2.mech.t.u-tokyo.ac.jp/wp-content/uploads/2022/04/H26%E7%AC%AC1%E9%83%A8-1.pdf"
+    ],
+    "sn_sources": [
+      "https://bloodystream.hatenadiary.jp/entry/2019/09/11/194900"
+    ]
+  },
+  {
+    "file": "fluid/2014-thin-film.svg",
+    "url": "https://raw.githubusercontent.com/Myyura/the_kai_project_assets/main/kakomonn/sn-mechanics/fluid/2014-thin-film.svg",
+    "author": "祭音Myyura",
+    "sha256": "cc9b8246832bda884325c73536bf8528d42fa3158543c09556b84ac4eec84abf",
+    "documents": [
+      "docs/tokyo-university/engineering/mech/2014/mech_201308_I_2_II.md"
+    ],
+    "original_sources": [
+      "https://www2.mech.t.u-tokyo.ac.jp/wp-content/uploads/2022/04/H26%E7%AC%AC1%E9%83%A8-1.pdf"
+    ],
+    "sn_sources": [
+      "https://bloodystream.hatenadiary.jp/entry/2021/06/09/060000"
+    ]
+  },
+  {
+    "file": "fluid/2015-elbow.svg",
+    "url": "https://raw.githubusercontent.com/Myyura/the_kai_project_assets/main/kakomonn/sn-mechanics/fluid/2015-elbow.svg",
+    "author": "祭音Myyura",
+    "sha256": "75d1c191ac68b25bd1c15e43807288cf0cc7885e73ad0d693adf5518fedf5ad7",
+    "documents": [
+      "docs/tokyo-university/engineering/mech/2015/mech_201408_I_2_II.md"
+    ],
+    "original_sources": [
+      "https://www2.mech.t.u-tokyo.ac.jp/wp-content/uploads/2022/04/H27%E7%AC%AC1%E9%83%A8-1.pdf"
+    ],
+    "sn_sources": [
+      "https://bloodystream.hatenadiary.jp/entry/2020/08/07/202452"
+    ]
+  },
+  {
+    "file": "fluid/2015-suction-geometry.svg",
+    "url": "https://raw.githubusercontent.com/Myyura/the_kai_project_assets/main/kakomonn/sn-mechanics/fluid/2015-suction-geometry.svg",
+    "author": "祭音Myyura",
+    "sha256": "8b8f2f8ea6ddeeb336d0fff7293d786c2a91df129d58549edd6bf41096764b14",
+    "documents": [
+      "docs/tokyo-university/engineering/mech/2015/mech_201408_I_2_I.md"
+    ],
+    "original_sources": [
+      "https://www2.mech.t.u-tokyo.ac.jp/wp-content/uploads/2022/04/H27%E7%AC%AC1%E9%83%A8-1.pdf"
+    ],
+    "sn_sources": [
+      "https://bloodystream.hatenadiary.jp/entry/2021/06/13/050000_1"
+    ]
+  },
+  {
+    "file": "fluid/2015-suction.svg",
+    "url": "https://raw.githubusercontent.com/Myyura/the_kai_project_assets/main/kakomonn/sn-mechanics/fluid/2015-suction.svg",
+    "author": "祭音Myyura",
+    "sha256": "28b98ab34f5e1ce36fd57c103c8b8f3da7ae14a51e870f4b3fcf0100d9449314",
+    "documents": [
+      "docs/tokyo-university/engineering/mech/2015/mech_201408_I_2_I.md"
+    ],
+    "original_sources": [
+      "https://www2.mech.t.u-tokyo.ac.jp/wp-content/uploads/2022/04/H27%E7%AC%AC1%E9%83%A8-1.pdf"
+    ],
+    "sn_sources": [
+      "https://bloodystream.hatenadiary.jp/entry/2021/06/13/050000_1"
+    ]
+  },
+  {
+    "file": "fluid/2016-pump.svg",
+    "url": "https://raw.githubusercontent.com/Myyura/the_kai_project_assets/main/kakomonn/sn-mechanics/fluid/2016-pump.svg",
+    "author": "祭音Myyura",
+    "sha256": "ba4e35cba9a3dd7b751770b4a431aa038385d03db28d88b52cdd406af83ce511",
+    "documents": [
+      "docs/tokyo-university/engineering/mech/2016/mech_201509_I_2_II.md"
+    ],
+    "original_sources": [
+      "https://www2.mech.t.u-tokyo.ac.jp/wp-content/uploads/2022/04/H28%E7%AC%AC1%E9%83%A8-1.pdf"
+    ],
+    "sn_sources": [
+      "https://bloodystream.hatenadiary.jp/entry/2019/12/28/232535"
+    ]
+  },
+  {
+    "file": "fluid/2017-jet-target.svg",
+    "url": "https://raw.githubusercontent.com/Myyura/the_kai_project_assets/main/kakomonn/sn-mechanics/fluid/2017-jet-target.svg",
+    "author": "祭音Myyura",
+    "sha256": "7776eead1b3c7e07520aaf4fb45d0960bb1ad013fc100efd7650563b73a4ba9c",
+    "documents": [
+      "docs/tokyo-university/engineering/mech/2017/mech_201608_I_2.md"
+    ],
+    "original_sources": [
+      "https://www2.mech.t.u-tokyo.ac.jp/wp-content/uploads/2022/04/H29%E7%AC%AC1%E9%83%A8-2.pdf"
+    ],
+    "sn_sources": [
+      "https://bloodystream.hatenadiary.jp/entry/2020/08/08/041529"
+    ]
+  },
+  {
+    "file": "fluid/2018-couette.svg",
+    "url": "https://raw.githubusercontent.com/Myyura/the_kai_project_assets/main/kakomonn/sn-mechanics/fluid/2018-couette.svg",
+    "author": "祭音Myyura",
+    "sha256": "178b1486769492b4f456bd885ffe174bf57276c4d2d107811c77142ee6ec6e04",
+    "documents": [
+      "docs/tokyo-university/engineering/mech/2018/mech_201708_I_2_III.md"
+    ],
+    "original_sources": [
+      "https://www2.mech.t.u-tokyo.ac.jp/wp-content/uploads/2022/04/H30%E7%AC%AC1%E9%83%A8-2.pdf"
+    ],
+    "sn_sources": [
+      "https://bloodystream.hatenadiary.jp/entry/2020/12/13/181137"
+    ]
+  },
+  {
+    "file": "fluid/2018-propulsion.svg",
+    "url": "https://raw.githubusercontent.com/Myyura/the_kai_project_assets/main/kakomonn/sn-mechanics/fluid/2018-propulsion.svg",
+    "author": "祭音Myyura",
+    "sha256": "6dfa18f18db625b29cda7aa9a7fb31f418a911a4be726cdb4af7a2f1a057951b",
+    "documents": [
+      "docs/tokyo-university/engineering/mech/2018/mech_201708_I_2_I.md"
+    ],
+    "original_sources": [
+      "https://www2.mech.t.u-tokyo.ac.jp/wp-content/uploads/2022/04/H30%E7%AC%AC1%E9%83%A8-2.pdf"
+    ],
+    "sn_sources": [
+      "https://bloodystream.hatenadiary.jp/entry/2021/06/02/073000"
+    ]
+  },
+  {
+    "file": "fluid/2019-propeller.svg",
+    "url": "https://raw.githubusercontent.com/Myyura/the_kai_project_assets/main/kakomonn/sn-mechanics/fluid/2019-propeller.svg",
+    "author": "祭音Myyura",
+    "sha256": "a21d84a67bf87c7e93a0672da79d987adfd868eb90c6c2b965dbec6740e62c74",
+    "documents": [
+      "docs/tokyo-university/engineering/mech/2019/mech_201808_I_2.md"
+    ],
+    "original_sources": [
+      "https://www2.mech.t.u-tokyo.ac.jp/wp-content/uploads/2022/04/H31%E7%AC%AC1%E9%83%A8-1.pdf"
+    ],
+    "sn_sources": [
+      "https://bloodystream.hatenadiary.jp/entry/2021/06/08/120000"
+    ]
+  },
+  {
+    "file": "fluid/2020-boundary-layer.svg",
+    "url": "https://raw.githubusercontent.com/Myyura/the_kai_project_assets/main/kakomonn/sn-mechanics/fluid/2020-boundary-layer.svg",
+    "author": "祭音Myyura",
+    "sha256": "fe8371ca2f2ae7a4f6e066a30b933e691da2b4f97076d90c5ed492f7425a2101",
+    "documents": [
+      "docs/tokyo-university/engineering/mech/2020/mech_201908_I_2.md"
+    ],
+    "original_sources": [
+      "https://www2.mech.t.u-tokyo.ac.jp/wp-content/uploads/2022/04/R01%E7%AC%AC1%E9%83%A8-1.pdf"
+    ],
+    "sn_sources": [
+      "https://bloodystream.hatenadiary.jp/entry/2021/11/14/081500"
+    ]
+  },
+  {
+    "file": "fluid/2022-capillary.svg",
+    "url": "https://raw.githubusercontent.com/Myyura/the_kai_project_assets/main/kakomonn/sn-mechanics/fluid/2022-capillary.svg",
+    "author": "祭音Myyura",
+    "sha256": "c8d3dcdfaa859b2ef7d06ab82537d3c23481479c602f53b7d7cf7ed40d237537",
+    "documents": [
+      "docs/tokyo-university/engineering/mech/2022/mech_202108_I_2_II.md"
+    ],
+    "original_sources": [
+      "https://www2.mech.t.u-tokyo.ac.jp/wp-content/uploads/2022/04/R03%E7%AC%AC1%E9%83%A8-2.pdf"
+    ],
+    "sn_sources": [
+      "https://bloodystream.hatenadiary.jp/entry/2023/07/19/224500"
+    ]
+  },
+  {
+    "file": "fluid/2022-hydraulic-jump.svg",
+    "url": "https://raw.githubusercontent.com/Myyura/the_kai_project_assets/main/kakomonn/sn-mechanics/fluid/2022-hydraulic-jump.svg",
+    "author": "祭音Myyura",
+    "sha256": "038999ba6dff6a02814b90d2849e159bef141f7b793c590eb76eecb960cee43c",
+    "documents": [
+      "docs/tokyo-university/engineering/mech/2022/mech_202108_I_2_I.md"
+    ],
+    "original_sources": [
+      "https://www2.mech.t.u-tokyo.ac.jp/wp-content/uploads/2022/04/R03%E7%AC%AC1%E9%83%A8-2.pdf"
+    ],
+    "sn_sources": [
+      "https://bloodystream.hatenadiary.jp/entry/2023/06/11/185812"
+    ]
+  },
+  {
+    "file": "fluid/2023-acoustic-wave.svg",
+    "url": "https://raw.githubusercontent.com/Myyura/the_kai_project_assets/main/kakomonn/sn-mechanics/fluid/2023-acoustic-wave.svg",
+    "author": "祭音Myyura",
+    "sha256": "6d8cc4b12a8eadf500daad4a15bde0c8309a5e0164ca8b6668bf0fde697173fc",
+    "documents": [
+      "docs/tokyo-university/engineering/mech/2023/mech_202208_I_2_I.md"
+    ],
+    "original_sources": [
+      "https://www2.mech.t.u-tokyo.ac.jp/wp-content/uploads/2023/04/R04%E7%AC%AC1%E9%83%A8.pdf"
+    ],
+    "sn_sources": [
+      "https://bloodystream.hatenadiary.jp/entry/2023/07/20/002000"
+    ]
+  },
+  {
+    "file": "fluid/2024-falling-film.svg",
+    "url": "https://raw.githubusercontent.com/Myyura/the_kai_project_assets/main/kakomonn/sn-mechanics/fluid/2024-falling-film.svg",
+    "author": "祭音Myyura",
+    "sha256": "de4897eea587821026043290663e072fc631567786712f90c143ef6513daaa30",
+    "documents": [
+      "docs/tokyo-university/engineering/mech/2024/mech_202308_I_2_II.md"
+    ],
+    "original_sources": [
+      "https://www2.mech.t.u-tokyo.ac.jp/wp-content/uploads/2024/03/R05%E7%AC%AC1%E9%83%A8.pdf"
+    ],
+    "sn_sources": [
+      "https://bloodystream.hatenadiary.jp/entry/2024/12/19/030000"
+    ]
+  },
+  {
+    "file": "fluid/2024-turbine.svg",
+    "url": "https://raw.githubusercontent.com/Myyura/the_kai_project_assets/main/kakomonn/sn-mechanics/fluid/2024-turbine.svg",
+    "author": "祭音Myyura",
+    "sha256": "53541e2e97cc616443ffe707ae3d332163ca0487734b51402b034b5c3503d0cd",
+    "documents": [
+      "docs/tokyo-university/engineering/mech/2024/mech_202308_I_2_I.md"
+    ],
+    "original_sources": [
+      "https://www2.mech.t.u-tokyo.ac.jp/wp-content/uploads/2024/03/R05%E7%AC%AC1%E9%83%A8.pdf"
+    ],
+    "sn_sources": [
+      "https://bloodystream.hatenadiary.jp/entry/2024/12/18/234538"
+    ]
+  },
+  {
+    "file": "fluid/titech-2017-diffuser.svg",
+    "url": "https://raw.githubusercontent.com/Myyura/the_kai_project_assets/main/kakomonn/sn-mechanics/fluid/titech-2017-diffuser.svg",
+    "author": "祭音Myyura",
+    "sha256": "1f7a036ed5ba4d3755d4edc014d76a655e0051384f5cc5e878801995acb6276d",
+    "documents": [
+      "docs/institute-of-science-tokyo/engineering/mech/2017/mech_2016_4_2.md"
+    ],
+    "original_sources": [
+      "https://www.titech.ac.jp/admissions/pdf/82-mech-sc-h28.pdf"
+    ],
+    "sn_sources": [
+      "https://bloodystream.hatenadiary.jp/entry/2021/04/29/202236"
+    ]
+  },
+  {
+    "file": "fluid/titech-2017-lubrication.svg",
+    "url": "https://raw.githubusercontent.com/Myyura/the_kai_project_assets/main/kakomonn/sn-mechanics/fluid/titech-2017-lubrication.svg",
+    "author": "祭音Myyura",
+    "sha256": "1989ece95e6ff09f9caf10a194334c9cdb7f285ef39b360590bad699bcd98dca",
+    "documents": [
+      "docs/institute-of-science-tokyo/engineering/mech/2017/mech_2016_4_1.md"
+    ],
+    "original_sources": [
+      "https://www.titech.ac.jp/admissions/pdf/82-mech-sc-h28.pdf"
+    ],
+    "sn_sources": [
+      "https://bloodystream.hatenadiary.jp/entry/2021/04/26/020259"
+    ]
+  },
+  {
+    "file": "fluid/titech-2019-eccentric-gap.svg",
+    "url": "https://raw.githubusercontent.com/Myyura/the_kai_project_assets/main/kakomonn/sn-mechanics/fluid/titech-2019-eccentric-gap.svg",
+    "author": "祭音Myyura",
+    "sha256": "d16348bb135ade26cbda8890da4a7d44bf88d7b04ac878c1bd75967daab4a9ac",
+    "documents": [
+      "docs/institute-of-science-tokyo/engineering/mech/2019/mech_201808_4_2.md"
+    ],
+    "original_sources": [
+      "https://www.titech.ac.jp/admissions/pdf/82-mech-h30.pdf"
+    ],
+    "sn_sources": [
+      "https://bloodystream.hatenadiary.jp/entry/2021/05/06/003000"
+    ]
+  },
+  {
+    "file": "materials/2013-1-geometry.svg",
+    "url": "https://raw.githubusercontent.com/Myyura/the_kai_project_assets/main/kakomonn/sn-mechanics/materials/2013-1-geometry.svg",
+    "author": "祭音Myyura",
+    "sha256": "f919c1acf1fc3c0e6a816632aaaa301ac6564c1d3075b4268f53083020dd84f0",
+    "documents": [
+      "docs/tokyo-university/engineering/mech/2013/mech_201208_II_1.md"
+    ],
+    "original_sources": [
+      "https://www2.mech.t.u-tokyo.ac.jp/wp-content/uploads/2022/04/H25%E7%AC%AC2%E9%83%A8.pdf"
+    ],
+    "sn_sources": [
+      "https://bloodystream.hatenadiary.jp/entry/2023/09/03/164500"
+    ]
+  },
+  {
+    "file": "materials/2014-1-geometry.svg",
+    "url": "https://raw.githubusercontent.com/Myyura/the_kai_project_assets/main/kakomonn/sn-mechanics/materials/2014-1-geometry.svg",
+    "author": "祭音Myyura",
+    "sha256": "a9bc381bb2c95a51e08e32f908f5ae057673a8cceb55f8289f23aad4e0a6c1c3",
+    "documents": [
+      "docs/tokyo-university/engineering/mech/2014/mech_201308_II_1.md"
+    ],
+    "original_sources": [
+      "https://www2.mech.t.u-tokyo.ac.jp/wp-content/uploads/2022/04/H26%E7%AC%AC2%E9%83%A8.pdf"
+    ],
+    "sn_sources": [
+      "https://bloodystream.hatenadiary.jp/entry/2023/08/13/131500",
+      "https://bloodystream.hatenadiary.jp/entry/2023/09/10/133000"
+    ]
+  },
+  {
+    "file": "materials/2015-1-geometry.svg",
+    "url": "https://raw.githubusercontent.com/Myyura/the_kai_project_assets/main/kakomonn/sn-mechanics/materials/2015-1-geometry.svg",
+    "author": "祭音Myyura",
+    "sha256": "110ec5181f0b744fd3a5b572061ab09d56a0e51023926a59641956c0c0f118a0",
+    "documents": [
+      "docs/tokyo-university/engineering/mech/2015/mech_201408_II_1.md"
+    ],
+    "original_sources": [
+      "https://www2.mech.t.u-tokyo.ac.jp/wp-content/uploads/2022/04/H27%E7%AC%AC2%E9%83%A8.pdf"
+    ],
+    "sn_sources": [
+      "https://bloodystream.hatenadiary.jp/entry/2023/09/03/000000",
+      "https://bloodystream.hatenadiary.jp/entry/2023/09/03/023000"
+    ]
+  },
+  {
+    "file": "materials/2016-1-geometry.svg",
+    "url": "https://raw.githubusercontent.com/Myyura/the_kai_project_assets/main/kakomonn/sn-mechanics/materials/2016-1-geometry.svg",
+    "author": "祭音Myyura",
+    "sha256": "6afd5d1439dc024e9cf2eaf147faaa789f9b50a1134b0de5ae5fcfe6ae7ecdf5",
+    "documents": [
+      "docs/tokyo-university/engineering/mech/2016/mech_201509_II_1.md"
+    ],
+    "original_sources": [
+      "https://www2.mech.t.u-tokyo.ac.jp/wp-content/uploads/2022/04/H28%E7%AC%AC2%E9%83%A8.pdf"
+    ],
+    "sn_sources": [
+      "https://bloodystream.hatenadiary.jp/entry/2019/12/01/030120",
+      "https://bloodystream.hatenadiary.jp/entry/2020/12/19/021328"
+    ]
+  },
+  {
+    "file": "materials/2017-1-geometry.svg",
+    "url": "https://raw.githubusercontent.com/Myyura/the_kai_project_assets/main/kakomonn/sn-mechanics/materials/2017-1-geometry.svg",
+    "author": "祭音Myyura",
+    "sha256": "67a74ede0f6b6cf2cd32b30730338f1eece38e81763d405b1b5b20443b4991de",
+    "documents": [
+      "docs/tokyo-university/engineering/mech/2017/mech_201608_II_1.md"
+    ],
+    "original_sources": [
+      "https://www2.mech.t.u-tokyo.ac.jp/wp-content/uploads/2022/04/H29%E7%AC%AC2%E9%83%A8.pdf"
+    ],
+    "sn_sources": [
+      "https://bloodystream.hatenadiary.jp/entry/2021/11/18/130000",
+      "https://bloodystream.hatenadiary.jp/entry/2023/08/15/204000"
+    ]
+  },
+  {
+    "file": "materials/2018-1-geometry.svg",
+    "url": "https://raw.githubusercontent.com/Myyura/the_kai_project_assets/main/kakomonn/sn-mechanics/materials/2018-1-geometry.svg",
+    "author": "祭音Myyura",
+    "sha256": "036bc11d2442acc14e102194b6eb887a0586efecd83a6dd420a5fb28a44a5088",
+    "documents": [
+      "docs/tokyo-university/engineering/mech/2018/mech_201708_II_1.md"
+    ],
+    "original_sources": [
+      "https://www2.mech.t.u-tokyo.ac.jp/wp-content/uploads/2022/04/H30%E7%AC%AC2%E9%83%A8.pdf"
+    ],
+    "sn_sources": [
+      "https://bloodystream.hatenadiary.jp/entry/2019/09/11/005850",
+      "https://bloodystream.hatenadiary.jp/entry/2021/05/09/023000"
+    ]
+  },
+  {
+    "file": "materials/2019-1-geometry.svg",
+    "url": "https://raw.githubusercontent.com/Myyura/the_kai_project_assets/main/kakomonn/sn-mechanics/materials/2019-1-geometry.svg",
+    "author": "祭音Myyura",
+    "sha256": "e6ea8aa723d336efaacce5bd6f7985e55342874cbcb95f8b803dedc29755c232",
+    "documents": [
+      "docs/tokyo-university/engineering/mech/2019/mech_201808_II_1.md"
+    ],
+    "original_sources": [
+      "https://www2.mech.t.u-tokyo.ac.jp/wp-content/uploads/2022/04/H31%E7%AC%AC2%E9%83%A8.pdf"
+    ],
+    "sn_sources": [
+      "https://bloodystream.hatenadiary.jp/entry/2021/06/03/060000",
+      "https://bloodystream.hatenadiary.jp/entry/2023/08/26/230000"
+    ]
+  },
+  {
+    "file": "materials/2020-1-geometry.svg",
+    "url": "https://raw.githubusercontent.com/Myyura/the_kai_project_assets/main/kakomonn/sn-mechanics/materials/2020-1-geometry.svg",
+    "author": "祭音Myyura",
+    "sha256": "e2d24e3210ac20bafb8895619a355841ed17196a04ff104162da7504ac405e22",
+    "documents": [
+      "docs/tokyo-university/engineering/mech/2020/mech_201908_II_1.md"
+    ],
+    "original_sources": [
+      "https://www2.mech.t.u-tokyo.ac.jp/wp-content/uploads/2022/04/R01%E7%AC%AC2%E9%83%A8.pdf"
+    ],
+    "sn_sources": [
+      "https://bloodystream.hatenadiary.jp/entry/2021/11/12/193000",
+      "https://bloodystream.hatenadiary.jp/entry/2023/08/31/000000"
+    ]
+  },
+  {
+    "file": "materials/2021-5-geometry.svg",
+    "url": "https://raw.githubusercontent.com/Myyura/the_kai_project_assets/main/kakomonn/sn-mechanics/materials/2021-5-geometry.svg",
+    "author": "祭音Myyura",
+    "sha256": "ce6c8021088add2db04e6b303c6d0a452e6c632f00b7e55a4ff3d968cc6cd21c",
+    "documents": [
+      "docs/tokyo-university/engineering/mech/2021/mech_2020_II_5.md"
+    ],
+    "original_sources": [
+      "https://www2.mech.t.u-tokyo.ac.jp/wp-content/uploads/2022/04/R02%E7%AC%AC2%E9%83%A8.pdf"
+    ],
+    "sn_sources": [
+      "https://bloodystream.hatenadiary.jp/entry/2023/08/17/203000"
+    ]
+  },
+  {
+    "file": "materials/2021-6-geometry.svg",
+    "url": "https://raw.githubusercontent.com/Myyura/the_kai_project_assets/main/kakomonn/sn-mechanics/materials/2021-6-geometry.svg",
+    "author": "祭音Myyura",
+    "sha256": "76eaaabeeed2c6c40a9ce3812e3bc2a6671616e6e4dbc7177e97e66056433385",
+    "documents": [
+      "docs/tokyo-university/engineering/mech/2021/mech_2020_II_6.md"
+    ],
+    "original_sources": [
+      "https://www2.mech.t.u-tokyo.ac.jp/wp-content/uploads/2022/04/R02%E7%AC%AC2%E9%83%A8.pdf"
+    ],
+    "sn_sources": [
+      "https://bloodystream.hatenadiary.jp/entry/2023/08/12/233000"
+    ]
+  },
+  {
+    "file": "materials/2022-1-diagrams.svg",
+    "url": "https://raw.githubusercontent.com/Myyura/the_kai_project_assets/main/kakomonn/sn-mechanics/materials/2022-1-diagrams.svg",
+    "author": "祭音Myyura",
+    "sha256": "e5ef92437e1679b1ad0f843b6b4ec5624be501cc07f5c4d1d5a94b40401108fd",
+    "documents": [
+      "docs/tokyo-university/engineering/mech/2022/mech_202108_II_1.md"
+    ],
+    "original_sources": [
+      "https://www2.mech.t.u-tokyo.ac.jp/wp-content/uploads/2022/04/R03%E7%AC%AC2%E9%83%A8.pdf"
+    ],
+    "sn_sources": [
+      "https://bloodystream.hatenadiary.jp/entry/2023/08/12/010000",
+      "https://bloodystream.hatenadiary.jp/entry/2023/08/12/153000"
+    ]
+  },
+  {
+    "file": "materials/2022-1-failure.svg",
+    "url": "https://raw.githubusercontent.com/Myyura/the_kai_project_assets/main/kakomonn/sn-mechanics/materials/2022-1-failure.svg",
+    "author": "祭音Myyura",
+    "sha256": "3b948eef9f05c35d62ae0c5fd6946a05f74f14a0cbf6ee29d33123a99fd882c7",
+    "documents": [
+      "docs/tokyo-university/engineering/mech/2022/mech_202108_II_1.md"
+    ],
+    "original_sources": [
+      "https://www2.mech.t.u-tokyo.ac.jp/wp-content/uploads/2022/04/R03%E7%AC%AC2%E9%83%A8.pdf"
+    ],
+    "sn_sources": [
+      "https://bloodystream.hatenadiary.jp/entry/2023/08/12/010000",
+      "https://bloodystream.hatenadiary.jp/entry/2023/08/12/153000"
+    ]
+  },
+  {
+    "file": "materials/2022-1-geometry.svg",
+    "url": "https://raw.githubusercontent.com/Myyura/the_kai_project_assets/main/kakomonn/sn-mechanics/materials/2022-1-geometry.svg",
+    "author": "祭音Myyura",
+    "sha256": "5074b6cd0a11ef5cba45c902c0ce2dbabd4b8bd006bfd2bf5b8e271fe4aad993",
+    "documents": [
+      "docs/tokyo-university/engineering/mech/2022/mech_202108_II_1.md"
+    ],
+    "original_sources": [
+      "https://www2.mech.t.u-tokyo.ac.jp/wp-content/uploads/2022/04/R03%E7%AC%AC2%E9%83%A8.pdf"
+    ],
+    "sn_sources": [
+      "https://bloodystream.hatenadiary.jp/entry/2023/08/12/010000",
+      "https://bloodystream.hatenadiary.jp/entry/2023/08/12/153000"
+    ]
+  },
+  {
+    "file": "materials/2023-1-geometry.svg",
+    "url": "https://raw.githubusercontent.com/Myyura/the_kai_project_assets/main/kakomonn/sn-mechanics/materials/2023-1-geometry.svg",
+    "author": "祭音Myyura",
+    "sha256": "e45466025b536cd8e5bb49bcfd15a027cc60e7401ab9fc68a782e50d4baf5129",
+    "documents": [
+      "docs/tokyo-university/engineering/mech/2023/mech_202208_II_1.md"
+    ],
+    "original_sources": [
+      "https://www2.mech.t.u-tokyo.ac.jp/wp-content/uploads/2023/04/R04%E7%AC%AC2%E9%83%A8.pdf"
+    ],
+    "sn_sources": [
+      "https://bloodystream.hatenadiary.jp/entry/2023/08/13/220000",
+      "https://bloodystream.hatenadiary.jp/entry/2023/08/27/044500"
+    ]
+  },
+  {
+    "file": "materials/kyoto-2014-pendulums.svg",
+    "url": "https://raw.githubusercontent.com/Myyura/the_kai_project_assets/main/kakomonn/sn-mechanics/materials/kyoto-2014-pendulums.svg",
+    "author": "祭音Myyura",
+    "sha256": "9d5d51da4a8a151c6658edca292eaf24030e9ceffca5a0247d64ef036c775ec9",
+    "documents": [
+      "docs/kyoto-university/engineering/mech/2014/mech_201308_dynamics_1_2.md"
+    ],
+    "original_sources": [
+      "https://web.archive.org/web/20160619035159id_/http://www.me.t.kyoto-u.ac.jp:80/ja/admission/exam/body/past_problems/files/sm62wf"
+    ],
+    "sn_sources": [
+      "https://bloodystream.hatenadiary.jp/entry/2021/05/05/183000"
+    ]
+  },
+  {
+    "file": "other/kyoto-2015-string.svg",
+    "url": "https://raw.githubusercontent.com/Myyura/the_kai_project_assets/main/kakomonn/sn-mechanics/other/kyoto-2015-string.svg",
+    "author": "祭音Myyura",
+    "sha256": "e1d5621338e174eb147cbbb0b4c58afefd3987713b8a8febb0296c76964f8222",
+    "documents": [
+      "docs/kyoto-university/engineering/mech/2015/mech_201408_dynamics_2.md"
+    ],
+    "original_sources": [
+      "https://web.archive.org/web/20160619031705id_/http://www.me.t.kyoto-u.ac.jp:80/ja/admission/exam/body/past_problems/files/H27_kikairikigaku"
+    ],
+    "sn_sources": [
+      "https://bloodystream.hatenadiary.jp/entry/2021/05/06/203000"
+    ]
+  },
+  {
+    "file": "other/kyoto-2024-ring.svg",
+    "url": "https://raw.githubusercontent.com/Myyura/the_kai_project_assets/main/kakomonn/sn-mechanics/other/kyoto-2024-ring.svg",
+    "author": "祭音Myyura",
+    "sha256": "e749ebe35746eafe77fc5c53c5d7b2592bfc6fd466d5b9fb33d119d4203d427c",
+    "documents": [
+      "docs/kyoto-university/engineering/mech/2024/mech_202308_senmon_3_3.md"
+    ],
+    "original_sources": [
+      "https://www.me.t.kyoto-u.ac.jp/ja/admission/exam/body/past_problems/files/2024_specializedsubjects.pdf"
+    ],
+    "sn_sources": [
+      "https://bloodystream.hatenadiary.jp/entry/2025/04/13/010000"
+    ]
+  },
+  {
+    "file": "other/science-2022-jet.svg",
+    "url": "https://raw.githubusercontent.com/Myyura/the_kai_project_assets/main/kakomonn/sn-mechanics/other/science-2022-jet.svg",
+    "author": "祭音Myyura",
+    "sha256": "495ca15b21403c57ee01a527b00f2d55583836590c70ba5bf34095a2b7218986",
+    "documents": [
+      "docs/institute-of-science-tokyo/engineering/mech/2022/mech_202108_4_1.md"
+    ],
+    "original_sources": [
+      "https://admissions.isct.ac.jp/plugins/cms/component_download_file.php?type=1&pageId=3186&contentsId=&contentsDataId=&prevId=&key=fd8e1a22d9974f5a988fdbd9379b05c2.pdf&fileName=exam_mech_20218"
+    ],
+    "sn_sources": [
+      "https://bloodystream.hatenadiary.jp/entry/2025/04/13/211500"
+    ]
+  },
+  {
+    "file": "other/tohoku-2023-torsion.svg",
+    "url": "https://raw.githubusercontent.com/Myyura/the_kai_project_assets/main/kakomonn/sn-mechanics/other/tohoku-2023-torsion.svg",
+    "author": "祭音Myyura",
+    "sha256": "1bf308f0714fdbfec2d3d58062204b9ab13ebf5860a857ecf5dd1fbfdaa5e5f1",
+    "documents": [
+      "docs/tohoku-university/engineering/mech/2024/mech_202308_materials_1.md"
+    ],
+    "original_sources": [
+      "https://www.mech.tohoku.ac.jp/wp/wp-content/uploads/2026/02/Problem_2023_j.pdf"
+    ],
+    "sn_sources": [
+      "https://bloodystream.hatenadiary.jp/entry/2025/04/13/154500"
+    ]
+  },
+  {
+    "file": "other/tokyo-2017-string.svg",
+    "url": "https://raw.githubusercontent.com/Myyura/the_kai_project_assets/main/kakomonn/sn-mechanics/other/tokyo-2017-string.svg",
+    "author": "祭音Myyura",
+    "sha256": "457efaf61f3a739b9326153c0832fd3e476f015db67624c7f705a4c7dafe4417",
+    "documents": [
+      "docs/tokyo-university/engineering/mech/2017/mech_201608_II_3.md"
+    ],
+    "original_sources": [
+      "https://www2.mech.t.u-tokyo.ac.jp/wp-content/uploads/2022/04/H29%E7%AC%AC2%E9%83%A8.pdf"
+    ],
+    "sn_sources": [
+      "https://bloodystream.hatenadiary.jp/entry/2021/05/31/020000"
+    ]
+  },
+  {
+    "file": "thermo/2014-channel-temperature.svg",
+    "url": "https://raw.githubusercontent.com/Myyura/the_kai_project_assets/main/kakomonn/sn-mechanics/thermo/2014-channel-temperature.svg",
+    "author": "祭音Myyura",
+    "sha256": "670b0691c28978f604cfc3082ce5612436f217c4c7cfa5b2bcf0b67613d1c7c2",
+    "documents": [
+      "docs/tokyo-university/engineering/mech/2014/mech_201308_I_1_II.md"
+    ],
+    "original_sources": [
+      "https://www2.mech.t.u-tokyo.ac.jp/wp-content/uploads/2022/04/H26%E7%AC%AC1%E9%83%A8-1.pdf"
+    ],
+    "sn_sources": [
+      "https://bloodystream.hatenadiary.jp/entry/2023/06/25/013000"
+    ]
+  },
+  {
+    "file": "thermo/2014-otto.svg",
+    "url": "https://raw.githubusercontent.com/Myyura/the_kai_project_assets/main/kakomonn/sn-mechanics/thermo/2014-otto.svg",
+    "author": "祭音Myyura",
+    "sha256": "19e5ca39a94bd56f105cb12c7cfb405b64d0217db33a9d2219090afc2abb4de4",
+    "documents": [
+      "docs/tokyo-university/engineering/mech/2014/mech_201308_I_1_I.md"
+    ],
+    "original_sources": [
+      "https://www2.mech.t.u-tokyo.ac.jp/wp-content/uploads/2022/04/H26%E7%AC%AC1%E9%83%A8-1.pdf"
+    ],
+    "sn_sources": [
+      "https://bloodystream.hatenadiary.jp/entry/2023/06/24/190000"
+    ]
+  },
+  {
+    "file": "thermo/2015-stirling-pv.svg",
+    "url": "https://raw.githubusercontent.com/Myyura/the_kai_project_assets/main/kakomonn/sn-mechanics/thermo/2015-stirling-pv.svg",
+    "author": "祭音Myyura",
+    "sha256": "3310db764295ceb1638bffbf1ca16decaca5d195ab75b802f7625715b9eedc9f",
+    "documents": [
+      "docs/tokyo-university/engineering/mech/2015/mech_201408_I_1_I.md"
+    ],
+    "original_sources": [
+      "https://www2.mech.t.u-tokyo.ac.jp/wp-content/uploads/2022/04/H27%E7%AC%AC1%E9%83%A8-1.pdf"
+    ],
+    "sn_sources": [
+      "https://bloodystream.hatenadiary.jp/entry/2023/06/19/231500"
+    ]
+  },
+  {
+    "file": "thermo/2016-brayton.svg",
+    "url": "https://raw.githubusercontent.com/Myyura/the_kai_project_assets/main/kakomonn/sn-mechanics/thermo/2016-brayton.svg",
+    "author": "祭音Myyura",
+    "sha256": "5050a102fc7f9591d1b9f95554b7836270d99feecb2ecb22a2837d287686c23c",
+    "documents": [
+      "docs/tokyo-university/engineering/mech/2016/mech_201509_I_1_I.md"
+    ],
+    "original_sources": [
+      "https://www2.mech.t.u-tokyo.ac.jp/wp-content/uploads/2022/04/H28%E7%AC%AC1%E9%83%A8-1.pdf"
+    ],
+    "sn_sources": [
+      "https://bloodystream.hatenadiary.jp/entry/2020/12/20/033251"
+    ]
+  },
+  {
+    "file": "thermo/2016-heisler-sphere.svg",
+    "url": "https://raw.githubusercontent.com/Myyura/the_kai_project_assets/main/kakomonn/sn-mechanics/thermo/2016-heisler-sphere.svg",
+    "author": "祭音Myyura",
+    "sha256": "3ccf411b4840650c246eb12977babf7adba81940299d57649c87f1289e5a8e8d",
+    "documents": [
+      "docs/tokyo-university/engineering/mech/2016/mech_201509_I_1_II.md"
+    ],
+    "original_sources": [
+      "https://www2.mech.t.u-tokyo.ac.jp/wp-content/uploads/2022/04/H28%E7%AC%AC1%E9%83%A8-1.pdf"
+    ],
+    "sn_sources": [
+      "https://bloodystream.hatenadiary.jp/entry/2021/05/02/224731"
+    ]
+  },
+  {
+    "file": "thermo/2016-sphere-heating.svg",
+    "url": "https://raw.githubusercontent.com/Myyura/the_kai_project_assets/main/kakomonn/sn-mechanics/thermo/2016-sphere-heating.svg",
+    "author": "祭音Myyura",
+    "sha256": "d807527f6b075f74dd1e175c3fcc6093563a78aa2d8619ecd5d6008035143554",
+    "documents": [
+      "docs/tokyo-university/engineering/mech/2016/mech_201509_I_1_II.md"
+    ],
+    "original_sources": [
+      "https://www2.mech.t.u-tokyo.ac.jp/wp-content/uploads/2022/04/H28%E7%AC%AC1%E9%83%A8-1.pdf"
+    ],
+    "sn_sources": [
+      "https://bloodystream.hatenadiary.jp/entry/2021/05/02/224731"
+    ]
+  },
+  {
+    "file": "thermo/2017-cycle-candidates.svg",
+    "url": "https://raw.githubusercontent.com/Myyura/the_kai_project_assets/main/kakomonn/sn-mechanics/thermo/2017-cycle-candidates.svg",
+    "author": "祭音Myyura",
+    "sha256": "ec85da61dc5cbf32d8c550b16b45d90f83cb9c898436b3027e60ea742ef16b5c",
+    "documents": [
+      "docs/tokyo-university/engineering/mech/2017/mech_201608_I_1_I.md"
+    ],
+    "original_sources": [
+      "https://www2.mech.t.u-tokyo.ac.jp/wp-content/uploads/2022/04/H29%E7%AC%AC1%E9%83%A8-2.pdf"
+    ],
+    "sn_sources": [
+      "https://bloodystream.hatenadiary.jp/entry/2023/06/24/050000"
+    ]
+  },
+  {
+    "file": "thermo/2018-wire-response.svg",
+    "url": "https://raw.githubusercontent.com/Myyura/the_kai_project_assets/main/kakomonn/sn-mechanics/thermo/2018-wire-response.svg",
+    "author": "祭音Myyura",
+    "sha256": "abe8f1fec7372bbf0e70ba5f18aa094d6042a9be943a7e2320166573745aaca9",
+    "documents": [
+      "docs/tokyo-university/engineering/mech/2018/mech_201708_I_1_II.md"
+    ],
+    "original_sources": [
+      "https://www2.mech.t.u-tokyo.ac.jp/wp-content/uploads/2022/04/H30%E7%AC%AC1%E9%83%A8-2.pdf"
+    ],
+    "sn_sources": [
+      "https://bloodystream.hatenadiary.jp/entry/2021/06/06/143000"
+    ]
+  },
+  {
+    "file": "thermo/2018-wire-streamlines.svg",
+    "url": "https://raw.githubusercontent.com/Myyura/the_kai_project_assets/main/kakomonn/sn-mechanics/thermo/2018-wire-streamlines.svg",
+    "author": "祭音Myyura",
+    "sha256": "b72361fee77907456e01bb0e1ecdd5f2779aa79d55199c3e9b6dfafbeae8e517",
+    "documents": [
+      "docs/tokyo-university/engineering/mech/2018/mech_201708_I_1_II.md"
+    ],
+    "original_sources": [
+      "https://www2.mech.t.u-tokyo.ac.jp/wp-content/uploads/2022/04/H30%E7%AC%AC1%E9%83%A8-2.pdf"
+    ],
+    "sn_sources": [
+      "https://bloodystream.hatenadiary.jp/entry/2021/06/06/143000"
+    ]
+  },
+  {
+    "file": "thermo/2020-compressor-pv.svg",
+    "url": "https://raw.githubusercontent.com/Myyura/the_kai_project_assets/main/kakomonn/sn-mechanics/thermo/2020-compressor-pv.svg",
+    "author": "祭音Myyura",
+    "sha256": "87c5ae115b605e2b02d5977f045c541c4486472f9e8374e2211d1f49b9c6529f",
+    "documents": [
+      "docs/tokyo-university/engineering/mech/2020/mech_201908_I_1_I.md"
+    ],
+    "original_sources": [
+      "https://www2.mech.t.u-tokyo.ac.jp/wp-content/uploads/2022/04/R01%E7%AC%AC1%E9%83%A8-1.pdf"
+    ],
+    "sn_sources": [
+      "https://bloodystream.hatenadiary.jp/entry/2023/08/15/013000_1"
+    ]
+  },
+  {
+    "file": "thermo/2022-heat-pump-ts.svg",
+    "url": "https://raw.githubusercontent.com/Myyura/the_kai_project_assets/main/kakomonn/sn-mechanics/thermo/2022-heat-pump-ts.svg",
+    "author": "祭音Myyura",
+    "sha256": "b0251fe42c93bdfe4321454877e7ea27f3f14a5f2c00a48c366238cef94fe9ea",
+    "documents": [
+      "docs/tokyo-university/engineering/mech/2022/mech_202108_I_1_I.md"
+    ],
+    "original_sources": [
+      "https://www2.mech.t.u-tokyo.ac.jp/wp-content/uploads/2022/04/R03%E7%AC%AC1%E9%83%A8-2.pdf"
+    ],
+    "sn_sources": [
+      "https://bloodystream.hatenadiary.jp/entry/2024/12/09/193051"
+    ]
+  },
+  {
+    "file": "thermo/2022-surface-curves.svg",
+    "url": "https://raw.githubusercontent.com/Myyura/the_kai_project_assets/main/kakomonn/sn-mechanics/thermo/2022-surface-curves.svg",
+    "author": "祭音Myyura",
+    "sha256": "17559bdbad9dc908a0a9b8400fdf44e15f0dec81c484b0026332aadb4ebe3cd2",
+    "documents": [
+      "docs/tokyo-university/engineering/mech/2022/mech_202108_I_1_II.md"
+    ],
+    "original_sources": [
+      "https://www2.mech.t.u-tokyo.ac.jp/wp-content/uploads/2022/04/R03%E7%AC%AC1%E9%83%A8-2.pdf"
+    ],
+    "sn_sources": [
+      "https://bloodystream.hatenadiary.jp/entry/2023/07/01/200000"
+    ]
+  },
+  {
+    "file": "thermo/2024-brayton-ts.svg",
+    "url": "https://raw.githubusercontent.com/Myyura/the_kai_project_assets/main/kakomonn/sn-mechanics/thermo/2024-brayton-ts.svg",
+    "author": "祭音Myyura",
+    "sha256": "359496df7f6506d99614c1965552d8b11473606db120c463425f4a52db7c0b0e",
+    "documents": [
+      "docs/tokyo-university/engineering/mech/2024/mech_202308_I_1_I.md"
+    ],
+    "original_sources": [
+      "https://www2.mech.t.u-tokyo.ac.jp/wp-content/uploads/2024/03/R05%E7%AC%AC1%E9%83%A8.pdf"
+    ],
+    "sn_sources": [
+      "https://bloodystream.hatenadiary.jp/entry/2024/12/27/224500"
+    ]
+  },
+  {
+    "file": "thermo/sn-plate-boundary-layers.svg",
+    "url": "https://raw.githubusercontent.com/Myyura/the_kai_project_assets/main/kakomonn/sn-mechanics/thermo/sn-plate-boundary-layers.svg",
+    "author": "祭音Myyura",
+    "sha256": "b7763d37c1b405630a53c995d7287e0f0ddf4a682a4d6d9703aa6e709be11229",
+    "documents": [
+      "supplements/sn-mechanics/exercises/sn_laminar_plate_convection.md"
+    ],
+    "original_sources": [
+      "https://bloodystream.hatenadiary.jp/entry/2023/07/17/051500"
+    ],
+    "sn_sources": [
+      "https://bloodystream.hatenadiary.jp/entry/2023/07/17/051500"
+    ]
+  }
+]
