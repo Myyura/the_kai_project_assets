@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="380.64pt" height="276pt" viewBox="0 0 380.64 276" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-13T13:46:20.523419</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>祭音Myyura</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 276 
+L 380.64 276 
+L 380.64 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 113.842236 190.32 
+Q 216.48009 190.32 317.105482 190.32 
+" style="fill: none; stroke: #1d3146; stroke-width: 1.8; stroke-linecap: round"/>
+    <path d="M 312.305482 187.92 
+L 317.105482 190.32 
+L 312.305482 192.72 
+" style="fill: none; stroke: #1d3146; stroke-width: 1.8; stroke-linecap: round"/>
+   </g>
+   <g id="text_1">
+    <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #1d3146" x="216.48" y="180.357187" transform="rotate(-0 216.48 180.357187)">x</text>
+   </g>
+   <g id="patch_3">
+    <path d="M 112.529366 188.43991 
+Q 140.616658 111.838205 168.011151 37.125953 
+" style="fill: none; stroke: #1d3146; stroke-width: 1.8; stroke-linecap: round"/>
+    <path d="M 164.105425 40.806348 
+L 168.011151 37.125953 
+L 168.612031 42.458771 
+" style="fill: none; stroke: #1d3146; stroke-width: 1.8; stroke-linecap: round"/>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #1d3146" x="140.616" y="101.877187" transform="rotate(-0 140.616 101.877187)">y</text>
+   </g>
+   <g id="patch_4">
+    <path d="M 111.064652 188.478549 
+Q 90.912341 140.616809 71.540979 94.609825 
+" style="fill: none; stroke: #1d3146; stroke-width: 1.8; stroke-linecap: round"/>
+    <path d="M 71.191728 99.965011 
+L 71.540979 94.609825 
+L 75.615577 98.102338 
+" style="fill: none; stroke: #1d3146; stroke-width: 1.8; stroke-linecap: round"/>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #1d3146" x="90.912" y="130.653187" transform="rotate(-0 90.912 130.653187)">z</text>
+   </g>
+   <g id="patch_5">
+    <path d="M 113.564733 189.300839 
+Q 169.394542 156.310498 223.491769 124.343955 
+" style="fill: none; stroke: #1d3146; stroke-width: 1.8; stroke-linecap: round"/>
+    <path d="M 218.138371 124.719632 
+L 223.491769 124.343955 
+L 220.580272 128.852079 
+" style="fill: none; stroke: #1d3146; stroke-width: 1.8; stroke-linecap: round"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 228.665923 121.282859 
+Q 249.442854 108.961656 268.488808 97.666963 
+" style="fill: none; stroke: #2166ac; stroke-width: 1.8; stroke-linecap: round"/>
+    <path d="M 263.136005 98.05102 
+L 268.488808 97.666963 
+L 265.584373 102.17964 
+" style="fill: none; stroke: #2166ac; stroke-width: 1.8; stroke-linecap: round"/>
+   </g>
+   <g id="text_4">
+    <!-- $\mathbf{e}_r$ -->
+    <g style="fill: #2166ac" transform="translate(243.3816 98.999587)">
+     <text>
+      <tspan x="0" y="-0.28125" style="font-weight: 700; font-size: 12px; font-family: 'DejaVu Sans'; fill: #2166ac">e</tspan>
+      <tspan x="8.253516" y="1.518744" style="font-style: oblique; font-size: 8.4px; font-family: 'DejaVu Sans'; fill: #2166ac">r</tspan>
+     </text>
+    </g>
+   </g>
+   <g id="patch_7">
+    <path d="M 225.742658 120.702211 
+Q 211.247125 101.374834 197.959069 83.657425 
+" style="fill: none; stroke: #2166ac; stroke-width: 1.8; stroke-linecap: round"/>
+    <path d="M 198.919069 88.937425 
+L 197.959069 83.657425 
+L 202.759069 86.057425 
+" style="fill: none; stroke: #2166ac; stroke-width: 1.8; stroke-linecap: round"/>
+   </g>
+   <g id="text_5">
+    <!-- $\mathbf{e}_\theta$ -->
+    <g style="fill: #2166ac" transform="translate(204.348 91.413187)">
+     <text>
+      <tspan x="0" y="-0.28125" style="font-weight: 700; font-size: 12px; font-family: 'DejaVu Sans'; fill: #2166ac">e</tspan>
+      <tspan x="8.253516" y="1.518744" style="font-style: oblique; font-size: 8.4px; font-family: 'DejaVu Sans'; fill: #2166ac">θ</tspan>
+     </text>
+    </g>
+   </g>
+   <g id="patch_8">
+    <path d="M 226.175997 120.460793 
+Q 213.865125 90.9147 202.328276 63.226263 
+" style="fill: none; stroke: #b54b39; stroke-width: 1.8; stroke-linecap: round"/>
+    <path d="M 201.959046 68.580109 
+L 202.328276 63.226263 
+L 206.389815 66.733956 
+" style="fill: none; stroke: #b54b39; stroke-width: 1.8; stroke-linecap: round"/>
+   </g>
+   <g id="text_6">
+    <!-- $\mathbf{e}_z$ -->
+    <g style="fill: #b54b39" transform="translate(207.324 80.949187)">
+     <text>
+      <tspan x="0" y="-0.28125" style="font-weight: 700; font-size: 12px; font-family: 'DejaVu Sans'; fill: #b54b39">e</tspan>
+      <tspan x="8.253516" y="1.518744" style="font-style: oblique; font-size: 8.4px; font-family: 'DejaVu Sans'; fill: #b54b39">z</tspan>
+     </text>
+    </g>
+   </g>
+   <g id="text_7">
+    <!-- $\theta$ -->
+    <g style="fill: #1d3146" transform="translate(160.44 183.034594)">
+     <text>
+      <tspan x="0" y="-0.78125" style="font-style: oblique; font-size: 12px; font-family: 'DejaVu Sans'; fill: #1d3146">θ</tspan>
+     </text>
+    </g>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #1d3146" x="164.16" y="146.349187" transform="rotate(-0 164.16 146.349187)">r</text>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #1d3146" x="98.76" y="206.517187" transform="rotate(-0 98.76 206.517187)">O</text>
+   </g>
+   <g id="text_10">
+    <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #1d3146" x="226.944" y="141.117187" transform="rotate(-0 226.944 141.117187)">P</text>
+   </g>
+  </g>
+ </g>
+</svg>

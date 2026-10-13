@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="576pt" height="360pt" viewBox="0 0 576 360" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-13T13:50:14.829743</dc:date>
+    <dc:description>Original technical redraw from NIT 2022 official examination. Schematic not to scale.</dc:description>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>祭音Myyura</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 360 
+L 576 360 
+L 576 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="line2d_1">
+    <path d="M 96.757664 303.131613 
+L 96.757664 46.16129 
+L 523.683858 46.16129 
+L 523.683858 303.131613 
+L 96.757664 303.131613 
+" clip-path="url(#p86150ed1f2)" style="fill: none; stroke: #333333; stroke-width: 1.5; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_2">
+    <path d="M 96.757664 88.989677 
+L 126.20085 191.777806 
+L 101.174142 303.131613 
+" clip-path="url(#p86150ed1f2)" style="fill: none; stroke: #333333; stroke-width: 1.8; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_3">
+    <path d="M 96.757664 88.989677 
+L 308.748602 191.777806 
+L 523.683858 88.989677 
+" clip-path="url(#p86150ed1f2)" style="fill: none; stroke: #333333; stroke-width: 1.8; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_4">
+    <path d="M 126.20085 191.777806 
+L 523.683858 191.777806 
+" clip-path="url(#p86150ed1f2)" style="fill: none; stroke: #333333; stroke-width: 1.6; stroke-linecap: square"/>
+   </g>
+   <g id="text_1">
+    <text style="font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: end" x="87.924708" y="92.366631" transform="rotate(-0 87.924708 92.366631)">912°C</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: end" x="87.924708" y="305.989035" transform="rotate(-0 87.924708 305.989035)">Room temp.</text>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: middle" x="308.748602" y="337.394323" transform="rotate(-0 308.748602 337.394323)">Carbon concentration (mass %)</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 13px; font-family: 'DejaVu Sans'" transform="translate(50.692564 198.68955) rotate(-90)">Temperature</text>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: middle" x="96.757664" y="313.83871" transform="rotate(-0 96.757664 313.83871)">Fe</text>
+   </g>
+   <g id="text_6">
+    <!-- $\gamma+\alpha$ -->
+    <g transform="translate(174.855858 170.363613)">
+     <text>
+      <tspan x="0" y="-0.84375" style="font-style: oblique; font-size: 13px; font-family: 'DejaVu Sans'">γ</tspan>
+      <tspan x="23.651367" y="-0.84375" style="font-style: oblique; font-size: 13px; font-family: 'DejaVu Sans'">α</tspan>
+      <tspan x="10.226074" y="-0.84375" style="font-size: 13px; font-family: 'DejaVu Sans'">+</tspan>
+     </text>
+    </g>
+   </g>
+   <g id="text_7">
+    <!-- $\gamma$ (austenite) -->
+    <g transform="translate(281.935195 86.848258)">
+     <text>
+      <tspan x="0" y="-0.125" style="font-style: oblique; font-size: 13px; font-family: 'DejaVu Sans'">γ</tspan>
+      <tspan x="7.693359" y="-0.125" style="font-size: 13px; font-family: 'DejaVu Sans'"> </tspan>
+      <tspan x="11.825684" y="-0.125" style="font-size: 13px; font-family: 'DejaVu Sans'">(</tspan>
+      <tspan x="16.897461" y="-0.125" style="font-size: 13px; font-family: 'DejaVu Sans'">a</tspan>
+      <tspan x="24.86377" y="-0.125" style="font-size: 13px; font-family: 'DejaVu Sans'">u</tspan>
+      <tspan x="33.103027" y="-0.125" style="font-size: 13px; font-family: 'DejaVu Sans'">s</tspan>
+      <tspan x="39.875977" y="-0.125" style="font-size: 13px; font-family: 'DejaVu Sans'">t</tspan>
+      <tspan x="44.973145" y="-0.125" style="font-size: 13px; font-family: 'DejaVu Sans'">e</tspan>
+      <tspan x="52.971191" y="-0.125" style="font-size: 13px; font-family: 'DejaVu Sans'">n</tspan>
+      <tspan x="61.210449" y="-0.125" style="font-size: 13px; font-family: 'DejaVu Sans'">i</tspan>
+      <tspan x="64.822266" y="-0.125" style="font-size: 13px; font-family: 'DejaVu Sans'">t</tspan>
+      <tspan x="69.919434" y="-0.125" style="font-size: 13px; font-family: 'DejaVu Sans'">e</tspan>
+      <tspan x="77.91748" y="-0.125" style="font-size: 13px; font-family: 'DejaVu Sans'">)</tspan>
+     </text>
+    </g>
+   </g>
+   <g id="text_8">
+    <!-- $\gamma+\mathrm{Fe}_3\mathrm{C}$ -->
+    <g transform="translate(414.267938 166.080774)">
+     <text>
+      <tspan x="0" y="-0.34375" style="font-style: oblique; font-size: 13px; font-family: 'DejaVu Sans'">γ</tspan>
+      <tspan x="10.226074" y="-0.34375" style="font-size: 13px; font-family: 'DejaVu Sans'">+</tspan>
+      <tspan x="23.651367" y="-0.34375" style="font-size: 13px; font-family: 'DejaVu Sans'">F</tspan>
+      <tspan x="31.128906" y="-0.34375" style="font-size: 13px; font-family: 'DejaVu Sans'">e</tspan>
+      <tspan x="45.396533" y="-0.34375" style="font-size: 13px; font-family: 'DejaVu Sans'">C</tspan>
+      <tspan x="39.251367" y="1.606244" style="font-size: 9.1px; font-family: 'DejaVu Sans'">3</tspan>
+     </text>
+    </g>
+   </g>
+   <g id="text_9">
+    <!-- $\alpha+\mathrm{Fe}_3\mathrm{C}$ -->
+    <g transform="translate(299.049513 251.737548)">
+     <text>
+      <tspan x="0" y="-0.34375" style="font-style: oblique; font-size: 13px; font-family: 'DejaVu Sans'">α</tspan>
+      <tspan x="11.102051" y="-0.34375" style="font-size: 13px; font-family: 'DejaVu Sans'">+</tspan>
+      <tspan x="24.527344" y="-0.34375" style="font-size: 13px; font-family: 'DejaVu Sans'">F</tspan>
+      <tspan x="32.004883" y="-0.34375" style="font-size: 13px; font-family: 'DejaVu Sans'">e</tspan>
+      <tspan x="46.27251" y="-0.34375" style="font-size: 13px; font-family: 'DejaVu Sans'">C</tspan>
+      <tspan x="40.127344" y="1.606244" style="font-size: 9.1px; font-family: 'DejaVu Sans'">3</tspan>
+     </text>
+    </g>
+   </g>
+   <g id="text_10">
+    <!-- $\alpha$ -->
+    <g transform="translate(104.244938 228.181935)">
+     <text>
+      <tspan x="0" y="-0.703125" style="font-style: oblique; font-size: 13px; font-family: 'DejaVu Sans'">α</tspan>
+     </text>
+    </g>
+   </g>
+   <g id="text_11">
+    <text style="font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: start" x="132.089487" y="206.767742" transform="rotate(-0 132.089487 206.767742)">0.02 %C</text>
+   </g>
+   <g id="text_12">
+    <text style="font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: middle" x="308.748602" y="206.767742" transform="rotate(-0 308.748602 206.767742)">0.77 %C</text>
+   </g>
+   <g id="text_13">
+    <g id="patch_2">
+     <path d="M 453.852265 188.986127 
+L 509.952265 188.986127 
+L 509.952265 176.006127 
+L 453.852265 176.006127 
+z
+" style="fill: #ffffff"/>
+    </g>
+    <!-- $A_1$: 727°C -->
+    <g transform="translate(454.842265 185.353548)">
+     <text>
+      <tspan x="0" y="-0.828125" style="font-style: oblique; font-size: 11px; font-family: 'DejaVu Sans'">A</tspan>
+      <tspan x="7.524902" y="0.82187" style="font-size: 7.7px; font-family: 'DejaVu Sans'">1</tspan>
+      <tspan x="12.724658" y="-0.828125" style="font-size: 11px; font-family: 'DejaVu Sans'">:</tspan>
+      <tspan x="16.430713" y="-0.828125" style="font-size: 11px; font-family: 'DejaVu Sans'"> </tspan>
+      <tspan x="19.927295" y="-0.828125" style="font-size: 11px; font-family: 'DejaVu Sans'">7</tspan>
+      <tspan x="26.92583" y="-0.828125" style="font-size: 11px; font-family: 'DejaVu Sans'">2</tspan>
+      <tspan x="33.924365" y="-0.828125" style="font-size: 11px; font-family: 'DejaVu Sans'">7</tspan>
+      <tspan x="40.9229" y="-0.828125" style="font-size: 11px; font-family: 'DejaVu Sans'">°</tspan>
+      <tspan x="46.4229" y="-0.828125" style="font-size: 11px; font-family: 'DejaVu Sans'">C</tspan>
+     </text>
+    </g>
+   </g>
+   <g id="text_14">
+    <g id="patch_3">
+     <path d="M 182.395858 123.132595 
+L 199.555858 123.132595 
+L 199.555858 108.052595 
+L 182.395858 108.052595 
+z
+" style="fill: #ffffff"/>
+    </g>
+    <!-- $A_3$ -->
+    <g transform="translate(183.435858 118.969548)">
+     <text>
+      <tspan x="0" y="-0.515625" style="font-style: oblique; font-size: 13px; font-family: 'DejaVu Sans'">A</tspan>
+      <tspan x="8.893066" y="1.434369" style="font-size: 9.1px; font-family: 'DejaVu Sans'">3</tspan>
+     </text>
+    </g>
+   </g>
+   <g id="text_15">
+    <g id="patch_4">
+     <path d="M 425.688619 123.132595 
+L 450.908619 123.132595 
+L 450.908619 108.052595 
+L 425.688619 108.052595 
+z
+" style="fill: #ffffff"/>
+    </g>
+    <!-- $A_{\rm cm}$ -->
+    <g transform="translate(426.728619 118.969548)">
+     <text>
+      <tspan x="0" y="-0.515625" style="font-style: oblique; font-size: 13px; font-family: 'DejaVu Sans'">A</tspan>
+      <tspan x="8.893066" y="1.434369" style="font-size: 9.1px; font-family: 'DejaVu Sans'">c</tspan>
+      <tspan x="13.896289" y="1.434369" style="font-size: 9.1px; font-family: 'DejaVu Sans'">m</tspan>
+     </text>
+    </g>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p86150ed1f2">
+   <rect x="37.871292" y="14.04" width="524.088708" height="331.92"/>
+  </clipPath>
+ </defs>
+</svg>

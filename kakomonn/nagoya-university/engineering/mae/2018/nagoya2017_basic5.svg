@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="341.4pt" height="276pt" viewBox="0 0 341.4 276" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-13T13:15:23.489175</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>祭音Myyura</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 276 
+L 341.4 276 
+L 341.4 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 121.65 109.66 
+C 127.142356 109.66 132.410499 107.477864 136.294181 103.594181 
+C 140.177864 99.710499 142.36 94.442356 142.36 88.95 
+C 142.36 83.457644 140.177864 78.189501 136.294181 74.305819 
+C 132.410499 70.422136 127.142356 68.24 121.65 68.24 
+C 116.157644 68.24 110.889501 70.422136 107.005819 74.305819 
+C 103.122136 78.189501 100.94 83.457644 100.94 88.95 
+C 100.94 94.442356 103.122136 99.710499 107.005819 103.594181 
+C 110.889501 107.477864 116.157644 109.66 121.65 109.66 
+z
+" clip-path="url(#p576692749b)" style="fill: #d8e7f5; stroke: #1d3146; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 208.85 216.7525 
+C 209.500411 216.7525 210.12427 216.494089 210.584179 216.034179 
+C 211.044089 215.57427 211.3025 214.950411 211.3025 214.3 
+C 211.3025 213.649589 211.044089 213.02573 210.584179 212.565821 
+C 210.12427 212.105911 209.500411 211.8475 208.85 211.8475 
+C 208.199589 211.8475 207.57573 212.105911 207.115821 212.565821 
+C 206.655911 213.02573 206.3975 213.649589 206.3975 214.3 
+C 206.3975 214.950411 206.655911 215.57427 207.115821 216.034179 
+C 207.57573 216.494089 208.199589 216.7525 208.85 216.7525 
+z
+" clip-path="url(#p576692749b)" style="fill: #1d3146; stroke: #1d3146; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 208.85 167.975 
+C 204.124464 167.975 199.426628 168.698066 194.919804 170.119062 
+C 190.41298 171.540058 186.150004 173.642325 182.279072 176.352782 
+" clip-path="url(#p576692749b)" style="fill: none; stroke: #2166ac; stroke-width: 1.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 227.925 214.3 
+C 227.925 212.214609 227.583019 210.143262 226.912692 208.168542 
+C 226.242365 206.193823 225.252721 204.342328 223.983215 202.687876 
+C 222.713709 201.033424 221.181441 199.598298 219.447502 198.439717 
+C 217.713563 197.281136 215.801306 196.414704 213.786973 195.874965 
+C 211.77264 195.335226 209.683361 195.12945 207.602435 195.265841 
+C 205.521509 195.402232 203.476964 195.878953 201.550314 196.676998 
+C 199.623663 197.475043 197.840859 198.583662 196.272979 199.958656 
+C 194.705099 201.33365 193.373261 202.956498 192.330565 204.7625 
+C 191.28787 206.568502 190.54836 208.533331 190.141521 210.578652 
+C 189.734681 212.623973 189.665991 214.722237 189.938189 216.789787 
+C 190.210387 218.857337 190.819808 220.866326 191.742152 222.736657 
+C 192.664497 224.606987 193.887344 226.313468 195.361938 227.788062 
+C 196.836532 229.262656 198.543013 230.485503 200.413343 231.407848 
+C 202.283674 232.330192 204.292663 232.939613 206.360213 233.211811 
+C 208.427763 233.484009 210.526027 233.415319 212.571348 233.008479 
+C 214.616669 232.60164 216.581498 231.86213 218.3875 230.819435 
+" clip-path="url(#p576692749b)" style="fill: none; stroke: #1d3146; stroke-linejoin: miter"/>
+   </g>
+   <g id="line2d_1">
+    <path d="M 208.85 214.3 
+L 121.65 88.95 
+" clip-path="url(#p576692749b)" style="fill: none; stroke: #1d3146; stroke-width: 3; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_2">
+    <path d="M 208.85 214.3 
+L 208.85 45.35 
+" clip-path="url(#p576692749b)" style="fill: none; stroke-dasharray: 6.66,2.88; stroke-dashoffset: 0; stroke: #7c8b98; stroke-width: 1.8"/>
+   </g>
+   <g id="text_1">
+    <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #1d3146" x="222.475" y="225.592187" transform="rotate(-0 222.475 225.592187)">O</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #1d3146" x="91.675" y="78.442187" transform="rotate(-0 91.675 78.442187)">G, m, I</text>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #1d3146" x="147.265" y="162.917656" transform="rotate(-0 147.265 162.917656)">l</text>
+   </g>
+   <g id="text_4">
+    <!-- $\theta$ -->
+    <g style="fill: #1d3146" transform="translate(188.78 157.528594)">
+     <text>
+      <tspan x="0" y="-0.78125" style="font-style: oblique; font-size: 12px; font-family: 'DejaVu Sans'; fill: #1d3146">θ</tspan>
+     </text>
+    </g>
+   </g>
+   <g id="text_5">
+    <!-- $k,\theta_0$ -->
+    <g style="fill: #1d3146" transform="translate(244.82 203.853594)">
+     <text>
+      <tspan x="0" y="-0.78125" style="font-style: oblique; font-size: 12px; font-family: 'DejaVu Sans'; fill: #1d3146">k</tspan>
+      <tspan x="13.101562" y="-0.78125" style="font-style: oblique; font-size: 12px; font-family: 'DejaVu Sans'; fill: #1d3146">θ</tspan>
+      <tspan x="6.949219" y="-0.78125" style="font-size: 12px; font-family: 'DejaVu Sans'; fill: #1d3146">,</tspan>
+      <tspan x="20.443359" y="1.018744" style="font-size: 8.4px; font-family: 'DejaVu Sans'; fill: #1d3146">0</tspan>
+     </text>
+    </g>
+   </g>
+   <g id="patch_6">
+    <path d="M 274.25 74.601505 
+Q 274.25 102.576579 274.25 128.539193 
+" style="fill: none; stroke: #1d3146; stroke-width: 1.8; stroke-linecap: round"/>
+    <path d="M 276.65 123.739193 
+L 274.25 128.539193 
+L 271.85 123.739193 
+" style="fill: none; stroke: #1d3146; stroke-width: 1.8; stroke-linecap: round"/>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #1d3146" x="274.25" y="92.067187" transform="rotate(-0 274.25 92.067187)">g</text>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #1d3146" x="170.7" y="255.307852" transform="rotate(-0 170.7 255.307852)">Rigid rod and body rotate together</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p576692749b">
+   <rect x="7.2" y="7.2" width="327" height="261.6"/>
+  </clipPath>
+ </defs>
+</svg>

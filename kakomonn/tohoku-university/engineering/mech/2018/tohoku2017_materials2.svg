@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="780pt" height="256.242857pt" viewBox="0 0 780 256.242857" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-13T13:46:20.782096</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>祭音Myyura</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 256.242857 
+L 780 256.242857 
+L 780 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 60.942857 141.557143 
+L 44.82 168.428571 
+L 77.065714 168.428571 
+L 60.942857 141.557143 
+z
+" clip-path="url(#pf5b446108c)" style="fill: none; stroke: #1d3146; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 329.657143 141.557143 
+L 313.534286 168.428571 
+L 345.78 168.428571 
+L 329.657143 141.557143 
+z
+" clip-path="url(#pf5b446108c)" style="fill: none; stroke: #1d3146; stroke-linejoin: miter"/>
+   </g>
+   <g id="line2d_1">
+    <path d="M 60.942857 141.557143 
+L 329.657143 141.557143 
+" clip-path="url(#pf5b446108c)" style="fill: none; stroke: #1d3146; stroke-width: 3; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_2">
+    <path d="M 39.445714 176.49 
+L 82.44 176.49 
+" clip-path="url(#pf5b446108c)" style="fill: none; stroke: #1d3146; stroke-width: 1.8; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_3">
+    <path d="M 308.16 176.49 
+L 351.154286 176.49 
+" clip-path="url(#pf5b446108c)" style="fill: none; stroke: #1d3146; stroke-width: 1.8; stroke-linecap: square"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 168.428571 57.56925 
+Q 168.428571 97.219741 168.428571 134.857771 
+" style="fill: none; stroke: #b54b39; stroke-width: 1.8; stroke-linecap: round"/>
+    <path d="M 170.828571 130.057771 
+L 168.428571 134.857771 
+L 166.028571 130.057771 
+" style="fill: none; stroke: #b54b39; stroke-width: 1.8; stroke-linecap: round"/>
+   </g>
+   <g id="text_1">
+    <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #b54b39" x="168.428571" y="86.900759" transform="rotate(-0 168.428571 86.900759)">W</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #1d3146" x="60.942857" y="195.730045" transform="rotate(-0 60.942857 195.730045)">A</text>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #1d3146" x="168.428571" y="195.730045" transform="rotate(-0 168.428571 195.730045)">C</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #1d3146" x="329.657143" y="195.730045" transform="rotate(-0 329.657143 195.730045)">B</text>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #1d3146" x="114.685714" y="168.858616" transform="rotate(-0 114.685714 168.858616)">a</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #1d3146" x="249.042857" y="168.859085" transform="rotate(-0 249.042857 168.859085)">b</text>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #1d3146" x="249.042857" y="125.86433" transform="rotate(-0 249.042857 125.86433)">EI</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #1d3146" x="195.3" y="230.663371" transform="rotate(-0 195.3 230.663371)">(1) Simple supports</text>
+   </g>
+  </g>
+  <g id="axes_2">
+   <g id="line2d_4">
+    <path d="M 450.342857 141.557143 
+L 719.057143 141.557143 
+" clip-path="url(#p21d38664a7)" style="fill: none; stroke: #1d3146; stroke-width: 3; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_5">
+    <path d="M 423.471429 23.322857 
+L 745.928571 23.322857 
+" clip-path="url(#p21d38664a7)" style="fill: none; stroke: #1d3146; stroke-width: 3; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_6">
+    <path d="M 450.342857 23.322857 
+L 450.342857 41.058 
+L 458.404286 46.969714 
+L 442.281429 54.063771 
+L 458.404286 61.157829 
+L 442.281429 68.251886 
+L 458.404286 75.345943 
+L 442.281429 82.44 
+L 458.404286 89.534057 
+L 442.281429 96.628114 
+L 458.404286 103.722171 
+L 442.281429 110.816229 
+L 458.404286 117.910286 
+L 450.342857 123.822 
+L 450.342857 141.557143 
+" clip-path="url(#p21d38664a7)" style="fill: none; stroke: #1d3146; stroke-width: 1.8; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_7">
+    <path d="M 719.057143 23.322857 
+L 719.057143 41.058 
+L 727.118571 46.969714 
+L 710.995714 54.063771 
+L 727.118571 61.157829 
+L 710.995714 68.251886 
+L 727.118571 75.345943 
+L 710.995714 82.44 
+L 727.118571 89.534057 
+L 710.995714 96.628114 
+L 727.118571 103.722171 
+L 710.995714 110.816229 
+L 727.118571 117.910286 
+L 719.057143 123.822 
+L 719.057143 141.557143 
+" clip-path="url(#p21d38664a7)" style="fill: none; stroke: #1d3146; stroke-width: 1.8; stroke-linecap: square"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 557.828571 57.56925 
+Q 557.828571 97.219741 557.828571 134.857771 
+" style="fill: none; stroke: #b54b39; stroke-width: 1.8; stroke-linecap: round"/>
+    <path d="M 560.228571 130.057771 
+L 557.828571 134.857771 
+L 555.428571 130.057771 
+" style="fill: none; stroke: #b54b39; stroke-width: 1.8; stroke-linecap: round"/>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #b54b39" x="557.828571" y="86.900759" transform="rotate(-0 557.828571 86.900759)">W</text>
+   </g>
+   <g id="text_10">
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #1d3146" x="471.84" y="85.297852" transform="rotate(-0 471.84 85.297852)">k</text>
+   </g>
+   <g id="text_11">
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #1d3146" x="740.554286" y="85.297852" transform="rotate(-0 740.554286 85.297852)">k</text>
+   </g>
+   <g id="text_12">
+    <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #1d3146" x="450.342857" y="195.730045" transform="rotate(-0 450.342857 195.730045)">A</text>
+   </g>
+   <g id="text_13">
+    <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #1d3146" x="557.828571" y="195.730045" transform="rotate(-0 557.828571 195.730045)">C</text>
+   </g>
+   <g id="text_14">
+    <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #1d3146" x="719.057143" y="195.730045" transform="rotate(-0 719.057143 195.730045)">B</text>
+   </g>
+   <g id="text_15">
+    <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #1d3146" x="504.085714" y="168.858616" transform="rotate(-0 504.085714 168.858616)">a</text>
+   </g>
+   <g id="text_16">
+    <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #1d3146" x="638.442857" y="168.859085" transform="rotate(-0 638.442857 168.859085)">b</text>
+   </g>
+   <g id="text_17">
+    <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #1d3146" x="638.442857" y="125.86433" transform="rotate(-0 638.442857 125.86433)">EI</text>
+   </g>
+   <g id="text_18">
+    <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #1d3146" x="584.7" y="230.663371" transform="rotate(-0 584.7 230.663371)">(2) Spring supports</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pf5b446108c">
+   <rect x="7.2" y="7.2" width="376.2" height="241.842857"/>
+  </clipPath>
+  <clipPath id="p21d38664a7">
+   <rect x="396.6" y="7.2" width="376.2" height="241.842857"/>
+  </clipPath>
+ </defs>
+</svg>
