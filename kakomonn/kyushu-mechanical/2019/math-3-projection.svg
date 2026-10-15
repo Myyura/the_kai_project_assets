@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="530" viewBox="0 0 620 530">
+<title>XY projections of the sphere and the cylinder</title>
+<desc>Sphere projection: disk of radius 2r centered at (0,r). Cylinder projection: disk of radius r centered at (r,r), internally tangent at (2r,r).</desc>
+<metadata>Creator: 祭音Myyura. Generated from the verified 2019 Kyushu University mathematics question 3, using exact coordinates. This is an original answer diagram.</metadata>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#333"/></marker></defs>
+<rect width="620" height="530" fill="white"/>
+<g stroke-linecap="round" font-family="Georgia, serif" font-size="21" fill="#222">
+<circle cx="280" cy="260" r="180" fill="#e9f1fa" stroke="#356fa6" stroke-width="2.5"/>
+<circle cx="370" cy="260" r="90" fill="#f9d5a2" fill-opacity="0.7" stroke="#b56814" stroke-width="2.5"/>
+<path d="M70 350H555 M280 470V45" stroke="#333" stroke-width="1.5" fill="none"/><path d="M555 350l-10 -4v8z M280 45l-4 10h8z" fill="#333"/>
+<path d="M280 260H460 M370 260V350 M460 260V350" stroke="#777" stroke-width="1.2" stroke-dasharray="5 5" fill="none"/>
+<path d="M280 260L153 133" stroke="#356fa6" stroke-width="1.6"/>
+<path d="M370 260L434 196" stroke="#b56814" stroke-width="1.6"/>
+<g fill="#333"><circle cx="280" cy="260" r="3.5"/><circle cx="370" cy="260" r="3.5"/><circle cx="460" cy="260" r="3.5"/></g>
+<text x="566" y="357" font-style="italic">X</text><text x="291" y="48" font-style="italic">Y</text>
+<text x="257" y="375">O</text><text x="366" y="375" font-style="italic">r</text><text x="447" y="375">2r</text>
+<text x="251" y="267" font-style="italic">r</text><text x="244" y="68">3r</text><text x="238" y="461">−r</text>
+<text x="204" y="187" fill="#356fa6">2r</text><text x="401" y="215" fill="#9b560d" font-style="italic">r</text>
+<text x="142" y="280" fill="#356fa6">S</text><text x="380" y="310" fill="#9b560d">C′</text>
+<text x="467" y="254" font-size="18">(2r, r)</text><text x="334" y="247" font-size="17">(r, r)</text>
+<text x="310" y="506" text-anchor="middle" font-size="18">XY-plane projections</text>
+</g></svg>
