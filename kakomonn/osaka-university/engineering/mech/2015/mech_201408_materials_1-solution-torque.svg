@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 380" role="img" aria-labelledby="title desc">
+<title id="title">ねじりモーメント図（k=0）</title><desc id="desc">AB区間では2T、BC区間ではT、CD区間では0。各区間の長さはL/3。</desc>
+<rect width="840" height="380" fill="white"/>
+<defs><marker id="arr" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0,0 L8,4 L0,8 Z" fill="#263345"/></marker></defs>
+<g stroke="#aab3c0" stroke-width="1.3" stroke-dasharray="6 5"><path d="M110 85H710M110 170H710M310 85V265M510 170V265M710 245V265"/></g>
+<path d="M110 245V85H310V170H510V245Z" fill="#e5effa"/>
+<g stroke="#263345" fill="none" stroke-width="2"><path d="M110 245V40" marker-end="url(#arr)"/><path d="M75 245H780" marker-end="url(#arr)"/></g>
+<path d="M110 245V85H310V170H510V245H710" fill="none" stroke="#1864ab" stroke-width="4"/>
+<g fill="#263345" font-family="Arial,sans-serif" font-size="23"><text x="43" y="44">T_int</text><text x="67" y="92">2T</text><text x="79" y="177">T</text><text x="83" y="239">0</text><text x="787" y="252">x</text><text x="103" y="281">A</text><text x="302" y="281">B</text><text x="502" y="281">C</text><text x="702" y="281">D</text><text x="91" y="315">0</text><text x="290" y="315">L/3</text><text x="479" y="315">2L/3</text><text x="702" y="315">L</text><text x="285" y="359">k = 0</text></g>
+</svg>
