@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="625" height="237" viewBox="35 45 625 237" overflow="hidden">
+<rect x="35" y="45" width="625" height="237" fill="white" /><metadata>Original scientific diagram by 祭音Myyura. Independently verified against the official 2025 cap I-4 question.</metadata>
+<title>Five polymer repeat units</title>
+<text x="75" y="164" font-family="Arial, sans-serif" font-size="28" fill="#245d87" text-anchor="middle">PLA</text>
+<text x="240" y="164" font-family="Arial, sans-serif" font-size="27" fill="#17232d" text-anchor="middle">O</text>
+<text x="400" y="164" font-family="Arial, sans-serif" font-size="27" fill="#17232d" text-anchor="middle">CH</text>
+<text x="560" y="164" font-family="Arial, sans-serif" font-size="27" fill="#17232d" text-anchor="middle">C</text>
+<text x="560" y="98" font-family="Arial, sans-serif" font-size="27" fill="#17232d" text-anchor="middle">O</text>
+<line x1="563.2" y1="135.0" x2="563.2" y2="107.0" stroke="#17232d" stroke-width="2.4" stroke-linecap="round" />
+<line x1="556.8" y1="135.0" x2="556.8" y2="107.0" stroke="#17232d" stroke-width="2.4" stroke-linecap="round" />
+<line x1="155" y1="155" x2="222" y2="155" stroke="#17232d" stroke-width="2.4" stroke-linecap="round" />
+<line x1="258" y1="155" x2="372" y2="155" stroke="#17232d" stroke-width="2.4" stroke-linecap="round" />
+<line x1="428" y1="155" x2="542" y2="155" stroke="#17232d" stroke-width="2.4" stroke-linecap="round" />
+<line x1="578" y1="155" x2="645" y2="155" stroke="#17232d" stroke-width="2.4" stroke-linecap="round" />
+<line x1="400" y1="175" x2="400" y2="208" stroke="#17232d" stroke-width="2.4" stroke-linecap="round" />
+<text x="400" y="240" font-family="Arial, sans-serif" font-size="27" fill="#17232d" text-anchor="middle">CH₃</text>
+<line x1="192" y1="60" x2="180" y2="60" stroke="#17232d" stroke-width="2.4" stroke-linecap="round" />
+<line x1="180" y1="60" x2="180" y2="260" stroke="#17232d" stroke-width="2.4" stroke-linecap="round" />
+<line x1="180" y1="260" x2="192" y2="260" stroke="#17232d" stroke-width="2.4" stroke-linecap="round" />
+<line x1="608" y1="60" x2="620" y2="60" stroke="#17232d" stroke-width="2.4" stroke-linecap="round" />
+<line x1="620" y1="60" x2="620" y2="260" stroke="#17232d" stroke-width="2.4" stroke-linecap="round" />
+<line x1="620" y1="260" x2="608" y2="260" stroke="#17232d" stroke-width="2.4" stroke-linecap="round" />
+<text x="636" y="268" font-family="Arial, sans-serif" font-size="22" fill="#17232d" text-anchor="middle">n</text>
+</svg>

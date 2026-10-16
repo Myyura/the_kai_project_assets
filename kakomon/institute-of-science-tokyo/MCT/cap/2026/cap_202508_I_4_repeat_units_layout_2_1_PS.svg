@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="485" height="225" viewBox="35 675 485 225" overflow="hidden">
+<rect x="35" y="675" width="485" height="225" fill="white" /><metadata>Original scientific diagram by 祭音Myyura. Independently verified against the official 2025 cap I-4 question.</metadata>
+<title>Five polymer repeat units</title>
+<text x="75" y="744" font-family="Arial, sans-serif" font-size="28" fill="#245d87" text-anchor="middle">PS</text>
+<text x="240" y="744" font-family="Arial, sans-serif" font-size="27" fill="#17232d" text-anchor="middle">CH₂</text>
+<text x="400" y="744" font-family="Arial, sans-serif" font-size="27" fill="#17232d" text-anchor="middle">CH</text>
+<line x1="155" y1="735" x2="212" y2="735" stroke="#17232d" stroke-width="2.4" stroke-linecap="round" />
+<line x1="268" y1="735" x2="372" y2="735" stroke="#17232d" stroke-width="2.4" stroke-linecap="round" />
+<line x1="428" y1="735" x2="505" y2="735" stroke="#17232d" stroke-width="2.4" stroke-linecap="round" />
+<line x1="400.0" y1="793.0" x2="436.3730669589464" y2="814.0" stroke="#17232d" stroke-width="2.4" stroke-linecap="round" />
+<line x1="400.0" y1="801.82" x2="428.7347228975677" y2="818.41" stroke="#17232d" stroke-width="1.9" stroke-linecap="round" />
+<line x1="436.3730669589464" y1="814.0" x2="436.3730669589464" y2="856.0" stroke="#17232d" stroke-width="2.4" stroke-linecap="round" />
+<line x1="436.3730669589464" y1="856.0" x2="400.0" y2="877.0" stroke="#17232d" stroke-width="2.4" stroke-linecap="round" />
+<line x1="428.7347228975677" y1="851.59" x2="400.0" y2="868.18" stroke="#17232d" stroke-width="1.9" stroke-linecap="round" />
+<line x1="400.0" y1="877.0" x2="363.6269330410536" y2="856.0" stroke="#17232d" stroke-width="2.4" stroke-linecap="round" />
+<line x1="363.6269330410536" y1="856.0" x2="363.6269330410536" y2="814.0" stroke="#17232d" stroke-width="2.4" stroke-linecap="round" />
+<line x1="371.2652771024323" y1="851.59" x2="371.2652771024323" y2="818.41" stroke="#17232d" stroke-width="1.9" stroke-linecap="round" />
+<line x1="363.6269330410536" y1="814.0" x2="400.0" y2="793.0" stroke="#17232d" stroke-width="2.4" stroke-linecap="round" />
+<line x1="400" y1="755" x2="400" y2="793" stroke="#17232d" stroke-width="2.4" stroke-linecap="round" />
+<line x1="192" y1="687" x2="180" y2="687" stroke="#17232d" stroke-width="2.4" stroke-linecap="round" />
+<line x1="180" y1="687" x2="180" y2="888" stroke="#17232d" stroke-width="2.4" stroke-linecap="round" />
+<line x1="180" y1="888" x2="192" y2="888" stroke="#17232d" stroke-width="2.4" stroke-linecap="round" />
+<line x1="468" y1="687" x2="480" y2="687" stroke="#17232d" stroke-width="2.4" stroke-linecap="round" />
+<line x1="480" y1="687" x2="480" y2="888" stroke="#17232d" stroke-width="2.4" stroke-linecap="round" />
+<line x1="480" y1="888" x2="468" y2="888" stroke="#17232d" stroke-width="2.4" stroke-linecap="round" />
+<text x="496" y="896" font-family="Arial, sans-serif" font-size="22" fill="#17232d" text-anchor="middle">n</text>
+</svg>
