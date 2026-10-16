@@ -1,0 +1,62 @@
+[
+  {
+    "file": "../2017/titech-201608-diffuser.svg",
+    "url": "https://raw.githubusercontent.com/Myyura/the_kai_project_assets/main/kakomon/institute-of-science-tokyo/engineering/mech/2017/titech-201608-diffuser.svg",
+    "author": "祭音Myyura",
+    "sha256": "1f7a036ed5ba4d3755d4edc014d76a655e0051384f5cc5e878801995acb6276d",
+    "documents": [
+      "docs/institute-of-science-tokyo/engineering/mech/2017/mech_201608_4_2.md"
+    ],
+    "original_sources": [
+      "https://www.titech.ac.jp/admissions/pdf/82-mech-sc-h28.pdf"
+    ],
+    "sn_sources": [
+      "https://bloodystream.hatenadiary.jp/entry/2021/04/29/202236"
+    ]
+  },
+  {
+    "file": "../2017/titech-201608-lubrication.svg",
+    "url": "https://raw.githubusercontent.com/Myyura/the_kai_project_assets/main/kakomon/institute-of-science-tokyo/engineering/mech/2017/titech-201608-lubrication.svg",
+    "author": "祭音Myyura",
+    "sha256": "1989ece95e6ff09f9caf10a194334c9cdb7f285ef39b360590bad699bcd98dca",
+    "documents": [
+      "docs/institute-of-science-tokyo/engineering/mech/2017/mech_201608_4_1.md"
+    ],
+    "original_sources": [
+      "https://www.titech.ac.jp/admissions/pdf/82-mech-sc-h28.pdf"
+    ],
+    "sn_sources": [
+      "https://bloodystream.hatenadiary.jp/entry/2021/04/26/020259"
+    ]
+  },
+  {
+    "file": "../2019/titech-201808-eccentric-gap.svg",
+    "url": "https://raw.githubusercontent.com/Myyura/the_kai_project_assets/main/kakomon/institute-of-science-tokyo/engineering/mech/2019/titech-201808-eccentric-gap.svg",
+    "author": "祭音Myyura",
+    "sha256": "d16348bb135ade26cbda8890da4a7d44bf88d7b04ac878c1bd75967daab4a9ac",
+    "documents": [
+      "docs/institute-of-science-tokyo/engineering/mech/2019/mech_201808_4_2.md"
+    ],
+    "original_sources": [
+      "https://www.titech.ac.jp/admissions/pdf/82-mech-h30.pdf"
+    ],
+    "sn_sources": [
+      "https://bloodystream.hatenadiary.jp/entry/2021/05/06/003000"
+    ]
+  },
+  {
+    "file": "../2022/science-202108-jet.svg",
+    "url": "https://raw.githubusercontent.com/Myyura/the_kai_project_assets/main/kakomon/institute-of-science-tokyo/engineering/mech/2022/science-202108-jet.svg",
+    "author": "祭音Myyura",
+    "sha256": "495ca15b21403c57ee01a527b00f2d55583836590c70ba5bf34095a2b7218986",
+    "documents": [
+      "docs/institute-of-science-tokyo/engineering/mech/2022/mech_202108_4_1.md"
+    ],
+    "original_sources": [
+      "https://admissions.isct.ac.jp/plugins/cms/component_download_file.php?type=1&pageId=3186&contentsId=&contentsDataId=&prevId=&key=fd8e1a22d9974f5a988fdbd9379b05c2.pdf&fileName=exam_mech_20218"
+    ],
+    "sn_sources": [
+      "https://bloodystream.hatenadiary.jp/entry/2025/04/13/211500"
+    ]
+  }
+]
