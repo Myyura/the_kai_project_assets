@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns2="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" width="257.366284" height="317.39952" viewBox="516 15 257.366284 317.39952" version="1.1" preserveAspectRatio="xMidYMid meet">
+ <defs><style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ <clipPath id="p4ae1e1cab2">
+   <rect x="7.2" y="47.231511" width="182.966284" height="277.968009" />
+  </clipPath>
+  <clipPath id="pc77b5b2373">
+   <rect x="295.2" y="47.231511" width="182.966284" height="277.968009" />
+  </clipPath>
+  <clipPath id="p82e8873be9">
+   <rect x="583.2" y="47.231511" width="182.966284" height="277.968009" />
+  </clipPath>
+ </defs><rect x="516" y="15" width="257.366284" height="317.39952" fill="white" /><metadata>
+  <rdf:RDF>
+   <ns2:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+    <dc:date>2026-10-13T13:53:38.280944</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <ns2:Agent>
+      <dc:title>祭音Myyura</dc:title>
+     </ns2:Agent>
+    </dc:creator>
+   </ns2:Work>
+  </rdf:RDF>
+ </metadata>
+ <g id="figure_1">
+  <g id="axes_3">
+   <g id="patch_13">
+    <path d="M 604.311494 268.902202  L 745.05479 268.902202  L 745.05479 92.973082  L 604.311494 92.973082  z " clip-path="url(#p82e8873be9)" style="fill: #eff5fa; stroke: #245887; stroke-width: 1.5; stroke-linejoin: miter" />
+   </g>
+   <g id="patch_14">
+    <path d="M 674.683142 206.271435  C 681.401743 206.271435 687.846071 203.602107 692.596839 198.851339  C 697.347607 194.100571 700.016935 187.656243 700.016935 180.937642  C 700.016935 174.219042 697.347607 167.774713 692.596839 163.023945  C 687.846071 158.273177 681.401743 155.603849 674.683142 155.603849  C 667.964542 155.603849 661.520213 158.273177 656.769445 163.023945  C 652.018677 167.774713 649.349349 174.219042 649.349349 180.937642  C 649.349349 187.656243 652.018677 194.100571 656.769445 198.851339  C 661.520213 203.602107 667.964542 206.271435 674.683142 206.271435  z " clip-path="url(#p82e8873be9)" style="fill: #ffffff; stroke: #245887; stroke-width: 1.4; stroke-linejoin: miter" />
+   </g>
+   <g id="line2d_5">
+    <path d="M 604.311494 180.937642  L 649.349349 180.937642  " clip-path="url(#p82e8873be9)" style="fill: none; stroke: #b92c40; stroke-width: 3; stroke-linecap: square" />
+   </g>
+   <g id="line2d_6">
+    <path d="M 700.016935 180.937642  L 745.05479 180.937642  " clip-path="url(#p82e8873be9)" style="fill: none; stroke: #b92c40; stroke-width: 3; stroke-linecap: square" />
+   </g>
+   <g id="patch_15">
+    <path d="M 674.683142 90.97584  Q 674.683142 75.380205 674.683142 62.020637  " style="fill: none; stroke: #245887; stroke-width: 2; stroke-linecap: round" />
+    <path d="M 672.083142 67.220637  L 674.683142 62.020637  L 677.283142 67.220637  z " style="fill: #245887; stroke: #245887; stroke-width: 2; stroke-linecap: round" />
+   </g>
+   <g id="patch_16">
+    <path d="M 674.683142 270.904598  Q 674.683142 283.680808 674.683142 294.22095  " style="fill: none; stroke: #245887; stroke-width: 2; stroke-linecap: round" />
+    <path d="M 677.283142 289.02095  L 674.683142 294.22095  L 672.083142 289.02095  z " style="fill: #245887; stroke: #245887; stroke-width: 2; stroke-linecap: round" />
+   </g>
+   <g id="text_8">
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #245887" x="683.12774" y="75.38017" transform="rotate(-0 683.12774 75.38017)">F/2 per cover</text>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: middle" x="674.683142" y="314.643773" transform="rotate(-0 674.683142 314.643773)">Net-section fracture of a cover</text>
+   </g>
+   <g id="text_10">
+    <text style="font-weight: 700; font-size: 13.2px; font-family: 'DejaVu Sans'; text-anchor: middle" x="674.683142" y="37.231511" transform="rotate(-0 674.683142 37.231511)">(c) Cover-plate tension</text>
+   </g>
+  </g>
+  </g>
+ </svg>

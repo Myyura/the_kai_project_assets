@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns2="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" width="258" height="317.39952" viewBox="0 15 258 317.39952" version="1.1" preserveAspectRatio="xMidYMid meet">
+ <defs><style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ <clipPath id="p4ae1e1cab2">
+   <rect x="7.2" y="47.231511" width="182.966284" height="277.968009" />
+  </clipPath>
+  <clipPath id="pc77b5b2373">
+   <rect x="295.2" y="47.231511" width="182.966284" height="277.968009" />
+  </clipPath>
+  <clipPath id="p82e8873be9">
+   <rect x="583.2" y="47.231511" width="182.966284" height="277.968009" />
+  </clipPath>
+ </defs><rect x="0" y="15" width="258" height="317.39952" fill="white" /><metadata>
+  <rdf:RDF>
+   <ns2:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+    <dc:date>2026-10-13T13:53:38.280944</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <ns2:Agent>
+      <dc:title>祭音Myyura</dc:title>
+     </ns2:Agent>
+    </dc:creator>
+   </ns2:Work>
+  </rdf:RDF>
+ </metadata>
+ <g id="figure_1">
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 28.311494 268.902202  L 169.05479 268.902202  L 169.05479 92.973082  L 28.311494 92.973082  z " clip-path="url(#p4ae1e1cab2)" style="fill: #dde5ec; stroke: #245887; stroke-width: 1.5; stroke-linejoin: miter" />
+   </g>
+   <g id="patch_3">
+    <path d="M 98.683142 223.864347  C 105.401743 223.864347 111.846071 221.195019 116.596839 216.444251  C 121.347607 211.693483 124.016935 205.249154 124.016935 198.530554  C 124.016935 191.811953 121.347607 185.367625 116.596839 180.616857  C 111.846071 175.866089 105.401743 173.196761 98.683142 173.196761  C 91.964542 173.196761 85.520213 175.866089 80.769445 180.616857  C 76.018677 185.367625 73.349349 191.811953 73.349349 198.530554  C 73.349349 205.249154 76.018677 211.693483 80.769445 216.444251  C 85.520213 221.195019 91.964542 223.864347 98.683142 223.864347  z " clip-path="url(#p4ae1e1cab2)" style="fill: #ffffff; stroke: #245887; stroke-width: 1.4; stroke-linejoin: miter" />
+   </g>
+   <g id="patch_4">
+    <path d="M 98.683142 239.34611  C 105.868312 239.34611 112.760163 235.490413 117.840846 228.628193  C 122.921528 221.765973 125.776227 212.457498 125.776227 202.752853  C 125.776227 193.048208 122.921528 183.739733 117.840846 176.877513  C 112.760163 170.015292 105.868312 166.159596 98.683142 166.159596  C 91.497972 166.159596 84.606121 170.015292 79.525438 176.877513  C 74.444756 183.739733 71.590058 193.048208 71.590058 202.752853  C 71.590058 212.457498 74.444756 221.765973 79.525438 228.628193  C 84.606121 235.490413 91.497972 239.34611 98.683142 239.34611  L 98.683142 239.34611  z " clip-path="url(#p4ae1e1cab2)" style="fill: none; stroke-dasharray: 7.4,3.2; stroke-dashoffset: 0; stroke: #b92c40; stroke-width: 2; stroke-linejoin: miter" />
+   </g>
+   <g id="patch_5">
+    <path d="M 74.212577 205.087422  C 75.655704 210.473244 78.837316 215.234863 83.260906 218.629203  C 87.684496 222.023543 93.107329 223.864347 98.683142 223.864347  C 104.258955 223.864347 109.681788 222.023543 114.105378 218.629203  C 118.528968 215.234863 121.710581 210.473244 123.153707 205.087422  " clip-path="url(#p4ae1e1cab2)" style="fill: none; stroke: #b92c40; stroke-width: 5; stroke-linejoin: miter" />
+   </g>
+   <g id="patch_6">
+    <path d="M 98.683142 90.97584  Q 98.683142 75.380205 98.683142 62.020637  " style="fill: none; stroke: #245887; stroke-width: 2; stroke-linecap: round" />
+    <path d="M 96.083142 67.220637  L 98.683142 62.020637  L 101.283142 67.220637  z " style="fill: #245887; stroke: #245887; stroke-width: 2; stroke-linecap: round" />
+   </g>
+   <g id="text_1">
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #245887" x="107.12774" y="75.38017" transform="rotate(-0 107.12774 75.38017)">F = Pb</text>
+   </g>
+   <g id="patch_7">
+    <path d="M 98.683142 186.455614  Q 98.683142 209.086493 98.683142 229.481304  " style="fill: none; stroke: #245887; stroke-width: 2; stroke-linecap: round" />
+    <path d="M 101.283142 224.281304  L 98.683142 229.481304  L 96.083142 224.281304  z " style="fill: #245887; stroke: #245887; stroke-width: 2; stroke-linecap: round" />
+   </g>
+   <g id="text_2">
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: middle" x="98.683142" y="300.569443" transform="rotate(-0 98.683142 300.569443)">Hole wall crushes / elongates</text>
+   </g>
+   <g id="text_3">
+    <text style="font-weight: 700; font-size: 13.2px; font-family: 'DejaVu Sans'; text-anchor: middle" x="98.683142" y="37.231511" transform="rotate(-0 98.683142 37.231511)">(a) Bearing failure</text>
+   </g>
+  </g>
+  </g>
+ </svg>

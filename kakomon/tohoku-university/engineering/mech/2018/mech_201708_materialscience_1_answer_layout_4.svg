@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns2="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" width="249" height="249.9" viewBox="747 0 249 249.9" version="1.1" preserveAspectRatio="xMidYMid meet">
+ <defs><style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ <clipPath id="p4ebae69328">
+   <rect x="7.2" y="7.2" width="235.5" height="235.5" />
+  </clipPath>
+  <clipPath id="pa7d0a35987">
+   <rect x="255.9" y="7.2" width="235.5" height="235.5" />
+  </clipPath>
+  <clipPath id="pdac7a072b6">
+   <rect x="504.6" y="7.2" width="235.5" height="235.5" />
+  </clipPath>
+  <clipPath id="p4ed40c54f2">
+   <rect x="753.3" y="7.2" width="235.5" height="235.5" />
+  </clipPath>
+ </defs><rect x="747" y="0" width="249" height="249.9" fill="white" /><metadata>
+  <rdf:RDF>
+   <ns2:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+    <dc:date>2026-10-13T13:46:21.206433</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <ns2:Agent>
+      <dc:title>祭音Myyura</dc:title>
+     </ns2:Agent>
+    </dc:creator>
+   </ns2:Work>
+  </rdf:RDF>
+ </metadata>
+ <g id="figure_1">
+  <g id="axes_4">
+   <g id="patch_11">
+    <path d="M 871.05 207.375  C 891.660259 207.375 911.42915 199.186457 926.002803 184.612803  C 940.576457 170.03915 948.765 150.270259 948.765 129.66  C 948.765 109.049741 940.576457 89.28085 926.002803 74.707197  C 911.42915 60.133543 891.660259 51.945 871.05 51.945  C 850.439741 51.945 830.67085 60.133543 816.097197 74.707197  C 801.523543 89.28085 793.335 109.049741 793.335 129.66  C 793.335 150.270259 801.523543 170.03915 816.097197 184.612803  C 830.67085 199.186457 850.439741 207.375 871.05 207.375  L 871.05 207.375  z " clip-path="url(#p4ed40c54f2)" style="fill: none; stroke: #2166ac; stroke-width: 2; stroke-linejoin: miter" />
+   </g>
+   <g id="patch_12">
+    <path d="M 828.66 150.6195  C 829.222098 150.6195 829.76125 150.396176 830.158713 149.998713  C 830.556176 149.60125 830.7795 149.062098 830.7795 148.5  C 830.7795 147.937902 830.556176 147.39875 830.158713 147.001287  C 829.76125 146.603824 829.222098 146.3805 828.66 146.3805  C 828.097902 146.3805 827.55875 146.603824 827.161287 147.001287  C 826.763824 147.39875 826.5405 147.937902 826.5405 148.5  C 826.5405 149.062098 826.763824 149.60125 827.161287 149.998713  C 827.55875 150.396176 828.097902 150.6195 828.66 150.6195  z " clip-path="url(#p4ed40c54f2)" style="fill: #1d3146; stroke: #1d3146; stroke-linejoin: miter" />
+   </g>
+   <g id="patch_13">
+    <path d="M 913.44 150.6195  C 914.002098 150.6195 914.54125 150.396176 914.938713 149.998713  C 915.336176 149.60125 915.5595 149.062098 915.5595 148.5  C 915.5595 147.937902 915.336176 147.39875 914.938713 147.001287  C 914.54125 146.603824 914.002098 146.3805 913.44 146.3805  C 912.877902 146.3805 912.33875 146.603824 911.941287 147.001287  C 911.543824 147.39875 911.3205 147.937902 911.3205 148.5  C 911.3205 149.062098 911.543824 149.60125 911.941287 149.998713  C 912.33875 150.396176 912.877902 150.6195 913.44 150.6195  z " clip-path="url(#p4ed40c54f2)" style="fill: #1d3146; stroke: #1d3146; stroke-linejoin: miter" />
+   </g>
+   <g id="line2d_3">
+    <path d="M 828.66 148.5  L 913.44 148.5  " clip-path="url(#p4ed40c54f2)" style="fill: none; stroke: #2166ac; stroke-width: 2.5; stroke-linecap: square" />
+   </g>
+   <g id="text_11">
+    <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #1d3146" x="871.05" y="169.678242" transform="rotate(-0 871.05 169.678242)">regenerated AB</text>
+   </g>
+   <g id="text_12">
+    <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #1d3146" x="828.66" y="162.612891" transform="rotate(-0 828.66 162.612891)">A</text>
+   </g>
+   <g id="text_13">
+    <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #1d3146" x="913.44" y="162.612891" transform="rotate(-0 913.44 162.612891)">B</text>
+   </g>
+   <g id="text_14">
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #1d3146" x="871.05" y="21.573047" transform="rotate(-0 871.05 21.573047)">(iv) Loop + new segment</text>
+   </g>
+  </g>
+ </g>
+ </svg>

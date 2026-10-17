@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns2="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" width="249" height="249.9" viewBox="0 0 249 249.9" version="1.1" preserveAspectRatio="xMidYMid meet">
+ <defs><style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ <clipPath id="p4ebae69328">
+   <rect x="7.2" y="7.2" width="235.5" height="235.5" />
+  </clipPath>
+  <clipPath id="pa7d0a35987">
+   <rect x="255.9" y="7.2" width="235.5" height="235.5" />
+  </clipPath>
+  <clipPath id="pdac7a072b6">
+   <rect x="504.6" y="7.2" width="235.5" height="235.5" />
+  </clipPath>
+  <clipPath id="p4ed40c54f2">
+   <rect x="753.3" y="7.2" width="235.5" height="235.5" />
+  </clipPath>
+ </defs><rect x="0" y="0" width="249" height="249.9" fill="white" /><metadata>
+  <rdf:RDF>
+   <ns2:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+    <dc:date>2026-10-13T13:46:21.206433</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <ns2:Agent>
+      <dc:title>祭音Myyura</dc:title>
+     </ns2:Agent>
+    </dc:creator>
+   </ns2:Work>
+  </rdf:RDF>
+ </metadata>
+ <g id="figure_1">
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 82.56 150.6195  C 83.122098 150.6195 83.66125 150.396176 84.058713 149.998713  C 84.456176 149.60125 84.6795 149.062098 84.6795 148.5  C 84.6795 147.937902 84.456176 147.39875 84.058713 147.001287  C 83.66125 146.603824 83.122098 146.3805 82.56 146.3805  C 81.997902 146.3805 81.45875 146.603824 81.061287 147.001287  C 80.663824 147.39875 80.4405 147.937902 80.4405 148.5  C 80.4405 149.062098 80.663824 149.60125 81.061287 149.998713  C 81.45875 150.396176 81.997902 150.6195 82.56 150.6195  z " clip-path="url(#p4ebae69328)" style="fill: #1d3146; stroke: #1d3146; stroke-linejoin: miter" />
+   </g>
+   <g id="patch_3">
+    <path d="M 167.34 150.6195  C 167.902098 150.6195 168.44125 150.396176 168.838713 149.998713  C 169.236176 149.60125 169.4595 149.062098 169.4595 148.5  C 169.4595 147.937902 169.236176 147.39875 168.838713 147.001287  C 168.44125 146.603824 167.902098 146.3805 167.34 146.3805  C 166.777902 146.3805 166.23875 146.603824 165.841287 147.001287  C 165.443824 147.39875 165.2205 147.937902 165.2205 148.5  C 165.2205 149.062098 165.443824 149.60125 165.841287 149.998713  C 166.23875 150.396176 166.777902 150.6195 167.34 150.6195  z " clip-path="url(#p4ebae69328)" style="fill: #1d3146; stroke: #1d3146; stroke-linejoin: miter" />
+   </g>
+   <g id="line2d_1">
+    <path d="M 82.56 148.5  L 167.34 148.5  " clip-path="url(#p4ebae69328)" style="fill: none; stroke: #2166ac; stroke-width: 2.5; stroke-linecap: square" />
+   </g>
+   <g id="text_1">
+    <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #1d3146" x="82.56" y="162.612891" transform="rotate(-0 82.56 162.612891)">A</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #1d3146" x="167.34" y="162.612891" transform="rotate(-0 167.34 162.612891)">B</text>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #1d3146" x="124.95" y="21.573047" transform="rotate(-0 124.95 21.573047)">(i) Pinned segment</text>
+   </g>
+   <g id="patch_4">
+    <path d="M 124.95 85.26917  Q 124.95 68.429142 124.95 53.601575  " style="fill: none; stroke: #b54b39; stroke-width: 1.8; stroke-linecap: round" />
+    <path d="M 122.55 58.401575  L 124.95 53.601575  L 127.35 58.401575  " style="fill: none; stroke: #b54b39; stroke-width: 1.8; stroke-linecap: round" />
+   </g>
+  </g>
+  </g>
+ </svg>
