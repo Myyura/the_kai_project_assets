@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="760" viewBox="0 0 520 760" role="img" aria-labelledby="title desc">
+<title id="title">問1(2)：四つの状態遷移図</title>
+<desc id="desc">初期状態と唯一の受理状態はq0。すべてq0からa,bでq1へ移る。q1の遷移は(i)両方q1、(ii)aでq0、(iii)bでq0、(iv)両方q0。</desc>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#26374a"/></marker></defs>
+<rect width="520" height="760" fill="white"/>
+<g stroke="#26374a" stroke-width="2.2" fill="none" marker-end="url(#arrow)">
+<path d="M 70 110 L 120 110"/>
+<path d="M 178 101 Q 250 65 322 101"/>
+<path d="M 333 87 C 301 15 399 15 367 87"/>
+<path d="M 70 290 L 120 290"/>
+<path d="M 178 281 Q 250 245 322 281"/>
+<path d="M 322 300 Q 250 345 178 300"/>
+<path d="M 333 267 C 301 195 399 195 367 267"/>
+<path d="M 70 470 L 120 470"/>
+<path d="M 178 461 Q 250 425 322 461"/>
+<path d="M 322 480 Q 250 525 178 480"/>
+<path d="M 333 447 C 301 375 399 375 367 447"/>
+<path d="M 70 650 L 120 650"/>
+<path d="M 178 641 Q 250 605 322 641"/>
+<path d="M 322 660 Q 250 705 178 660"/>
+</g><g stroke="#26374a" stroke-width="2.2" fill="#f4f8fb">
+<circle cx="150" cy="110" r="28"/>
+<circle cx="150" cy="110" r="22"/>
+<circle cx="350" cy="110" r="28"/>
+<circle cx="150" cy="290" r="28"/>
+<circle cx="150" cy="290" r="22"/>
+<circle cx="350" cy="290" r="28"/>
+<circle cx="150" cy="470" r="28"/>
+<circle cx="150" cy="470" r="22"/>
+<circle cx="350" cy="470" r="28"/>
+<circle cx="150" cy="650" r="28"/>
+<circle cx="150" cy="650" r="22"/>
+<circle cx="350" cy="650" r="28"/>
+</g><g font-family="Georgia, serif" font-size="25" fill="#17283a" text-anchor="middle">
+<text x="150" y="118">q<tspan baseline-shift="sub" font-size="17">0</tspan></text>
+<text x="350" y="118">q<tspan baseline-shift="sub" font-size="17">1</tspan></text>
+<text x="250" y="75" font-style="italic">a,b</text>
+<text x="350" y="28" font-style="italic">a,b</text>
+<text x="50" y="55" font-size="22">(i)</text>
+<text x="150" y="298">q<tspan baseline-shift="sub" font-size="17">0</tspan></text>
+<text x="350" y="298">q<tspan baseline-shift="sub" font-size="17">1</tspan></text>
+<text x="250" y="255" font-style="italic">a,b</text>
+<text x="250" y="354" font-style="italic">a</text>
+<text x="350" y="208" font-style="italic">b</text>
+<text x="50" y="235" font-size="22">(ii)</text>
+<text x="150" y="478">q<tspan baseline-shift="sub" font-size="17">0</tspan></text>
+<text x="350" y="478">q<tspan baseline-shift="sub" font-size="17">1</tspan></text>
+<text x="250" y="435" font-style="italic">a,b</text>
+<text x="250" y="534" font-style="italic">b</text>
+<text x="350" y="388" font-style="italic">a</text>
+<text x="50" y="415" font-size="22">(iii)</text>
+<text x="150" y="658">q<tspan baseline-shift="sub" font-size="17">0</tspan></text>
+<text x="350" y="658">q<tspan baseline-shift="sub" font-size="17">1</tspan></text>
+<text x="250" y="615" font-style="italic">a,b</text>
+<text x="250" y="714" font-style="italic">a,b</text>
+<text x="50" y="595" font-size="22">(iv)</text>
+</g></svg>
